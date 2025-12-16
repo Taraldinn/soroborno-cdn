@@ -86,21 +86,11 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
 
             {/* Preview */}
             <div className="p-6 bg-slate-50 dark:bg-slate-900/50">
-                <style
-                    dangerouslySetInnerHTML={{
-                        __html: `
-              @font-face {
-                font-family: 'Preview-${font.slug}';
-                src: url('/fonts/${font.slug}/${font.files[0]}') format('truetype');
-                font-display: swap;
-              }
-            `,
-                    }}
-                />
+                <link rel="stylesheet" href={font.cssUrl} />
                 <p
                     className="text-slate-800 dark:text-slate-200 leading-relaxed break-words"
                     style={{
-                        fontFamily: `'Preview-${font.slug}', sans-serif`,
+                        fontFamily: `'${font.name}', sans-serif`,
                         fontSize: `${previewSize}px`,
                         fontWeight: parseInt(selectedWeight),
                     }}
@@ -137,10 +127,13 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                         {copied === 'css' ? 'কপি হয়েছে!' : 'CSS রুল'}
                     </button>
 
+                </div>
+
+                <div className="flex gap-2">
                     <a
                         href={`/fonts/${font.slug}/${font.files[0]}`}
                         download
-                        className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-white bg-sky-500 hover:bg-sky-600 rounded-xl transition-colors ml-auto"
+                        className="w-full flex items-center justify-center gap-2 px-3 py-2 text-sm font-medium text-white bg-sky-500 hover:bg-sky-600 rounded-xl transition-colors"
                     >
                         <Download className="w-4 h-4" />
                         ডাউনলোড

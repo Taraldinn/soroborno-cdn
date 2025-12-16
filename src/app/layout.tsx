@@ -2,6 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { Navbar } from '@/components/Navbar';
 import { ThemeProvider } from '@/components/ThemeProvider';
+import { FontProvider } from '@/components/FontProvider';
+import { SettingsDrawer } from '@/components/SettingsDrawer';
 
 export const metadata: Metadata = {
     title: 'স্বরবর্ন সিডিএন - ওপেন সোর্স বাংলা ফন্ট লাইব্রেরি',
@@ -15,12 +17,18 @@ export default function RootLayout({
 }) {
     return (
         <html lang="bn" suppressHydrationWarning>
-            <body className="bg-white dark:bg-slate-950 text-slate-900 dark:text-white transition-colors duration-300">
+            <body
+                className="bg-white dark:bg-slate-950 text-slate-900 dark:text-white transition-colors duration-300"
+                suppressHydrationWarning
+            >
                 <ThemeProvider>
-                    <div className="min-h-screen">
-                        <Navbar />
-                        <main>{children}</main>
-                    </div>
+                    <FontProvider>
+                        <div className="min-h-screen">
+                            <Navbar />
+                            <main>{children}</main>
+                            <SettingsDrawer />
+                        </div>
+                    </FontProvider>
                 </ThemeProvider>
             </body>
         </html>

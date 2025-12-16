@@ -1,5 +1,68 @@
 [
   {
+    "slug": "July-Font",
+    "name": "July Font",
+    "description": "July Font font.",
+    "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400",
+      "700"
+    ],
+    "files": [
+      "July-Bold-Italic.ttf",
+      "July-Bold.ttf",
+      "July-Italic.ttf",
+      "July-Regular.ttf"
+    ],
+    "cssUrl": "/fonts/July-Font/font.css",
+    "previewUrl": "/fonts/July-Font/July-Bold-Italic.ttf"
+  },
+  {
+    "slug": "Purno",
+    "name": "Purno",
+    "description": "Purno font.",
+    "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400",
+      "600",
+      "700"
+    ],
+    "files": [
+      "BCC Purno Black Italic.ttf",
+      "BCC Purno Black.ttf",
+      "BCC Purno Bold-Italic.ttf",
+      "BCC Purno Bold.ttf",
+      "BCC Purno Italic.ttf",
+      "BCC Purno Regular.ttf",
+      "BCC Purno Semibold-Italic.ttf",
+      "BCC Purno Semibold.ttf",
+      "BCC Purno Black Italic.ttf",
+      "BCC Purno Black.ttf",
+      "BCC Purno Bold-Italic.ttf",
+      "BCC Purno Bold.ttf",
+      "BCC Purno Italic.ttf",
+      "BCC Purno Regular.ttf",
+      "BCC Purno Semibold-Italic.ttf",
+      "BCC Purno Semibold.ttf",
+      "BCC Purno Black Italic.otf",
+      "BCC Purno Black.otf",
+      "BCC Purno Bold-Italic.otf",
+      "BCC Purno Bold.otf",
+      "BCC Purno Italic.otf",
+      "BCC Purno Regular.otf",
+      "BCC Purno Semibold-Italic.otf",
+      "BCC Purno Semibold.otf",
+      "BCC Purno.woff",
+      "BCC Purno.woff2"
+    ],
+    "cssUrl": "/fonts/Purno/font.css",
+    "previewUrl": "/fonts/Purno/BCC Purno Black Italic.ttf"
+  },
+  {
     "slug": "adorsho-lipi",
     "name": "Adorsho Lipi",
     "description": "Adorsho Lipi is a versatile font sourced from cgimagine, designed to provide clear and elegant text for various applications.",

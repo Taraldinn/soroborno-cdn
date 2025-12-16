@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { Github, Type, Moon, Sun } from 'lucide-react';
 import { useTheme } from './ThemeProvider';
 
+
 export function Navbar() {
     const { theme, toggleTheme } = useTheme();
 
