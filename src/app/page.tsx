@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { Github, Terminal, Zap, Globe, Type, Check } from 'lucide-react';
+import { Stats } from '../components/Stats';
 
 export default function HomePage() {
     const steps = [
@@ -50,12 +51,12 @@ export default function HomePage() {
                         </div>
 
                         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-slate-900 dark:text-white mb-6 leading-tight">
-                            গিটহাবে ফন্ট পুশ করুন,{' '}
-                            <span className="gradient-text">সিডিএন লিংক পান</span>
+                            বাংলা হোক,{' '}
+                            <span className="gradient-text">সমৃদ্ধ</span>
                         </h1>
 
                         <p className="text-lg sm:text-xl text-slate-600 dark:text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
-                            বাংলা ফন্ট হোস্টিং এর সবচেয়ে সহজ উপায়। কোনো সার্ভার কনফিগারেশন ছাড়াই আপনার গিটহাব রিপোজিটরি থেকে সরাসরি ফন্ট সার্ভ করুন।
+                            বাংলা ফন্ট হোস্টিং এর সবচেয়ে সহজ উপায়। কোনো সার্ভার কনফিগারেশন ছাড়াই সাইট থেকে সিডিএন লিঙ্ক এর মাধ্যমে ফন্ট সার্ভ করুন।
                         </p>
 
                         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -88,7 +89,7 @@ export default function HomePage() {
                                 </div>
                                 <div className="font-mono text-sm text-left overflow-x-auto">
                                     <div className="text-slate-400">
-                                        <span className="text-purple-400">@import</span> url(<span className="text-green-400">'https://your-domain.com/fonts/baloo-da-2/font.css'</span>);
+                                        <span className="text-purple-400">@import</span> url(<span className="text-green-400">'https://cdn.jsdelivr.net/gh/yourusername/webfont-cdn@master/fonts/baloo-da-2/font.css'</span>);
                                     </div>
                                     <div className="text-slate-400 mt-4">
                                         <span className="text-purple-400">body</span> {'{'}
@@ -105,6 +106,9 @@ export default function HomePage() {
                     </div>
                 </div>
             </section>
+
+            {/* Stats Section */}
+            <Stats />
 
             {/* Features Section */}
             <section id="features" className="py-24 bg-slate-50 dark:bg-slate-900/50">
