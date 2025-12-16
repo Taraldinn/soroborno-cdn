@@ -68,7 +68,7 @@ export default function HomePage() {
                                 ফন্ট লাইব্রেরি দেখুন
                             </Link>
                             <a
-                                href="https://github.com/yourusername/webfont-cdn"
+                                href="https://github.com/Taraldinn/soroborno-cdn"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="w-full sm:w-auto px-8 py-4 bg-white dark:bg-slate-800 text-slate-900 dark:text-white border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 rounded-xl font-semibold transition-all hover:scale-105 flex items-center justify-center gap-2"
@@ -89,7 +89,7 @@ export default function HomePage() {
                                 </div>
                                 <div className="font-mono text-sm text-left overflow-x-auto">
                                     <div className="text-slate-400">
-                                        <span className="text-purple-400">@import</span> url(<span className="text-green-400">'https://cdn.jsdelivr.net/gh/yourusername/webfont-cdn@master/fonts/baloo-da-2/font.css'</span>);
+                                        <span className="text-purple-400">@import</span> url(<span className="text-green-400">'https://cdn.jsdelivr.net/gh/Taraldinn/soroborno-cdn@master/fonts/baloo-da-2/font.css'</span>);
                                     </div>
                                     <div className="text-slate-400 mt-4">
                                         <span className="text-purple-400">body</span> {'{'}
@@ -156,7 +156,7 @@ export default function HomePage() {
                     </p>
 
                     <div className="flex gap-6">
-                        <a href="https://github.com" className="text-slate-400 hover:text-slate-600 dark:hover:text-slate-300">
+                        <a href="https://github.com/Taraldinn/soroborno-cdn" className="text-slate-400 hover:text-slate-600 dark:hover:text-slate-300">
                             <Github className="w-5 h-5" />
                         </a>
                     </div>

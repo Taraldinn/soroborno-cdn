@@ -20,7 +20,7 @@ A free, open-source webfont CDN delivery platform. Push WOFF fonts to your GitHu
 1. Sign in with GitHub
 2. Select your repository containing fonts
 3. Get CDN URLs like:
-   https://cdn.jsdelivr.net/gh/username/repo/fonts/MyFont.woff2
+   https://cdn.jsdelivr.net/gh/Taraldinn/soroborno-cdn/fonts/MyFont.woff2
 4. Use in your CSS!
 ```
 
@@ -35,7 +35,7 @@ A free, open-source webfont CDN delivery platform. Push WOFF fonts to your GitHu
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/webfont-cdn.git
+git clone https://github.com/Taraldinn/soroborno-cdn.git
 cd webfont-cdn
 
 # Install dependencies
@@ -65,7 +65,7 @@ After signing in, select a repository containing font files. The app will genera
 ```css
 @font-face {
   font-family: 'MyFont';
-  src: url('https://cdn.jsdelivr.net/gh/username/repo/fonts/MyFont.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Taraldinn/soroborno-cdn/fonts/MyFont.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;

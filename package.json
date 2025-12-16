@@ -2,6 +2,7 @@
     "name": "webfont-cdn",
     "version": "1.0.0",
     "private": true,
+    "repository": "https://github.com/Taraldinn/soroborno-cdn",
     "scripts": {
         "dev": "node scripts/build-fonts.mjs && next dev",
         "build": "node scripts/build-fonts.mjs && next build",

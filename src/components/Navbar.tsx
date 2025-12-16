@@ -74,7 +74,7 @@ export function Navbar() {
                             কিভাবে কাজ করে
                         </Link>
                         <a
-                            href="https://github.com/yourusername/webfont-cdn"
+                            href="https://github.com/Taraldinn/soroborno-cdn"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-sky-500 dark:hover:text-sky-400 transition-colors flex items-center gap-1.5"
