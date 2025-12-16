@@ -26,9 +26,12 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
     const [copied, setCopied] = useState<string | null>(null);
     const [selectedWeight, setSelectedWeight] = useState(font.weights[Math.floor(font.weights.length / 2)] || '400');
 
-    const baseUrl = typeof window !== 'undefined' ? window.location.origin : '';
-    const cssImport = `@import url('${baseUrl}/fonts/${font.slug}/font.css');`;
-    const htmlLink = `<link href="${baseUrl}/fonts/${font.slug}/font.css" rel="stylesheet">`;
+    // Use jsDelivr CDN for external links
+    const CDN_BASE = 'https://cdn.jsdelivr.net/gh/Taraldinn/soroborno-cdn@main/public';
+    const cdnUrl = `${CDN_BASE}/fonts/${font.slug}/font.css`;
+
+    const cssImport = `@import url('${cdnUrl}');`;
+    const htmlLink = `<link href="${cdnUrl}" rel="stylesheet">`;
     const cssRule = `font-family: '${font.name}', sans-serif;`;
 
     const copyText = async (text: string, type: string) => {
