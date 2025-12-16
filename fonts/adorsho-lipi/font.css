@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Adorsho Lipi';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('adorsho-lipi-v1.0.woff2') format('woff2'),
+    url('adorsho-lipi-v1.0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AdorshoLipi';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('adorsho-lipi-v1.0.woff2') format('woff2'),
+    url('adorsho-lipi-v1.0.ttf') format('truetype');
+}

@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Ekushey Lohit';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('ekushey-lohit-v2.0.1.woff2') format('woff2'),
+    url('ekushey-lohit-v2.0.1.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EkusheyLohit';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('ekushey-lohit-v2.0.1.woff2') format('woff2'),
+    url('ekushey-lohit-v2.0.1.ttf') format('truetype');
+}

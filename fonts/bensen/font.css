@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'BenSen';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('bensen-v1.0.woff2') format('woff2'),
+    url('bensen-v1.0.ttf') format('truetype');
+}

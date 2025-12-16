@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Vrinda';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('vrinda.woff2') format('woff2'),
+    url('vrinda.ttf') format('truetype');
+}

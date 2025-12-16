@@ -1,0 +1,5 @@
+name = "webfont-cdn"
+compatibility_date = "2024-01-01"
+
+[vars]
+NEXT_PUBLIC_APP_URL = "https://webfont-cdn.pages.dev"

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Bangla';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('bangla.woff2') format('woff2'),
+    url('bangla.ttf') format('truetype');
+}

@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Charu Chandan 3D';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('charu-chandan-3d-v1.10.woff2') format('woff2'),
+    url('charu-chandan-3d-v1.10.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CharuChandan3D';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('charu-chandan-3d-v1.10.woff2') format('woff2'),
+    url('charu-chandan-3d-v1.10.ttf') format('truetype');
+}

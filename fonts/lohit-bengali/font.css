@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Lohit Bengali';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('lohit-bengali-v2.5.1.woff2') format('woff2'),
+    url('lohit-bengali-v2.5.1.ttf') format('truetype');
+}

@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Siyam Rupali';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('siyam-rupali-v1.070.woff2') format('woff2'),
+    url('siyam-rupali-v1.070.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SiyamRupali';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('siyam-rupali-v1.070.woff2') format('woff2'),
+    url('siyam-rupali-v1.070.ttf') format('truetype');
+}

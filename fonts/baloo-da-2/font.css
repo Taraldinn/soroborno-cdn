@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Baloo Da 2';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('baloo-da-2.woff2') format('woff2'),
+    url('baloo-da-2.ttf') format('truetype');
+}

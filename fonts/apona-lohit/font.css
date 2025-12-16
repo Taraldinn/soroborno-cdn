@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Apona Lohit';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('apona-lohit-v1.01.woff2') format('woff2'),
+    url('apona-lohit-v1.01.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AponaLohit';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('apona-lohit-v1.01.woff2') format('woff2'),
+    url('apona-lohit-v1.01.ttf') format('truetype');
+}

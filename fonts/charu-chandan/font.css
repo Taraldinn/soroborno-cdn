@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Charu Chandan';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('charu-chandan-v2.20.woff2') format('woff2'),
+    url('charu-chandan-v2.20.ttf') format('truetype');
+}
