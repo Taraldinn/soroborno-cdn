@@ -31,6 +31,23 @@ export default function HomePage() {
 
     return (
         <div className="pt-16">
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{
+                    __html: JSON.stringify({
+                        '@context': 'https://schema.org',
+                        '@type': 'WebSite',
+                        name: 'Soroborno CDN',
+                        url: 'https://webfont-cdn.pages.dev',
+                        description: 'Open Source Bangla Font Library & CDN',
+                        potentialAction: {
+                            '@type': 'SearchAction',
+                            target: 'https://webfont-cdn.pages.dev/fonts?q={search_term_string}',
+                            'query-input': 'required name=search_term_string',
+                        },
+                    }),
+                }}
+            />
             {/* Hero Section */}
             <section className="relative overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-b from-sky-50 dark:from-sky-950/20 via-transparent to-transparent" />
