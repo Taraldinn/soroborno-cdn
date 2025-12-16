@@ -1,0 +1,336 @@
+[
+  {
+    "slug": "adorsho-lipi",
+    "name": "Adorsho Lipi",
+    "description": "Adorsho Lipi is a versatile font sourced from cgimagine, designed to provide clear and elegant text for various applications.",
+    "designer": "[Partha Sarathi Pal](mailto:p.s.pal.2006@gmail.com)",
+    "version": "1.00 (initial release)",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "adorsho-lipi-v1.0.ttf"
+    ],
+    "cssUrl": "/fonts/adorsho-lipi/font.css",
+    "previewUrl": "/fonts/adorsho-lipi/adorsho-lipi-v1.0.ttf"
+  },
+  {
+    "slug": "apona-lohit",
+    "name": "Apona Lohit",
+    "description": "Apona Lohit is an enhanced version of the Lohit font from Ekushey, featuring additional hinting for improved screen readability. It serves as a Unicode equivalent to the popular Boishakhi font. The TrueType hinting was initiated by Ershadul Haq and later refined by Alamgir Mohammed.",
+    "designer": "Unknown",
+    "version": "1.01",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "apona-lohit-v1.01.ttf"
+    ],
+    "cssUrl": "/fonts/apona-lohit/font.css",
+    "previewUrl": "/fonts/apona-lohit/apona-lohit-v1.01.ttf"
+  },
+  {
+    "slug": "baloo-da-2",
+    "name": "Baloo Da 2",
+    "description": "Baloo Da 2 is a modernized version of the original Baloo font family, specifically designed for Bengali script. It features a contemporary design with improved readability and versatile weight options, making it perfect for both display and text usage.",
+    "designer": "Noopur Datye, Sulekha Rajkumar and Ek Type",
+    "version": "1.700",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "baloo-da-2.ttf"
+    ],
+    "cssUrl": "/fonts/baloo-da-2/font.css",
+    "previewUrl": "/fonts/baloo-da-2/baloo-da-2.ttf"
+  },
+  {
+    "slug": "bangla",
+    "name": "Bangla",
+    "description": "The Bangla font is a versatile typeface sourced from PfEd, designed to support Bengali script in various digital formats.",
+    "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "bangla.ttf"
+    ],
+    "cssUrl": "/fonts/bangla/font.css",
+    "previewUrl": "/fonts/bangla/bangla.ttf"
+  },
+  {
+    "slug": "bensen",
+    "name": "BenSen",
+    "description": "BenSen is a unique font developed by [Subrata Sen](http://www.subratasen.com/), offering a distinctive style for both digital and print applications.",
+    "designer": "[Subrata Sen](http://www.subratasen.com/)",
+    "version": "1.00",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "bensen-v1.0.ttf"
+    ],
+    "cssUrl": "/fonts/bensen/font.css",
+    "previewUrl": "/fonts/bensen/bensen-v1.0.ttf"
+  },
+  {
+    "slug": "bensen-handwriting",
+    "name": "BenSen Handwriting",
+    "description": "BenSen Handwriting is a unique Bengali font that simulates natural handwriting, developed by [Subrata Sen](http://www.subratasen.com/). It brings a personal, handwritten feel to digital content while maintaining readability and Bengali script authenticity.",
+    "designer": "[Subrata Sen](http://www.subratasen.com/)",
+    "version": "1.00 June 17, 2009, initial release",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "bensen-handwriting-v1.0.ttf"
+    ],
+    "cssUrl": "/fonts/bensen-handwriting/font.css",
+    "previewUrl": "/fonts/bensen-handwriting/bensen-handwriting-v1.0.ttf"
+  },
+  {
+    "slug": "charu-chandan",
+    "name": "Charu Chandan",
+    "description": "Charu Chandan is an elegant Bengali font developed by [Charu Chandan](http://www.charuchandan.com/). It features a distinctive design that combines traditional Bengali calligraphic elements with modern typography, making it suitable for both decorative and functional uses.",
+    "designer": "[Chandan Acharja](mailto:chandan0112@gmail.com), Department of Graphic Design, Faculty of Fine Arts, University of Dhaka",
+    "version": "2.20",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "charu-chandan-v2.20.ttf"
+    ],
+    "cssUrl": "/fonts/charu-chandan/font.css",
+    "previewUrl": "/fonts/charu-chandan/charu-chandan-v2.20.ttf"
+  },
+  {
+    "slug": "charu-chandan-3d",
+    "name": "Charu Chandan 3D",
+    "description": "Charu Chandan 3D is a unique font designed to give a three-dimensional effect, adding depth and visual interest to your text. Font Source: [Charu Chandan](http://www.charuchandan.com/)",
+    "designer": "[Chandan Acharja](mailto:chandan0112@gmail.com), Department of Graphic Design, Faculty of Fine Arts, University of Dhaka",
+    "version": "1.10",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "charu-chandan-3d-v1.10.ttf"
+    ],
+    "cssUrl": "/fonts/charu-chandan-3d/font.css",
+    "previewUrl": "/fonts/charu-chandan-3d/charu-chandan-3d-v1.10.ttf"
+  },
+  {
+    "slug": "charu-chandan-hard-stroke",
+    "name": "Charu Chandan Hard Stroke",
+    "description": "Charu Chandan Hard Stroke is a distinctive font available from Charu Chandan, offering bold and impactful typography for various design needs. Font Source: [Charu Chandan](http://www.charuchandan.com/)",
+    "designer": "[Chandan Acharja](mailto:chandan0112@gmail.com), Department of Graphic Design, Faculty of Fine Arts, University of Dhaka",
+    "version": "2.00",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "charu-chandan-hard-stroke-v2.0.ttf"
+    ],
+    "cssUrl": "/fonts/charu-chandan-hard-stroke/font.css",
+    "previewUrl": "/fonts/charu-chandan-hard-stroke/charu-chandan-hard-stroke-v2.0.ttf"
+  },
+  {
+    "slug": "charukola-ultra-light",
+    "name": "Charukola Ultra Light",
+    "description": "Charukola Ultra Light is a font available through Charu Chandan, providing a sleek and modern typeface option for digital and print use. Font Source: [Charu Chandan](http://www.charuchandan.com/)",
+    "designer": "[Chandan Acharja](mailto:chandan0112@gmail.com), Department of Graphic Design, Faculty of Fine Arts, University of Dhaka",
+    "version": "1.20",
+    "license": "Open Source",
+    "weights": [
+      "300"
+    ],
+    "files": [
+      "charukola-ultra-light-v1.20.ttf"
+    ],
+    "cssUrl": "/fonts/charukola-ultra-light/font.css",
+    "previewUrl": "/fonts/charukola-ultra-light/charukola-ultra-light-v1.20.ttf"
+  },
+  {
+    "slug": "ekushey-lohit",
+    "name": "Ekushey Lohit",
+    "description": "[Ekushey Lohit](https://ekushey.org/font/ekushey-lohit/) is a Bengali font with glyphs derived from [Lohit Bengali](https://github.com/pravins/lohit/tree/master/bengali), originally designed by Automatic Control Equipments. The Unicode conversion was performed by Ekushey.",
+    "designer": "Unknown",
+    "version": "2.0.1",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "ekushey-lohit-v2.0.1.ttf"
+    ],
+    "cssUrl": "/fonts/ekushey-lohit/font.css",
+    "previewUrl": "/fonts/ekushey-lohit/ekushey-lohit-v2.0.1.ttf"
+  },
+  {
+    "slug": "kalpurush",
+    "name": "Kalpurush",
+    "description": "[Kalpurush](https://github.com/potasiyam/Kalpurush) is a serif styled free Bengali unicode font designed by [Md. Tanbin Islam Siyam](https://github.com/potasiyam) as part of the [Avro Free Bangla Font Project](http://www.omicronlab.com/). It is available through OmicronLab and aims to provide robust support for Bengali text rendering.",
+    "designer": "[Md. Tanbin Islam Siyam](mailto:tanbin@live.com)",
+    "version": "0.258 (post-5.2.0)",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "Kalpurush-v0.258.ttf"
+    ],
+    "cssUrl": "/fonts/kalpurush/font.css",
+    "previewUrl": "/fonts/kalpurush/Kalpurush-v0.258.ttf"
+  },
+  {
+    "slug": "lohit-bengali",
+    "name": "Lohit Bengali",
+    "description": "[Lohit Bengali](https://github.com/pravins/lohit/tree/master/bengali) is a widely-used Unicode-compliant Bengali font developed as part of the Lohit font family project. Originally designed by Automatic Control Equipments (Pune, India) and enhanced by various contributors, it has become a standard choice for Bengali text rendering across different platforms.",
+    "designer": "Lohit Fonts Project contributors",
+    "version": "2.5.3",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "lohit-bengali-v2.5.1.ttf"
+    ],
+    "cssUrl": "/fonts/lohit-bengali/font.css",
+    "previewUrl": "/fonts/lohit-bengali/lohit-bengali-v2.5.1.ttf"
+  },
+  {
+    "slug": "mukti",
+    "name": "Mukti",
+    "description": "[Mukti](https://github.com/mitradranirban/fonts-mukti) is a significant Bengali font developed by [Dr. Anirban Mitra](https://github.com/mitradranirban) under the [Free Bangla Font Project](https://www.nongnu.org/freebangfont/). It was created to provide a high-quality, free Bengali font with comprehensive Unicode support, making it particularly suitable for digital publishing and web content.",
+    "designer": "[Dr Anirban Mitra](mailto:mitra@erabangla.net)",
+    "version": "3.4.3",
+    "license": "Open Source",
+    "weights": [
+      "400",
+      "700"
+    ],
+    "files": [
+      "mukti-v3.4.3.ttf",
+      "muktibi-v3.4.3.ttf",
+      "muktibold-v3.4.3.ttf",
+      "muktiita-v3.4.3.ttf"
+    ],
+    "cssUrl": "/fonts/mukti/font.css",
+    "previewUrl": "/fonts/mukti/mukti-v3.4.3.ttf"
+  },
+  {
+    "slug": "nikosh",
+    "name": "Nikosh",
+    "description": "Nikosh is one of the most widely recognized and used Bengali fonts, particularly known for its traditional style and excellent readability. It has become a de facto standard in Bengali digital typography, especially in Bangladesh, where it's commonly used in government documents and publications.",
+    "designer": "Jowad Kazi, Omi Azad, Mozammel Sarker",
+    "version": "001.000",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "nikosh-v1.0.ttf"
+    ],
+    "cssUrl": "/fonts/nikosh/font.css",
+    "previewUrl": "/fonts/nikosh/nikosh-v1.0.ttf"
+  },
+  {
+    "slug": "noto-serif-bengali",
+    "name": "Noto Serif Bengali",
+    "description": "[Noto Serif Bengali](https://github.com/notofonts/bengali) is part of Google's comprehensive Noto font family, specifically designed to provide harmonious and elegant serif typography for Bengali script. Developed as part of Google's initiative to create a unified look across all languages on the web, it offers professional-grade typography with extensive character support.",
+    "designer": "Monotype Design Team",
+    "version": "2.003 (Phase 3)",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "300",
+      "400",
+      "700"
+    ],
+    "files": [
+      "noto-serif-bengali-bold-v2.003.ttf",
+      "noto-serif-bengali-light-v2.003.ttf",
+      "noto-serif-bengali-regular-v2.003.ttf",
+      "noto-serif-bengali.ttf"
+    ],
+    "cssUrl": "/fonts/noto-serif-bengali/font.css",
+    "previewUrl": "/fonts/noto-serif-bengali/noto-serif-bengali-bold-v2.003.ttf"
+  },
+  {
+    "slug": "siyam-rupali",
+    "name": "Siyam Rupali",
+    "description": "[Siyam Rupali](https://github.com/potasiyam/Siyam-Rupali) is a free Unicode based Bengali font hinted by [Md. Tanbin Islam Siyam](https://github.com/potasiyam). It is developed under [Avro Font Development Project](http://www.omicronlab.com). This font is derived from the font Rupali with better size, hinting and kerning to be used as a better display font. The designs of roman characters of the font are taken from the font Droid.",
+    "designer": "Unknown",
+    "version": "1.070",
+    "license": "Apache 2.0",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "siyam-rupali-v1.070.ttf"
+    ],
+    "cssUrl": "/fonts/siyam-rupali/font.css",
+    "previewUrl": "/fonts/siyam-rupali/siyam-rupali-v1.070.ttf"
+  },
+  {
+    "slug": "solaiman-lipi",
+    "name": "SolaimanLipi",
+    "description": "[SolaimanLipi](https://ekushey.org/font/solaimanlipi/) is a Unicode-compliant Bangla font designed by [Solaiman Karim](https://ekushey.org/designer/solaiman-karim/) in 2003. It was developed as part of the [Ekushey project](https://ekushey.org/) and is redistributed by Altruists International. The font supports complete Bengali Unicode range (U+0980-U+09FF).",
+    "designer": "[Solaiman Karim](mailto:solaiman@ekushey.org)",
+    "version": "2.002",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "100",
+      "400",
+      "700"
+    ],
+    "files": [
+      "solaimanlipi-bold-v1.0.ttf",
+      "solaimanlipi-normal-v1.0.ttf",
+      "solaimanlipi-thin-v1.0.ttf"
+    ],
+    "cssUrl": "/fonts/solaiman-lipi/font.css",
+    "previewUrl": "/fonts/solaiman-lipi/solaimanlipi-bold-v1.0.ttf"
+  },
+  {
+    "slug": "tiro-bangla",
+    "name": "Tiro Bangla",
+    "description": "[Tiro Bangla](https://www.tiro.com/fonts/tiro-bangla) is an elegant typeface crafted by renowned designers [John Hudson](https://www.tiro.com/team/john-hudson) and [Fiona Ross](https://www.tiro.com/team/fiona-ross), with valuable assistance from [Neelakash Kshetrimayum](https://www.tiro.com/team/neelakash-kshetrimayum). The font's heritage traces back to a typeface specifically designed for the prestigious Murty Classical Library of India book series.",
+    "designer": "- **Bangla:** John Hudson & Fiona Ross, assisted by Neelakash Kshetrimayum",
+    "version": "1.52",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "tiro-bangla-italic-v1.60.ttf",
+      "tiro-bangla-regular-v1.60.ttf"
+    ],
+    "cssUrl": "/fonts/tiro-bangla/font.css",
+    "previewUrl": "/fonts/tiro-bangla/tiro-bangla-italic-v1.60.ttf"
+  },
+  {
+    "slug": "vrinda",
+    "name": "Vrinda",
+    "description": "Vrinda is a traditional Bengali font that offers clean and legible typography, making it suitable for both digital content and print materials requiring Bengali script support.",
+    "designer": "Raghunath Joshi (Type Director), Vinay Saynekar",
+    "version": "1.03",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "vrinda.ttf"
+    ],
+    "cssUrl": "/fonts/vrinda/font.css",
+    "previewUrl": "/fonts/vrinda/vrinda.ttf"
+  }
+]

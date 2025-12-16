@@ -1,12 +1,11 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import { Providers } from '@/components/Providers';
 import { Navbar } from '@/components/Navbar';
+import { ThemeProvider } from '@/components/ThemeProvider';
 
 export const metadata: Metadata = {
-    title: 'Webfont CDN - Free Font Hosting via GitHub',
-    description: 'Push fonts to GitHub, get instant CDN URLs. Free, open-source webfont delivery powered by jsDelivr.',
-    keywords: ['webfont', 'cdn', 'font hosting', 'github', 'jsdelivr', 'free fonts'],
+    title: 'স্বরবর্ন সিডিএন - ওপেন সোর্স বাংলা ফন্ট লাইব্রেরি',
+    description: 'গিটহাবের মাধ্যমে আপনার পছন্দের ফন্টগুলো সিডিএন হিসেবে ব্যবহার করুন। বাংলা এবং অন্যান্য ফন্টের বিশাল সংগ্রহ।',
 };
 
 export default function RootLayout({
@@ -15,14 +14,14 @@ export default function RootLayout({
     children: React.ReactNode;
 }) {
     return (
-        <html lang="en" suppressHydrationWarning>
+        <html lang="bn" suppressHydrationWarning>
             <body className="bg-white dark:bg-slate-950 text-slate-900 dark:text-white transition-colors duration-300">
-                <Providers>
+                <ThemeProvider>
                     <div className="min-h-screen">
                         <Navbar />
                         <main>{children}</main>
                     </div>
-                </Providers>
+                </ThemeProvider>
             </body>
         </html>
     );

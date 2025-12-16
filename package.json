@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "private": true,
     "scripts": {
-        "dev": "next dev --turbopack",
-        "build": "next build",
+        "dev": "node scripts/build-fonts.mjs && next dev",
+        "build": "node scripts/build-fonts.mjs && next build",
         "start": "next start",
         "lint": "next lint",
         "preview": "npm run build && npx wrangler pages dev .next",

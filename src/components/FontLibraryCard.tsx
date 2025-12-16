@@ -55,7 +55,7 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                             {font.name}
                         </h3>
                         <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">
-                            by {font.designer}
+                            ডিজাইনার: {font.designer}
                         </p>
                     </div>
                     <div className="flex items-center gap-2">
@@ -73,8 +73,8 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                                 key={weight}
                                 onClick={() => setSelectedWeight(weight)}
                                 className={`px-3 py-1.5 text-xs font-medium rounded-lg transition-colors ${selectedWeight === weight
-                                        ? 'bg-sky-500 text-white'
-                                        : 'bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-600'
+                                    ? 'bg-sky-500 text-white'
+                                    : 'bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-600'
                                     }`}
                             >
                                 {weightName(weight)}
@@ -118,7 +118,7 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                         className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-200 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 rounded-xl transition-colors"
                     >
                         {copied === 'html' ? <Check className="w-4 h-4 text-green-500" /> : <Link2 className="w-4 h-4" />}
-                        {copied === 'html' ? 'Copied!' : 'Link'}
+                        {copied === 'html' ? 'কপি হয়েছে!' : 'লিংক'}
                     </button>
 
                     <button
@@ -126,7 +126,7 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                         className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-200 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 rounded-xl transition-colors"
                     >
                         {copied === 'import' ? <Check className="w-4 h-4 text-green-500" /> : <Code className="w-4 h-4" />}
-                        {copied === 'import' ? 'Copied!' : '@import'}
+                        {copied === 'import' ? 'কপি হয়েছে!' : '@ইম্পোর্ট'}
                     </button>
 
                     <button
@@ -134,7 +134,7 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                         className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-200 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 rounded-xl transition-colors"
                     >
                         {copied === 'css' ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
-                        {copied === 'css' ? 'Copied!' : 'CSS Rule'}
+                        {copied === 'css' ? 'কপি হয়েছে!' : 'CSS রুল'}
                     </button>
 
                     <a
@@ -143,7 +143,7 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                         className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-white bg-sky-500 hover:bg-sky-600 rounded-xl transition-colors ml-auto"
                     >
                         <Download className="w-4 h-4" />
-                        Download
+                        ডাউনলোড
                     </a>
                 </div>
             </div>
