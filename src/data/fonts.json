@@ -31,7 +31,8 @@
       "GoogleSans_17pt-SemiBoldItalic.ttf"
     ],
     "cssUrl": "/fonts/Google_Sans/font.css",
-    "previewUrl": "/fonts/Google_Sans/GoogleSans-Bold.ttf"
+    "previewUrl": "/fonts/Google_Sans/GoogleSans-Bold.ttf",
+    "downloadUrl": "/fonts/Google_Sans/Google_Sans.zip"
   },
   {
     "slug": "Hind_Siliguri",
@@ -55,7 +56,8 @@
       "HindSiliguri-SemiBold.ttf"
     ],
     "cssUrl": "/fonts/Hind_Siliguri/font.css",
-    "previewUrl": "/fonts/Hind_Siliguri/HindSiliguri-Bold.ttf"
+    "previewUrl": "/fonts/Hind_Siliguri/HindSiliguri-Bold.ttf",
+    "downloadUrl": "/fonts/Hind_Siliguri/Hind_Siliguri.zip"
   },
   {
     "slug": "July-Font",
@@ -75,7 +77,8 @@
       "July-Regular.ttf"
     ],
     "cssUrl": "/fonts/July-Font/font.css",
-    "previewUrl": "/fonts/July-Font/July-Bold-Italic.ttf"
+    "previewUrl": "/fonts/July-Font/July-Bold-Italic.ttf",
+    "downloadUrl": "/fonts/July-Font/July-Font.zip"
   },
   {
     "slug": "Kohinoor Bangla",
@@ -99,7 +102,8 @@
       "KohinoorBangla-Semibold.otf"
     ],
     "cssUrl": "/fonts/Kohinoor Bangla/font.css",
-    "previewUrl": "/fonts/Kohinoor Bangla/KohinoorBangla-Bold.otf"
+    "previewUrl": "/fonts/Kohinoor Bangla/KohinoorBangla-Bold.otf",
+    "downloadUrl": "/fonts/Kohinoor Bangla/Kohinoor Bangla.zip"
   },
   {
     "slug": "Purno",
@@ -142,7 +146,8 @@
       "BCC Purno.woff2"
     ],
     "cssUrl": "/fonts/Purno/font.css",
-    "previewUrl": "/fonts/Purno/BCC Purno Black Italic.ttf"
+    "previewUrl": "/fonts/Purno/BCC Purno Black Italic.ttf",
+    "downloadUrl": "/fonts/Purno/Purno.zip"
   },
   {
     "slug": "Tiro_Bangla",
@@ -159,7 +164,8 @@
       "TiroBangla-Regular.ttf"
     ],
     "cssUrl": "/fonts/Tiro_Bangla/font.css",
-    "previewUrl": "/fonts/Tiro_Bangla/TiroBangla-Italic.ttf"
+    "previewUrl": "/fonts/Tiro_Bangla/TiroBangla-Italic.ttf",
+    "downloadUrl": "/fonts/Tiro_Bangla/Tiro_Bangla.zip"
   },
   {
     "slug": "adorsho-lipi",
@@ -175,7 +181,8 @@
       "adorsho-lipi-v1.0.ttf"
     ],
     "cssUrl": "/fonts/adorsho-lipi/font.css",
-    "previewUrl": "/fonts/adorsho-lipi/adorsho-lipi-v1.0.ttf"
+    "previewUrl": "/fonts/adorsho-lipi/adorsho-lipi-v1.0.ttf",
+    "downloadUrl": "/fonts/adorsho-lipi/adorsho-lipi.zip"
   },
   {
     "slug": "apona-lohit",
@@ -191,7 +198,8 @@
       "apona-lohit-v1.01.ttf"
     ],
     "cssUrl": "/fonts/apona-lohit/font.css",
-    "previewUrl": "/fonts/apona-lohit/apona-lohit-v1.01.ttf"
+    "previewUrl": "/fonts/apona-lohit/apona-lohit-v1.01.ttf",
+    "downloadUrl": "/fonts/apona-lohit/apona-lohit.zip"
   },
   {
     "slug": "baloo-da-2",
@@ -207,7 +215,8 @@
       "baloo-da-2.ttf"
     ],
     "cssUrl": "/fonts/baloo-da-2/font.css",
-    "previewUrl": "/fonts/baloo-da-2/baloo-da-2.ttf"
+    "previewUrl": "/fonts/baloo-da-2/baloo-da-2.ttf",
+    "downloadUrl": "/fonts/baloo-da-2/baloo-da-2.zip"
   },
   {
     "slug": "bangla",
@@ -223,7 +232,8 @@
       "bangla.ttf"
     ],
     "cssUrl": "/fonts/bangla/font.css",
-    "previewUrl": "/fonts/bangla/bangla.ttf"
+    "previewUrl": "/fonts/bangla/bangla.ttf",
+    "downloadUrl": "/fonts/bangla/bangla.zip"
   },
   {
     "slug": "bensen",
@@ -239,7 +249,8 @@
       "bensen-v1.0.ttf"
     ],
     "cssUrl": "/fonts/bensen/font.css",
-    "previewUrl": "/fonts/bensen/bensen-v1.0.ttf"
+    "previewUrl": "/fonts/bensen/bensen-v1.0.ttf",
+    "downloadUrl": "/fonts/bensen/bensen.zip"
   },
   {
     "slug": "bensen-handwriting",
@@ -255,7 +266,8 @@
       "bensen-handwriting-v1.0.ttf"
     ],
     "cssUrl": "/fonts/bensen-handwriting/font.css",
-    "previewUrl": "/fonts/bensen-handwriting/bensen-handwriting-v1.0.ttf"
+    "previewUrl": "/fonts/bensen-handwriting/bensen-handwriting-v1.0.ttf",
+    "downloadUrl": "/fonts/bensen-handwriting/bensen-handwriting.zip"
   },
   {
     "slug": "charu-chandan",
@@ -271,7 +283,8 @@
       "charu-chandan-v2.20.ttf"
     ],
     "cssUrl": "/fonts/charu-chandan/font.css",
-    "previewUrl": "/fonts/charu-chandan/charu-chandan-v2.20.ttf"
+    "previewUrl": "/fonts/charu-chandan/charu-chandan-v2.20.ttf",
+    "downloadUrl": "/fonts/charu-chandan/charu-chandan.zip"
   },
   {
     "slug": "charu-chandan-3d",
@@ -287,7 +300,8 @@
       "charu-chandan-3d-v1.10.ttf"
     ],
     "cssUrl": "/fonts/charu-chandan-3d/font.css",
-    "previewUrl": "/fonts/charu-chandan-3d/charu-chandan-3d-v1.10.ttf"
+    "previewUrl": "/fonts/charu-chandan-3d/charu-chandan-3d-v1.10.ttf",
+    "downloadUrl": "/fonts/charu-chandan-3d/charu-chandan-3d.zip"
   },
   {
     "slug": "charu-chandan-hard-stroke",
@@ -303,7 +317,8 @@
       "charu-chandan-hard-stroke-v2.0.ttf"
     ],
     "cssUrl": "/fonts/charu-chandan-hard-stroke/font.css",
-    "previewUrl": "/fonts/charu-chandan-hard-stroke/charu-chandan-hard-stroke-v2.0.ttf"
+    "previewUrl": "/fonts/charu-chandan-hard-stroke/charu-chandan-hard-stroke-v2.0.ttf",
+    "downloadUrl": "/fonts/charu-chandan-hard-stroke/charu-chandan-hard-stroke.zip"
   },
   {
     "slug": "charukola-ultra-light",
@@ -319,7 +334,8 @@
       "charukola-ultra-light-v1.20.ttf"
     ],
     "cssUrl": "/fonts/charukola-ultra-light/font.css",
-    "previewUrl": "/fonts/charukola-ultra-light/charukola-ultra-light-v1.20.ttf"
+    "previewUrl": "/fonts/charukola-ultra-light/charukola-ultra-light-v1.20.ttf",
+    "downloadUrl": "/fonts/charukola-ultra-light/charukola-ultra-light.zip"
   },
   {
     "slug": "ekushey-lohit",
@@ -335,7 +351,8 @@
       "ekushey-lohit-v2.0.1.ttf"
     ],
     "cssUrl": "/fonts/ekushey-lohit/font.css",
-    "previewUrl": "/fonts/ekushey-lohit/ekushey-lohit-v2.0.1.ttf"
+    "previewUrl": "/fonts/ekushey-lohit/ekushey-lohit-v2.0.1.ttf",
+    "downloadUrl": "/fonts/ekushey-lohit/ekushey-lohit.zip"
   },
   {
     "slug": "kalpurush",
@@ -351,7 +368,8 @@
       "Kalpurush-v0.258.ttf"
     ],
     "cssUrl": "/fonts/kalpurush/font.css",
-    "previewUrl": "/fonts/kalpurush/Kalpurush-v0.258.ttf"
+    "previewUrl": "/fonts/kalpurush/Kalpurush-v0.258.ttf",
+    "downloadUrl": "/fonts/kalpurush/kalpurush.zip"
   },
   {
     "slug": "lohit-bengali",
@@ -367,7 +385,8 @@
       "lohit-bengali-v2.5.1.ttf"
     ],
     "cssUrl": "/fonts/lohit-bengali/font.css",
-    "previewUrl": "/fonts/lohit-bengali/lohit-bengali-v2.5.1.ttf"
+    "previewUrl": "/fonts/lohit-bengali/lohit-bengali-v2.5.1.ttf",
+    "downloadUrl": "/fonts/lohit-bengali/lohit-bengali.zip"
   },
   {
     "slug": "mukti",
@@ -387,7 +406,8 @@
       "muktiita-v3.4.3.ttf"
     ],
     "cssUrl": "/fonts/mukti/font.css",
-    "previewUrl": "/fonts/mukti/mukti-v3.4.3.ttf"
+    "previewUrl": "/fonts/mukti/mukti-v3.4.3.ttf",
+    "downloadUrl": "/fonts/mukti/mukti.zip"
   },
   {
     "slug": "nikosh",
@@ -403,7 +423,8 @@
       "nikosh-v1.0.ttf"
     ],
     "cssUrl": "/fonts/nikosh/font.css",
-    "previewUrl": "/fonts/nikosh/nikosh-v1.0.ttf"
+    "previewUrl": "/fonts/nikosh/nikosh-v1.0.ttf",
+    "downloadUrl": "/fonts/nikosh/nikosh.zip"
   },
   {
     "slug": "noto-serif-bengali",
@@ -424,7 +445,8 @@
       "noto-serif-bengali.ttf"
     ],
     "cssUrl": "/fonts/noto-serif-bengali/font.css",
-    "previewUrl": "/fonts/noto-serif-bengali/noto-serif-bengali-bold-v2.003.ttf"
+    "previewUrl": "/fonts/noto-serif-bengali/noto-serif-bengali-bold-v2.003.ttf",
+    "downloadUrl": "/fonts/noto-serif-bengali/noto-serif-bengali.zip"
   },
   {
     "slug": "siyam-rupali",
@@ -440,7 +462,8 @@
       "siyam-rupali-v1.070.ttf"
     ],
     "cssUrl": "/fonts/siyam-rupali/font.css",
-    "previewUrl": "/fonts/siyam-rupali/siyam-rupali-v1.070.ttf"
+    "previewUrl": "/fonts/siyam-rupali/siyam-rupali-v1.070.ttf",
+    "downloadUrl": "/fonts/siyam-rupali/siyam-rupali.zip"
   },
   {
     "slug": "solaiman-lipi",
@@ -460,7 +483,8 @@
       "solaimanlipi-thin-v1.0.ttf"
     ],
     "cssUrl": "/fonts/solaiman-lipi/font.css",
-    "previewUrl": "/fonts/solaiman-lipi/solaimanlipi-bold-v1.0.ttf"
+    "previewUrl": "/fonts/solaiman-lipi/solaimanlipi-bold-v1.0.ttf",
+    "downloadUrl": "/fonts/solaiman-lipi/solaiman-lipi.zip"
   },
   {
     "slug": "tiro-bangla",
@@ -477,7 +501,8 @@
       "tiro-bangla-regular-v1.60.ttf"
     ],
     "cssUrl": "/fonts/tiro-bangla/font.css",
-    "previewUrl": "/fonts/tiro-bangla/tiro-bangla-italic-v1.60.ttf"
+    "previewUrl": "/fonts/tiro-bangla/tiro-bangla-italic-v1.60.ttf",
+    "downloadUrl": "/fonts/tiro-bangla/tiro-bangla.zip"
   },
   {
     "slug": "vrinda",
@@ -493,6 +518,7 @@
       "vrinda.ttf"
     ],
     "cssUrl": "/fonts/vrinda/font.css",
-    "previewUrl": "/fonts/vrinda/vrinda.ttf"
+    "previewUrl": "/fonts/vrinda/vrinda.ttf",
+    "downloadUrl": "/fonts/vrinda/vrinda.zip"
   }
 ]

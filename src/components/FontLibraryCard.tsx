@@ -14,6 +14,7 @@ interface FontInfo {
     files: string[];
     cssUrl: string;
     previewUrl: string;
+    downloadUrl: string;
 }
 
 interface FontLibraryCardProps {
@@ -138,12 +139,12 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
 
                 <div className="flex gap-2">
                     <a
-                        href={`/fonts/${font.slug}/${font.files[0]}`}
+                        href={font.downloadUrl}
                         download
                         className="w-full flex items-center justify-center gap-2 px-3 py-2 text-sm font-medium text-white bg-sky-500 hover:bg-sky-600 rounded-xl transition-colors"
                     >
                         <Download className="w-4 h-4" />
-                        ডাউনলোড
+                        ডাউনলোড (সকল ফন্ট)
                     </a>
                 </div>
             </div>

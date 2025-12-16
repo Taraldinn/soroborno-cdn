@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 
 const fontsDir = path.join(process.cwd(), 'fonts');
 const publicDir = path.join(process.cwd(), 'public');
@@ -151,6 +152,34 @@ if (fs.existsSync(fontsDir)) {
 
         const weights = [...new Set(fontFileNames.map(parseWeightFromFilename))].sort();
 
+        // Generate Zip
+        const zipFileName = `${folder}.zip`;
+        const zipFilePath = path.join(destPath, zipFileName);
+
+        // zip -j creates a flat zip (no directory structure inside)
+        // We use spawnSync or execSync. 
+        // We need to be careful with paths. 
+        // Let's cd into destPath and zip all files.
+        try {
+            // Remove existing zip if any
+            if (fs.existsSync(zipFilePath)) fs.unlinkSync(zipFilePath);
+
+            // Zip all font files
+            // -j: junk paths (do not store directory names)
+            // -r: recurse (though we flattened them already in destPath)
+            // We only want the font files in the zip, maybe the CSS too? User said "download all weight fonts". 
+            // Including CSS is nice but maybe not required. Let's just include the font files (ttf, otf, woff, etc).
+            // Actually, we flattened the files into destPath.
+            // Let's just zip everything in destPath except other zips if any.
+            // Command: zip -j [zipfile] [files...]
+
+            const fileArgs = fontFileNames.map(f => `"${f}"`).join(' ');
+            execSync(`zip -j "${zipFilePath}" ${fileArgs}`, { cwd: destPath });
+            // console.log(`Created zip for ${folder}`);
+        } catch (error) {
+            console.error(`Error zipping ${folder}:`, error);
+        }
+
         // In static export, files are in /fonts/[folder]/...
         // We can just use relative paths or absolute paths from root.
         // For the JSON, let's provide friendly URLs.
@@ -167,7 +196,8 @@ if (fs.existsSync(fontsDir)) {
             weights,
             files: fontFileNames,
             cssUrl: `/fonts/${folder}/font.css`, // Absolute path from site root
-            previewUrl: `/fonts/${folder}/${fontFileNames[0]}`
+            previewUrl: `/fonts/${folder}/${fontFileNames[0]}`,
+            downloadUrl: `/fonts/${folder}/${folder}.zip`
         });
     }
 }
