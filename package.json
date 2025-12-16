@@ -12,6 +12,7 @@
         "deploy": "npm run build && npx wrangler pages deploy .next"
     },
     "dependencies": {
+        "@vercel/analytics": "^1.6.1",
         "clsx": "^2.1.1",
         "lucide-react": "^0.468.0",
         "next": "16.0.10",
