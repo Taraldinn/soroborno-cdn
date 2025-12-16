@@ -1,5 +1,63 @@
 [
   {
+    "slug": "Google_Sans",
+    "name": "Google_Sans",
+    "description": "Google_Sans font.",
+    "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "files": [
+      "GoogleSans-Bold.ttf",
+      "GoogleSans-BoldItalic.ttf",
+      "GoogleSans-Italic.ttf",
+      "GoogleSans-Medium.ttf",
+      "GoogleSans-MediumItalic.ttf",
+      "GoogleSans-Regular.ttf",
+      "GoogleSans-SemiBold.ttf",
+      "GoogleSans-SemiBoldItalic.ttf",
+      "GoogleSans_17pt-Bold.ttf",
+      "GoogleSans_17pt-BoldItalic.ttf",
+      "GoogleSans_17pt-Italic.ttf",
+      "GoogleSans_17pt-Medium.ttf",
+      "GoogleSans_17pt-MediumItalic.ttf",
+      "GoogleSans_17pt-Regular.ttf",
+      "GoogleSans_17pt-SemiBold.ttf",
+      "GoogleSans_17pt-SemiBoldItalic.ttf"
+    ],
+    "cssUrl": "/fonts/Google_Sans/font.css",
+    "previewUrl": "/fonts/Google_Sans/GoogleSans-Bold.ttf"
+  },
+  {
+    "slug": "Hind_Siliguri",
+    "name": "Hind_Siliguri",
+    "description": "Hind_Siliguri font.",
+    "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "300",
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "files": [
+      "HindSiliguri-Bold.ttf",
+      "HindSiliguri-Light.ttf",
+      "HindSiliguri-Medium.ttf",
+      "HindSiliguri-Regular.ttf",
+      "HindSiliguri-SemiBold.ttf"
+    ],
+    "cssUrl": "/fonts/Hind_Siliguri/font.css",
+    "previewUrl": "/fonts/Hind_Siliguri/HindSiliguri-Bold.ttf"
+  },
+  {
     "slug": "July-Font",
     "name": "July Font",
     "description": "July Font font.",
@@ -18,6 +76,30 @@
     ],
     "cssUrl": "/fonts/July-Font/font.css",
     "previewUrl": "/fonts/July-Font/July-Bold-Italic.ttf"
+  },
+  {
+    "slug": "Kohinoor Bangla",
+    "name": "Kohinoor Bangla",
+    "description": "Kohinoor Bangla font.",
+    "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "300",
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "files": [
+      "KohinoorBangla-Bold.otf",
+      "KohinoorBangla-Light.otf",
+      "KohinoorBangla-Medium.otf",
+      "KohinoorBangla-Regular.otf",
+      "KohinoorBangla-Semibold.otf"
+    ],
+    "cssUrl": "/fonts/Kohinoor Bangla/font.css",
+    "previewUrl": "/fonts/Kohinoor Bangla/KohinoorBangla-Bold.otf"
   },
   {
     "slug": "Purno",
@@ -61,6 +143,23 @@
     ],
     "cssUrl": "/fonts/Purno/font.css",
     "previewUrl": "/fonts/Purno/BCC Purno Black Italic.ttf"
+  },
+  {
+    "slug": "Tiro_Bangla",
+    "name": "Tiro_Bangla",
+    "description": "Tiro_Bangla font.",
+    "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "TiroBangla-Italic.ttf",
+      "TiroBangla-Regular.ttf"
+    ],
+    "cssUrl": "/fonts/Tiro_Bangla/font.css",
+    "previewUrl": "/fonts/Tiro_Bangla/TiroBangla-Italic.ttf"
   },
   {
     "slug": "adorsho-lipi",

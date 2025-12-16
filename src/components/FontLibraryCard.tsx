@@ -98,7 +98,11 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                         fontWeight: parseInt(selectedWeight),
                     }}
                 >
-                    {previewText || 'The quick brown fox jumps over the lazy dog'}
+                    {previewText || `যাঁরা স্বর্গগত তাঁরা এখনও জানেন
+                                        স্বর্গের চেয়ে প্রিয় জন্মভূমি
+                                        এসো স্বদেশ ব্রতের মহা দীক্ষা লভি
+                                        সেই মৃত্যুঞ্জয়ীদের চরণ চুমি।।
+                                            `}
                 </p>
             </div>
 
