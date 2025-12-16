@@ -3,6 +3,8 @@
 import { useState } from 'react';
 import { Check, Copy, Code, Link2, Download } from 'lucide-react';
 
+import JSZip from 'jszip';
+
 interface FontInfo {
     slug: string;
     name: string;
@@ -14,7 +16,6 @@ interface FontInfo {
     files: string[];
     cssUrl: string;
     previewUrl: string;
-    downloadUrl: string;
 }
 
 interface FontLibraryCardProps {
@@ -26,6 +27,7 @@ interface FontLibraryCardProps {
 export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryCardProps) {
     const [copied, setCopied] = useState<string | null>(null);
     const [selectedWeight, setSelectedWeight] = useState(font.weights[Math.floor(font.weights.length / 2)] || '400');
+    const [isZipping, setIsZipping] = useState(false);
 
     // Use jsDelivr CDN for external links
     const CDN_BASE = 'https://cdn.jsdelivr.net/gh/Taraldinn/soroborno-cdn@main/public';
@@ -47,6 +49,44 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
             '500': 'Medium', '600': 'Semi Bold', '700': 'Bold', '800': 'Extra Bold', '900': 'Black',
         };
         return names[weight] || weight;
+    };
+
+    const handleDownload = async () => {
+        setIsZipping(true);
+        try {
+            const zip = new JSZip();
+            const folder = zip.folder(font.slug);
+
+            if (!folder) throw new Error('Failed to create folder in zip');
+
+            // Fetch all font files
+            const downloadPromises = font.files.map(async (fileName) => {
+                const response = await fetch(`/fonts/${font.slug}/${fileName}`);
+                if (!response.ok) throw new Error(`Failed to fetch ${fileName}`);
+                const blob = await response.blob();
+                folder.file(fileName, blob);
+            });
+
+            await Promise.all(downloadPromises);
+
+            // Generate zip blob
+            const content = await zip.generateAsync({ type: 'blob' });
+
+            // Trigger download
+            const url = window.URL.createObjectURL(content);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${font.slug}.zip`;
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(a);
+        } catch (error) {
+            console.error('Error zipping font:', error);
+            alert('ফন্ট প্যাকেজ ডাউনলোড করতে সমস্যা হয়েছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।');
+        } finally {
+            setIsZipping(false);
+        }
     };
 
     return (
@@ -138,14 +178,24 @@ export function FontLibraryCard({ font, previewText, previewSize }: FontLibraryC
                 </div>
 
                 <div className="flex gap-2">
-                    <a
-                        href={font.downloadUrl}
-                        download
-                        className="w-full flex items-center justify-center gap-2 px-3 py-2 text-sm font-medium text-white bg-sky-500 hover:bg-sky-600 rounded-xl transition-colors"
+                    <button
+                        onClick={handleDownload}
+                        disabled={isZipping}
+                        className={`w-full flex items-center justify-center gap-2 px-3 py-2 text-sm font-medium text-white rounded-xl transition-colors ${isZipping ? 'bg-sky-400 cursor-wait' : 'bg-sky-500 hover:bg-sky-600'
+                            }`}
                     >
-                        <Download className="w-4 h-4" />
-                        ডাউনলোড (সকল ফন্ট)
-                    </a>
+                        {isZipping ? (
+                            <>
+                                <div className="w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin" />
+                                জিপ করা হচ্ছে...
+                            </>
+                        ) : (
+                            <>
+                                <Download className="w-4 h-4" />
+                                ডাউনলোড (সকল ফন্ট)
+                            </>
+                        )}
+                    </button>
                 </div>
             </div>
         </div>

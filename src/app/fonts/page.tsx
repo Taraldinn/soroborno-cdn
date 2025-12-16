@@ -17,7 +17,6 @@ interface FontInfo {
     files: string[];
     cssUrl: string;
     previewUrl: string;
-    downloadUrl: string;
 }
 
 export default function FontsPage() {
