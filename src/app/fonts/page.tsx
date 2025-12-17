@@ -17,6 +17,7 @@ interface FontInfo {
     files: string[];
     cssUrl: string;
     previewUrl: string;
+    popularity?: number;
 }
 
 export default function FontsPage() {
@@ -24,6 +25,7 @@ export default function FontsPage() {
     const [fonts, setFonts] = useState<FontInfo[]>([]);
     const [loading, setLoading] = useState(true);
     const [searchQuery, setSearchQuery] = useState('');
+    const [sortBy, setSortBy] = useState<'popularity' | 'name_asc' | 'name_desc'>('popularity');
 
     useEffect(() => {
         fetchFonts();
@@ -50,10 +52,23 @@ export default function FontsPage() {
         }
     };
 
-    const filteredFonts = fonts.filter(font =>
-        font.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        font.designer.toLowerCase().includes(searchQuery.toLowerCase())
-    );
+    const filteredFonts = fonts
+        .filter(font =>
+            font.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            font.designer.toLowerCase().includes(searchQuery.toLowerCase())
+        )
+        .sort((a, b) => {
+            if (sortBy === 'popularity') {
+                return (b.popularity || 0) - (a.popularity || 0);
+            }
+            if (sortBy === 'name_asc') {
+                return a.name.localeCompare(b.name);
+            }
+            if (sortBy === 'name_desc') {
+                return b.name.localeCompare(a.name);
+            }
+            return 0;
+        });
 
     return (
         <div className="min-h-screen bg-white dark:bg-slate-950 pb-20">
@@ -85,6 +100,8 @@ export default function FontsPage() {
                     <FontsSidebar
                         searchQuery={searchQuery}
                         onSearchChange={setSearchQuery}
+                        sortBy={sortBy}
+                        onSortChange={setSortBy}
                     />
 
                     {/* Main Grid */}

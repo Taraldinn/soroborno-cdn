@@ -2,15 +2,17 @@
 
 import { useState } from 'react';
 import { useFont } from './FontProvider';
-import { Type, Bold, Italic, Minus, Plus, RotateCcw, ChevronDown, Search, PanelRightClose, PanelRightOpen, PanelLeftClose, PanelLeftOpen, Settings } from 'lucide-react';
+import { Type, Bold, Italic, Minus, Plus, RotateCcw, ChevronDown, Search, PanelRightClose, PanelRightOpen, PanelLeftClose, PanelLeftOpen, Settings, SortAsc } from 'lucide-react';
 import fontsData from '@/data/fonts.json';
 
 interface FontsSidebarProps {
     searchQuery: string;
     onSearchChange: (query: string) => void;
+    sortBy: 'popularity' | 'name_asc' | 'name_desc';
+    onSortChange: (sort: 'popularity' | 'name_asc' | 'name_desc') => void;
 }
 
-export function FontsSidebar({ searchQuery, onSearchChange }: FontsSidebarProps) {
+export function FontsSidebar({ searchQuery, onSearchChange, sortBy, onSortChange }: FontsSidebarProps) {
     const { config, updateConfig, resetConfig } = useFont();
     const [isCollapsed, setIsCollapsed] = useState(false);
     const [isMobileOpen, setIsMobileOpen] = useState(false);
@@ -97,6 +99,26 @@ export function FontsSidebar({ searchQuery, onSearchChange }: FontsSidebarProps)
                                     >
                                         <PanelRightClose className="w-5 h-5" />
                                     </button>
+                                </div>
+                            </div>
+
+                            {/* Sort Option */}
+                            <div className="space-y-3">
+                                <label className="text-sm font-medium text-slate-900 dark:text-white flex items-center gap-2">
+                                    <SortAsc className="w-4 h-4 text-sky-500" />
+                                    সাজান
+                                </label>
+                                <div className="relative">
+                                    <select
+                                        value={sortBy}
+                                        onChange={(e) => onSortChange(e.target.value as any)}
+                                        className="w-full appearance-none bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white text-sm rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-sky-500"
+                                    >
+                                        <option value="popularity">জনপ্রিয়তা (Popularity)</option>
+                                        <option value="name_asc">নাম (A-Z)</option>
+                                        <option value="name_desc">নাম (Z-A)</option>
+                                    </select>
+                                    <ChevronDown className="absolute right-4 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-500 pointer-events-none" />
                                 </div>
                             </div>
 

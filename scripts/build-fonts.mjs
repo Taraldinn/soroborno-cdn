@@ -131,7 +131,18 @@ if (fs.existsSync(fontsDir)) {
         const indexPath = path.join(srcPath, '_index.md');
         if (fs.existsSync(indexPath)) {
             const indexContent = fs.readFileSync(indexPath, 'utf-8');
-            metadata = { ...metadata, ...parseIndexMd(indexContent) };
+            const mdData = parseIndexMd(indexContent);
+            metadata = { ...metadata, ...mdData };
+
+            // Parse weight from frontmatter for popularity (e.g. weight = 10)
+            const weightMatch = indexContent.match(/^weight\s*=\s*(\d+)/m);
+            if (weightMatch) {
+                metadata.popularity = parseInt(weightMatch[1], 10);
+            } else {
+                metadata.popularity = 0;
+            }
+        } else {
+            metadata.popularity = 0;
         }
 
         // Generate CSS
@@ -167,7 +178,8 @@ if (fs.existsSync(fontsDir)) {
             weights,
             files: fontFileNames,
             cssUrl: `/fonts/${folder}/font.css`, // Absolute path from site root
-            previewUrl: `/fonts/${folder}/${fontFileNames[0]}`
+            previewUrl: `/fonts/${folder}/${fontFileNames[0]}`,
+            popularity: metadata.popularity
         });
     }
 }

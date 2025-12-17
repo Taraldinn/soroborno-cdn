@@ -1,5 +1,6 @@
 +++
 title = "Tiro Bangla"
+weight = 100
 +++
 
 # Tiro Bangla
