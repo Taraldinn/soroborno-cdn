@@ -50,28 +50,27 @@ export function FontsSidebar({ searchQuery, onSearchChange, sortBy, onSortChange
 
             <aside className={`
                 fixed lg:sticky top-0 lg:top-24 left-0 h-full lg:h-auto z-50 lg:z-0
-                bg-white dark:bg-slate-900 lg:bg-transparent
+                bg-white dark:bg-slate-900 lg:bg-transparent lg:dark:bg-transparent
                 transition-all duration-300 ease-in-out
                 ${isMobileOpen ? 'translate-x-0 w-80' : '-translate-x-full lg:translate-x-0'}
-                ${isCollapsed ? 'lg:w-12' : 'lg:w-80'}
+                ${isCollapsed ? 'lg:w-0' : 'lg:w-80'}
                 shrink-0 self-start
             `}>
 
                 {/* Desktop Collapse Toggle Button */}
                 <button
                     onClick={() => setIsCollapsed(!isCollapsed)}
-                    className="hidden lg:flex absolute -right-4 top-0 p-1.5 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-full shadow-sm text-slate-500 hover:text-sky-500 transition-colors z-10"
+                    className={`hidden lg:flex absolute top-0 p-1.5 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-full shadow-sm text-slate-500 hover:text-sky-500 transition-colors z-10 ${isCollapsed ? 'left-0' : '-right-4'}`}
                     title={isCollapsed ? "Expand Sidebar" : "Collapse Sidebar"}
                 >
                     {isCollapsed ? <PanelLeftOpen className="w-4 h-4" /> : <PanelLeftClose className="w-4 h-4 ml-0.5" />}
                 </button>
 
-                <div className={`h-full lg:h-auto bg-white dark:bg-slate-900 rounded-none lg:rounded-2xl border-r lg:border border-slate-200 dark:border-slate-800 overflow-hidden ${isCollapsed ? 'lg:h-full lg:opacity-50' : ''}`}>
+                <div className={`h-full lg:h-auto bg-white dark:bg-slate-900 rounded-none lg:rounded-2xl border-r lg:border border-slate-200 dark:border-slate-800 overflow-hidden ${isCollapsed ? 'hidden' : ''}`}>
 
                     {/* Collapsed State (Desktop only) */}
                     <div className={`hidden lg:flex flex-col items-center py-6 gap-6 ${!isCollapsed && 'hidden'}`}>
-                        <Search className="w-5 h-5 text-slate-400" />
-                        <Type className="w-5 h-5 text-slate-400" />
+                        {/* Icons removed as per user request */}
                     </div>
 
                     {/* Expanded/Mobile Content */}
