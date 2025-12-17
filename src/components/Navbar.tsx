@@ -62,16 +62,22 @@ export function Navbar() {
                             ফন্টস
                         </Link>
                         <Link
-                            href="/#features"
+                            href="/features"
                             className="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-sky-500 dark:hover:text-sky-400 transition-colors"
                         >
                             বৈশিষ্ট্য
                         </Link>
                         <Link
-                            href="/#how-it-works"
+                            href="/how-it-works"
                             className="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-sky-500 dark:hover:text-sky-400 transition-colors"
                         >
                             কিভাবে কাজ করে
+                        </Link>
+                        <Link
+                            href="/contributors"
+                            className="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-sky-500 dark:hover:text-sky-400 transition-colors"
+                        >
+                            কন্ট্রিবিউটর
                         </Link>
                         <a
                             href="https://github.com/Taraldinn/soroborno-cdn"
