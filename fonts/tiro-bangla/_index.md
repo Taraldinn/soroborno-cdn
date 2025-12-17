@@ -10,42 +10,6 @@ While perfectly suited for traditional literary publishing, Tiro Bangla was deve
 
 The Open Font License release features expanded character support and introduces a complementary italic variant. Each font includes a Latin subset with diacritics specifically designed for accurate transcription of Indian languages.
 
-## Preview
-
-{{< font-preview "Tiro Bangla" >}}
-
-## Embed Font
-
-To use this font into a website, embed this code in the `<head>` of your HTML document.
-
-#### STANDARD
-
-```html
-<link href="https://fonts.maateen.me/tiro-bangla/font.css" rel="stylesheet">
-```
-
-#### IMPORT in CSS
-
-```css
-@import url('https://fonts.maateen.me/tiro-bangla/font.css');
-```
-
-## Specify in CSS
-
-Use the following CSS rule to specify this font-family:
-
-```css
-font-family: 'Tiro Bangla', sans-serif;
-```
-
-#### Example
-
-```css
-body {
-    font-family: 'Tiro Bangla', sans-serif;
-}
-```
-
 ## Font Information
 
 - **Font Name:** Tiro Bangla
@@ -55,13 +19,6 @@ body {
 - **Designer:**
   - **Bangla:** John Hudson & Fiona Ross, assisted by Neelakash Kshetrimayum
   - **Latin:** John Hudson with Paul Hanslow, assisted by Kaja Słojewska
-
-## Features
-
-- Comprehensive web font format support (WOFF2)
-- Web-optimized performance
-- Full Unicode compliance for accurate rendering
-- Includes fallback options for maximum compatibility
 
 ## License
 

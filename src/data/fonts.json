@@ -146,10 +146,10 @@
   },
   {
     "slug": "Tiro_Bangla",
-    "name": "Tiro_Bangla",
-    "description": "Tiro_Bangla font.",
-    "designer": "Unknown",
-    "version": "1.0",
+    "name": "Adorsho Lipi",
+    "description": "Adorsho Lipi is a versatile font sourced from cgimagine, designed to provide clear and elegant text for various applications.",
+    "designer": "[Partha Sarathi Pal](mailto:p.s.pal.2006@gmail.com)",
+    "version": "1.00 (initial release)",
     "license": "Open Source",
     "weights": [
       "400"

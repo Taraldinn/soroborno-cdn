@@ -7,57 +7,12 @@ chapter = false
 
 Baloo Da 2 is a modernized version of the original Baloo font family, specifically designed for Bengali script. It features a contemporary design with improved readability and versatile weight options, making it perfect for both display and text usage.
 
-## Preview
-
-{{< font-preview "Baloo Da 2" >}}
-
-## Embed Font
-
-To use this font on a website, embed this code in the `<head>` of your HTML document.
-
-#### STANDARD
-
-```html
-<link href="https://fonts.maateen.me/baloo-da-2/font.css" rel="stylesheet">
-```
-
-#### IMPORT in CSS
-
-```css
-@import url('https://fonts.maateen.me/baloo-da-2/font.css');
-```
-
-## Specify in CSS
-
-Use the following CSS rule to specify this font-family:
-
-```css
-font-family: 'Baloo Da 2', sans-serif;
-```
-
-#### Example
-
-```css
-body {
-    font-family: 'Baloo Da 2', sans-serif;
-}
-```
-
 ## Font Information
 
 - **Font Name:** Baloo Da 2
 - **Subfamily:** Regular
 - **Version:** 1.700
 - **Designer:** Noopur Datye, Sulekha Rajkumar and Ek Type
-
-## Features
-
-- Modern geometric design
-- Multiple font weights available
-- Optimized for screen display
-- Enhanced readability
-- Comprehensive Bengali script support
-- Multiple web font formats supported
 
 ## License
 
