@@ -5,11 +5,15 @@ chapter = false
 
 # Boshonto
 
-Boshonto is a Bengali font family designed for both personal and creative use. It offers various styles and is often used for display and text purpose.
+Boshonto typeface can be used as a Display and Paragraph font. The visual characteristic of this typeface is to express sweet and soft words as well as emotional talks.
 
 ## Font Information
 
 - **Font Name:** Boshonto
-- **Designer:** Unknown
+- **Styles:** 6 Styles
+- **Category:** Paragraph, Display
+- **Language Support:** Bangla
+- **Encoding:** UNICODE
+- **Designer:** Jasem Uddin
 - **Version:** 1.0
 - **License:** Open Source
