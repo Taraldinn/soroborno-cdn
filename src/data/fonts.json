@@ -1,9 +1,172 @@
 [
   {
-    "slug": "Google_Sans",
-    "name": "Google_Sans",
-    "description": "Google_Sans font.",
+    "slug": "Abirvab",
+    "name": "Abirvab",
+    "description": "Abirvab, a decorative bengali typeface, gives festive look at the first glance. The Font Family contains 6 styles. Abirvab is the font that suits your need for any occasion.",
+    "designer": "Thouhedul Islam Himel",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "300",
+      "400",
+      "700"
+    ],
+    "files": [
+      "Abirvab-Bold Italic.ttf",
+      "Abirvab-Bold.ttf",
+      "Abirvab-Italic.ttf",
+      "Abirvab-Light Italic.ttf",
+      "Abirvab-Light.ttf",
+      "Abirvab-Regular.ttf"
+    ],
+    "cssUrl": "/fonts/Abirvab/font.css",
+    "previewUrl": "/fonts/Abirvab/Abirvab-Bold Italic.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Anirban",
+    "name": "Anirban",
+    "description": "Anirban is mainly a display font. It has four styles. These are regular, italic, bold and bold italic. Which will be very much useful for the user and designer. The visual characteristic of this typeface specially indicates something strong. You can also use it as a paragraph font.",
+    "designer": "Imrul Kayes Sourav",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400",
+      "700"
+    ],
+    "files": [
+      "Anirban-Bold-700.ttf",
+      "Anirban-Bold-Italic-700i.ttf",
+      "Anirban-Italic-400i.ttf",
+      "Anirban-Regular-400.ttf"
+    ],
+    "cssUrl": "/fonts/Anirban/font.css",
+    "previewUrl": "/fonts/Anirban/Anirban-Bold-700.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Bornomala",
+    "name": "Bornomala",
+    "description": "Bornomala is a Bengali font family designed for clarity and elegance.",
+    "designer": "Codepotro Fonts Authors",
+    "version": "1.0",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400",
+      "700"
+    ],
+    "files": [
+      "Bornomala-Bold.ttf",
+      "Bornomala-Regular.ttf"
+    ],
+    "cssUrl": "/fonts/Bornomala/font.css",
+    "previewUrl": "/fonts/Bornomala/Bornomala-Bold.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Bornomala Vintage",
+    "name": "Bornomala Vintage",
+    "description": "Bornomala Vintage is a classic Bengali font with a vintage aesthetic, suitable for nostalgic and traditional designs.",
+    "designer": "Codepotro Fonts Authors",
+    "version": "1.0",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "BornomalaVintage.ttf"
+    ],
+    "cssUrl": "/fonts/Bornomala Vintage/font.css",
+    "previewUrl": "/fonts/Bornomala Vintage/BornomalaVintage.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Boshonto",
+    "name": "Boshonto",
+    "description": "Boshonto typeface can be used as a Display and Paragraph font. The visual characteristic of this typeface is to express sweet and soft words as well as emotional talks.",
+    "designer": "Jasem Uddin",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "300",
+      "400",
+      "700"
+    ],
+    "files": [
+      "Boshonto-Bold-Italic.ttf",
+      "Boshonto-Bold.ttf",
+      "Boshonto-Italic.ttf",
+      "Boshonto-Light-Italic.ttf",
+      "Boshonto-Light.ttf",
+      "Boshonto-Regular.ttf"
+    ],
+    "cssUrl": "/fonts/Boshonto/font.css",
+    "previewUrl": "/fonts/Boshonto/Boshonto-Bold-Italic.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Chilekotha",
+    "name": "Chilekotha",
+    "description": "Chilekotha is a Unicode-compliant, dynamic Bengali typeface with an elegant look. The dynamic stylization of the Chilekotha font represents peace and harmony. Chilekotha can be used in large sizes for headings, rather than for extended passages of body text. Chilekotha will often have more eccentric and variable designs than the simple, relatively restrained typefaces generally used for body text.",
+    "designer": "Md. Shamim Reza",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "Chilekotha Italic.ttf",
+      "Chilekotha Regular.ttf"
+    ],
+    "cssUrl": "/fonts/Chilekotha/font.css",
+    "previewUrl": "/fonts/Chilekotha/Chilekotha Italic.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "DROHO",
+    "name": "DROHO",
+    "description": "DROHO is a Bengali font with a unique character and style.",
     "designer": "Unknown",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "DROHO KK V2 Unicode (2).ttf"
+    ],
+    "cssUrl": "/fonts/DROHO/font.css",
+    "previewUrl": "/fonts/DROHO/DROHO KK V2 Unicode (2).ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "FN Masud Chowa",
+    "name": "FN Masud Chowa",
+    "description": "FN Masud Chowa is a Bengali font available from FontBD. It features a distinctive style suitable for various creative applications.",
+    "designer": "Unknown (FontBD)",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "200",
+      "400"
+    ],
+    "files": [
+      "FN Masud Chowa Bijoy 2003 Italic.otf",
+      "FN Masud Chowa Bijoy 2003.otf",
+      "FN Masud Chowa Bijoy 52 Italic.otf",
+      "FN Masud Chowa Bijoy 52.otf",
+      "FN Masud Chowa Uni&BE Italic.otf",
+      "FN Masud Chowa Uni&BE.otf"
+    ],
+    "cssUrl": "/fonts/FN Masud Chowa/font.css",
+    "previewUrl": "/fonts/FN Masud Chowa/FN Masud Chowa Bijoy 2003 Italic.otf",
+    "popularity": 0
+  },
+  {
+    "slug": "Google_Sans",
+    "name": "Google Sans",
+    "description": "Google Sans is a geometric sans-serif typeface designed by Google. It is a proprietary font used across Google's various products and platforms.",
+    "designer": "Google",
     "version": "1.0",
     "license": "Open Source",
     "weights": [
@@ -36,11 +199,11 @@
   },
   {
     "slug": "Hind_Siliguri",
-    "name": "Hind_Siliguri",
-    "description": "Hind_Siliguri font.",
-    "designer": "Unknown",
+    "name": "Hind Siliguri",
+    "description": "Hind Siliguri is a free Bengali typeface developed by the Indian Type Foundry (ITF). It is a part of the Hind font family and is designed for use in both digital and print media, offering a clean and modern sans-serif look for the Bengali script.",
+    "designer": "Indian Type Foundry",
     "version": "1.0",
-    "license": "Open Source",
+    "license": "SIL OFL 1.1",
     "weights": [
       "300",
       "400",
@@ -62,7 +225,7 @@
   {
     "slug": "July-Font",
     "name": "July Font",
-    "description": "July Font font.",
+    "description": "July Font is a Bengali font family providing clear and readable text.",
     "designer": "Unknown",
     "version": "1.0",
     "license": "Open Source",
@@ -83,8 +246,8 @@
   {
     "slug": "Kohinoor Bangla",
     "name": "Kohinoor Bangla",
-    "description": "Kohinoor Bangla font.",
-    "designer": "Unknown",
+    "description": "Kohinoor Bangla is a highly legible Bengali font designed for multilingual projects and corporate branding.",
+    "designer": "Satya Rajpurohit, Jyotish Sonowal",
     "version": "1.0",
     "license": "Open Source",
     "weights": [
@@ -106,10 +269,81 @@
     "popularity": 0
   },
   {
+    "slug": "Nirlipta Lite",
+    "name": "Nirlipta Lite",
+    "description": "Nirlipta is a handwriting-style English and Bangla font where every letter feels like a real pen stroke. It’s perfect for designers, illustrators, and content creators who want to give their work a personal, warm, and natural touch. It works seamlessly across all devices and supports both ANSI and Unicode encoding.",
+    "designer": "Kazi Nasirul Islam",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "Nirlipta-ANSI-Italic.ttf",
+      "Nirlipta-ANSI-Regular.ttf",
+      "Nirlipta-Italic.ttf",
+      "Nirlipta-Regular.ttf",
+      "._Nirlipta-ANSI-Italic.ttf",
+      "._Nirlipta-ANSI-Regular.ttf",
+      "._Nirlipta-Italic.ttf",
+      "._Nirlipta-Regular.ttf"
+    ],
+    "cssUrl": "/fonts/Nirlipta Lite/font.css",
+    "previewUrl": "/fonts/Nirlipta Lite/Nirlipta-ANSI-Italic.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Osman Hadi",
+    "name": "Osman Hadi",
+    "description": "Osman Hadi is not merely a Bangla typeface; it is a reflection of an ideal shaped by courage in the face of injustice, commitment to truth, and the pursuit of fairness. Every letter carries strength and purpose, while preserving a sense of human warmth and clarity. This typeface reminds us that words are not just for writing, they can inspire courage, unite people, and guide us toward justice. This is our typographic tribute to carry these values forward from generation to generation.",
+    "designer": "Ismail Hossain Sifat",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400"
+    ],
+    "files": [
+      "Osman Hadi Insaf.ttf",
+      "Osman Hadi Lorai.ttf",
+      "Osman Hadi Sahos.ttf",
+      "Osman Hadi Sotota.ttf",
+      "._Osman Hadi Insaf.ttf",
+      "._Osman Hadi Lorai.ttf",
+      "._Osman Hadi Sahos.ttf",
+      "._Osman Hadi Sotota.ttf"
+    ],
+    "cssUrl": "/fonts/Osman Hadi/font.css",
+    "previewUrl": "/fonts/Osman Hadi/Osman Hadi Insaf.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Potro Sans Bangla",
+    "name": "Potro Sans Bangla",
+    "description": "Potro Sans Bangla is a modern sans-serif font designed specifically for the Bengali script. It offers clean lines and high legibility, making it suitable for a wide range of digital and print applications.",
+    "designer": "Codepotro Fonts Authors",
+    "version": "1.0",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "files": [
+      "PotroSansBangla-Bold.ttf",
+      "PotroSansBangla-Medium.ttf",
+      "PotroSansBangla-Regular.ttf",
+      "PotroSansBangla-SemiBold.ttf"
+    ],
+    "cssUrl": "/fonts/Potro Sans Bangla/font.css",
+    "previewUrl": "/fonts/Potro Sans Bangla/PotroSansBangla-Bold.ttf",
+    "popularity": 0
+  },
+  {
     "slug": "Purno",
     "name": "Purno",
-    "description": "Purno font.",
-    "designer": "Unknown",
+    "description": "Purno is a comprehensive font family developed by the Bangladesh Computer Council (BCC). It is designed to providing high-quality Bengali typography for various digital and print platforms.",
+    "designer": "Unknown (BCC)",
     "version": "1.0",
     "license": "Open Source",
     "weights": [
@@ -147,15 +381,57 @@
     ],
     "cssUrl": "/fonts/Purno/font.css",
     "previewUrl": "/fonts/Purno/BCC Purno Black Italic.ttf",
+    "popularity": 10
+  },
+  {
+    "slug": "Shurjo",
+    "name": "Shurjo",
+    "description": "A bespoke type family designed for Bangladesh’s largest newspaper, the Dainik Prothom Alo in 2017-2018, this family of 18 fonts in 9 weights was a major part of the recent redesign of the newspaper.",
+    "designer": "Jacob Thomas",
+    "version": "1.0",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      "400",
+      "700"
+    ],
+    "files": [
+      "Shurjo-Regular.ttf",
+      "Shurjo-bold.ttf",
+      "ShurjoWeb_400.woff2",
+      "ShurjoWeb_700.woff2"
+    ],
+    "cssUrl": "/fonts/Shurjo/font.css",
+    "previewUrl": "/fonts/Shurjo/Shurjo-Regular.ttf",
+    "popularity": 0
+  },
+  {
+    "slug": "Sorob",
+    "name": "Sorob",
+    "description": "Sorob is a Bangla display font. It’s a bold, cool, expressive in nature. Which will be very much useful for the user and designers. Mainly these fonts are for making posters, magazines, and logos as well. To make poster banners and logos, designers have to make customize types. Especially to indicate something strong and bold. It will help them to do those easily.",
+    "designer": "Imrul Kayes Sourav",
+    "version": "1.0",
+    "license": "Open Source",
+    "weights": [
+      "400",
+      "700"
+    ],
+    "files": [
+      "Sorob-Bold.ttf",
+      "Sorob-Condensed.ttf",
+      "Sorob-Matra Regular.ttf",
+      "Sorob-Regular.ttf"
+    ],
+    "cssUrl": "/fonts/Sorob/font.css",
+    "previewUrl": "/fonts/Sorob/Sorob-Bold.ttf",
     "popularity": 0
   },
   {
     "slug": "Tiro_Bangla",
-    "name": "Adorsho Lipi",
-    "description": "Adorsho Lipi is a versatile font sourced from cgimagine, designed to provide clear and elegant text for various applications.",
-    "designer": "[Partha Sarathi Pal](mailto:p.s.pal.2006@gmail.com)",
-    "version": "1.00 (initial release)",
-    "license": "Open Source",
+    "name": "Tiro Bangla",
+    "description": "Tiro Bangla is an elegant typeface crafted by renowned designers John Hudson and Fiona Ross, with valuable assistance from Neelakash Kshetrimayum. The font's heritage traces back to a typeface specifically designed for the prestigious Murty Classical Library of India book series.",
+    "designer": "John Hudson & Fiona Ross",
+    "version": "1.52",
+    "license": "SIL OFL 1.1",
     "weights": [
       "400"
     ],

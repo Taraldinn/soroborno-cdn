@@ -79,6 +79,16 @@ export function Navbar() {
                         >
                             কন্ট্রিবিউটর
                         </Link>
+                        <Link
+                            href="/playground"
+                            className="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-sky-500 dark:hover:text-sky-400 transition-colors flex items-center gap-1"
+                        >
+                            <span className="relative flex h-2 w-2">
+                                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-400 opacity-75"></span>
+                                <span className="relative inline-flex rounded-full h-2 w-2 bg-sky-500"></span>
+                            </span>
+                            প্লেগ্রাউন্ড
+                        </Link>
                         <a
                             href="https://github.com/Taraldinn/soroborno-cdn"
                             target="_blank"
