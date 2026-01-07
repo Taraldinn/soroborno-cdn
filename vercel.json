@@ -3,6 +3,8 @@
     "buildCommand": "npm run build",
     "outputDirectory": "out",
     "framework": null,
+    "cleanUrls": true,
+    "trailingSlash": false,
     "redirects": [
         {
             "source": "/fonts",
