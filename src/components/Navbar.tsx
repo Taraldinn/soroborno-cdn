@@ -56,7 +56,7 @@ export function Navbar() {
                     {/* Nav Links */}
                     <div className="hidden md:flex items-center gap-8 font-[var(--font-family-mono)]">
                         <Link
-                            href="/fonts"
+                            href="/library"
                             className="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-sky-500 dark:hover:text-sky-400 transition-colors"
                         >
                             ফন্টস

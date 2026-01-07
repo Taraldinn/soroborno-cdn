@@ -13,7 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 1,
         },
         {
-            url: `${baseUrl}/fonts`,
+            url: `${baseUrl}/library`,
             lastModified: new Date(),
             changeFrequency: 'daily',
             priority: 0.8,

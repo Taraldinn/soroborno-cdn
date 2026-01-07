@@ -42,7 +42,7 @@ export default function HomePage() {
                         description: 'Open Source Bangla Font Library & CDN',
                         potentialAction: {
                             '@type': 'SearchAction',
-                            target: 'https://webfont-cdn.pages.dev/fonts?q={search_term_string}',
+                            target: 'https://webfont-cdn.pages.dev/library?q={search_term_string}',
                             'query-input': 'required name=search_term_string',
                         },
                     }),
@@ -78,7 +78,7 @@ export default function HomePage() {
 
                         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                             <Link
-                                href="/fonts"
+                                href="/library"
                                 className="w-full sm:w-auto px-8 py-4 bg-sky-500 hover:bg-sky-600 text-white rounded-xl font-semibold shadow-lg shadow-sky-500/25 transition-all hover:scale-105 flex items-center justify-center gap-2"
                             >
                                 <Terminal className="w-5 h-5" />

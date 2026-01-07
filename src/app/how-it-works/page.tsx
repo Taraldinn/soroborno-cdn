@@ -38,7 +38,7 @@ export default function HowItWorksPage() {
                             <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white dark:bg-slate-900 p-6 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
                                 <h3 className="font-bold text-slate-900 dark:text-white mb-2">ফন্ট নির্বাচন করুন</h3>
                                 <p className="text-slate-600 dark:text-slate-400 mb-4">
-                                    আমাদের <Link href="/fonts" className="text-sky-500 hover:underline">ফন্ট লাইব্রেরি</Link> ব্রাউজ করুন এবং আপনার পছন্দের ফন্টটি বেছে নিন।
+                                    আমাদের <Link href="/library" className="text-sky-500 hover:underline">ফন্ট লাইব্রেরি</Link> ব্রাউজ করুন এবং আপনার পছন্দের ফন্টটি বেছে নিন।
                                 </p>
                             </div>
                         </div>
