@@ -3,7 +3,7 @@ import {
   type GetFontCssOptions,
   getFontCss as coreGetFontCss,
   getFontStylesheetUrl
-} from '@soroborno/core';
+} from '@shoroborno/core';
 
 export { getFontStylesheetUrl };
 

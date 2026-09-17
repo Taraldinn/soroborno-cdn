@@ -30,7 +30,7 @@ importers:
 
   packages/astro:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
 
@@ -38,31 +38,31 @@ importers:
 
   packages/css:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
 
   packages/fonts:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
 
   packages/next:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
 
   packages/nuxt:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
 
   packages/react:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
     devDependencies:
@@ -75,19 +75,19 @@ importers:
 
   packages/svelte:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
 
   packages/vite:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
 
   packages/vue:
     dependencies:
-      '@soroborno/core':
+      '@shoroborno/core':
         specifier: workspace:*
         version: link:../core
     devDependencies:

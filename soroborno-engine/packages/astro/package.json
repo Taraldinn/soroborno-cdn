@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/astro",
+  "name": "@shoroborno/astro",
   "version": "0.1.0",
   "description": "Astro integration for Soroborno fonts with automated CSS injection",
   "main": "./dist/index.cjs",
@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "@soroborno/core": "workspace:*"
+    "@shoroborno/core": "workspace:*"
   },
   "scripts": {
     "build": "tsc"

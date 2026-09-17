@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/core",
+  "name": "@shoroborno/core",
   "version": "0.1.0",
   "description": "Framework-independent core font lookup, URL resolver, and CSS utilities for Soroborno",
   "main": "./dist/index.cjs",

@@ -1,4 +1,4 @@
-import { getFontStylesheetUrl } from '@soroborno/core';
+import { getFontStylesheetUrl } from '@shoroborno/core';
 
 export interface AstroFontOptions {
   fonts: string[];
@@ -12,7 +12,7 @@ export function sorobornoAstro(options: AstroFontOptions) {
   const { fonts = [], cdnBaseUrl } = options;
 
   return {
-    name: '@soroborno/astro',
+    name: '@shoroborno/astro',
     hooks: {
       'astro:config:setup': ({ injectScript }: any) => {
         for (const fontId of fonts) {

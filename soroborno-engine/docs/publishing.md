@@ -7,16 +7,16 @@ This guide covers how to publish both **npm packages** and **CDN font distributi
 ## 1. Publishing npm Packages
 
 The monorepo publishes the following packages under the `@soroborno` scope:
-- `@soroborno/core`
-- `@soroborno/fonts`
-- `@soroborno/css`
-- `@soroborno/react`
-- `@soroborno/vue`
-- `@soroborno/next`
-- `@soroborno/nuxt`
-- `@soroborno/vite`
-- `@soroborno/svelte`
-- `@soroborno/astro`
+- `@shoroborno/core`
+- `@shoroborno/fonts`
+- `@shoroborno/css`
+- `@shoroborno/react`
+- `@shoroborno/vue`
+- `@shoroborno/next`
+- `@shoroborno/nuxt`
+- `@shoroborno/vite`
+- `@shoroborno/svelte`
+- `@shoroborno/astro`
 
 ---
 

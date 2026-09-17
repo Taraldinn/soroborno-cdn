@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/vue",
+  "name": "@shoroborno/vue",
   "version": "0.1.0",
   "description": "Vue 3 integration and composables for the Soroborno Bangla font ecosystem",
   "main": "./dist/index.cjs",
@@ -16,7 +16,7 @@
     "vue": "^3.3.0"
   },
   "dependencies": {
-    "@soroborno/core": "workspace:*"
+    "@shoroborno/core": "workspace:*"
   },
   "devDependencies": {
     "vue": "^3.5.0"

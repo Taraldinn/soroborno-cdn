@@ -29,7 +29,7 @@ The **Soroborno Ecosystem** is built around a **Dual-Repository Architecture**:
 │   • Inspection: OpenType table parsing (opentype.js)        │
 │   • Conversion: high-performance WOFF2 compression (wawoff2)│
 │   • Metadata & CSS: JSON Schema & @font-face generation     │
-│   • Packages: @soroborno/core, @soroborno/fonts, CSS,       │
+│   • Packages: @shoroborno/core, @shoroborno/fonts, CSS,       │
 │     React, Vue, Next.js, Nuxt, Vite, Svelte, Astro          │
 │   • Publishing: Changesets automated releases               │
 └─────────────────────────────────────────────────────────────┘
@@ -39,16 +39,16 @@ The **Soroborno Ecosystem** is built around a **Dual-Repository Architecture**:
 
 | Package | Role | Key APIs / Exports |
 | :--- | :--- | :--- |
-| **`@soroborno/core`** | Zero-dependency core logic | `getFont()`, `getFontUrl()`, `getFontCss()`, `listFonts()` |
-| **`@soroborno/fonts`** | Generated typed font definitions | `fonts`, `fontMap`, individual fonts (`solaimanLipi`, `kalpurush`, etc.) |
-| **`@soroborno/css`** | CSS utilities and static links | `createHtmlLinkTag()`, `createCssImportRule()`, `createFontFamilyRule()` |
-| **`@soroborno/react`** | React hooks and components | `useFont()`, `<FontLoader />` |
-| **`@soroborno/vue`** | Vue 3 composables | `useFont()` |
-| **`@soroborno/next`** | Next.js App & Pages Router font loader | `SolaimanLipi()`, `sorobornoFont()` |
-| **`@soroborno/nuxt`** | Nuxt 3 module | `defineSorobornoNuxtModule()` |
-| **`@soroborno/vite`** | Vite plugin | `sorobornoPlugin()` |
-| **`@soroborno/svelte`**| Svelte action & SvelteKit integration | `use:sorobornoFont` |
-| **`@soroborno/astro`** | Astro build integration | `sorobornoAstro()` |
+| **`@shoroborno/core`** | Zero-dependency core logic | `getFont()`, `getFontUrl()`, `getFontCss()`, `listFonts()` |
+| **`@shoroborno/fonts`** | Generated typed font definitions | `fonts`, `fontMap`, individual fonts (`solaimanLipi`, `kalpurush`, etc.) |
+| **`@shoroborno/css`** | CSS utilities and static links | `createHtmlLinkTag()`, `createCssImportRule()`, `createFontFamilyRule()` |
+| **`@shoroborno/react`** | React hooks and components | `useFont()`, `<FontLoader />` |
+| **`@shoroborno/vue`** | Vue 3 composables | `useFont()` |
+| **`@shoroborno/next`** | Next.js App & Pages Router font loader | `SolaimanLipi()`, `sorobornoFont()` |
+| **`@shoroborno/nuxt`** | Nuxt 3 module | `defineSorobornoNuxtModule()` |
+| **`@shoroborno/vite`** | Vite plugin | `sorobornoPlugin()` |
+| **`@shoroborno/svelte`**| Svelte action & SvelteKit integration | `use:sorobornoFont` |
+| **`@shoroborno/astro`** | Astro build integration | `sorobornoAstro()` |
 
 ## Font Pipeline Steps
 

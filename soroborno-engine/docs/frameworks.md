@@ -23,7 +23,7 @@ Complete examples for using Soroborno fonts across all supported modern framewor
 
 ```tsx
 import React from 'react';
-import { useFont } from '@soroborno/react';
+import { useFont } from '@shoroborno/react';
 
 export default function App() {
   const font = useFont('solaiman-lipi');
@@ -42,7 +42,7 @@ export default function App() {
 
 ```vue
 <script setup>
-import { useFont } from '@soroborno/vue';
+import { useFont } from '@shoroborno/vue';
 
 const font = useFont('solaiman-lipi');
 </script>
@@ -60,7 +60,7 @@ const font = useFont('solaiman-lipi');
 
 ```tsx
 // app/layout.tsx
-import { SolaimanLipi } from '@soroborno/next';
+import { SolaimanLipi } from '@shoroborno/next';
 
 const solaiman = SolaimanLipi({
   weight: ['400', '700'],
@@ -86,7 +86,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 ```ts
 // nuxt.config.ts
 export default defineNuxtConfig({
-  modules: ['@soroborno/nuxt'],
+  modules: ['@shoroborno/nuxt'],
   soroborno: {
     fonts: ['solaiman-lipi', 'kalpurush']
   }
@@ -100,7 +100,7 @@ export default defineNuxtConfig({
 ```ts
 // vite.config.ts
 import { defineConfig } from 'vite';
-import { sorobornoPlugin } from '@soroborno/vite';
+import { sorobornoPlugin } from '@shoroborno/vite';
 
 export default defineConfig({
   plugins: [
@@ -117,7 +117,7 @@ export default defineConfig({
 
 ```html
 <script>
-  import { sorobornoFont } from '@soroborno/svelte';
+  import { sorobornoFont } from '@shoroborno/svelte';
 </script>
 
 <h1 use:sorobornoFont={'solaiman-lipi'}>
@@ -132,7 +132,7 @@ export default defineConfig({
 ```ts
 // astro.config.mjs
 import { defineConfig } from 'astro/config';
-import { sorobornoAstro } from '@soroborno/astro';
+import { sorobornoAstro } from '@shoroborno/astro';
 
 export default defineConfig({
   integrations: [

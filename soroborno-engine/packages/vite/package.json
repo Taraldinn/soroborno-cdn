@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/vite",
+  "name": "@shoroborno/vite",
   "version": "0.1.0",
   "description": "Vite plugin for Soroborno fonts with automated font injection and preloading",
   "main": "./dist/index.cjs",
@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "@soroborno/core": "workspace:*"
+    "@shoroborno/core": "workspace:*"
   },
   "scripts": {
     "build": "tsc"

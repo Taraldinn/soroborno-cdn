@@ -14,9 +14,9 @@
     "resolveJsonModule": true,
     "baseUrl": ".",
     "paths": {
-      "@soroborno/core": ["./packages/core/dist/index.d.ts"],
-      "@soroborno/fonts": ["./packages/fonts/dist/index.d.ts"],
-      "@soroborno/css": ["./packages/css/dist/index.d.ts"]
+      "@shoroborno/core": ["./packages/core/dist/index.d.ts"],
+      "@shoroborno/fonts": ["./packages/fonts/dist/index.d.ts"],
+      "@shoroborno/css": ["./packages/css/dist/index.d.ts"]
     }
   }
 }

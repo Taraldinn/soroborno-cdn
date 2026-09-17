@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/react",
+  "name": "@shoroborno/react",
   "version": "0.1.0",
   "description": "React integration, hooks, and components for the Soroborno Bangla font ecosystem",
   "main": "./dist/index.cjs",
@@ -16,7 +16,7 @@
     "react": ">=18.0.0"
   },
   "dependencies": {
-    "@soroborno/core": "workspace:*"
+    "@shoroborno/core": "workspace:*"
   },
   "devDependencies": {
     "@types/react": "^19.0.1",

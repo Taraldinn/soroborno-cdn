@@ -1,4 +1,4 @@
-import { getFontStylesheetUrl } from '@soroborno/core';
+import { getFontStylesheetUrl } from '@shoroborno/core';
 
 export interface ModuleOptions {
   fonts?: string[];
@@ -15,7 +15,7 @@ export function defineSorobornoNuxtModule(options: ModuleOptions = {}) {
 
   return {
     meta: {
-      name: '@soroborno/nuxt',
+      name: '@shoroborno/nuxt',
       configKey: 'soroborno',
       compatibility: {
         nuxt: '^3.0.0'

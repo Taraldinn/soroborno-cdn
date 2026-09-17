@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/next",
+  "name": "@shoroborno/next",
   "version": "0.1.0",
   "description": "Next.js font optimization helper and loaders for the Soroborno Bangla font ecosystem",
   "main": "./dist/index.cjs",
@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "@soroborno/core": "workspace:*"
+    "@shoroborno/core": "workspace:*"
   },
   "scripts": {
     "build": "tsc"

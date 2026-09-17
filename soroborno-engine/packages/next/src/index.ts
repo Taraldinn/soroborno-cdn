@@ -1,4 +1,4 @@
-import { getFontStylesheetUrl, getFont } from '@soroborno/core';
+import { getFontStylesheetUrl, getFont } from '@shoroborno/core';
 
 export interface NextFontOptions {
   weight?: string | number | (string | number)[];

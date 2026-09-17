@@ -1,4 +1,4 @@
-import { getFontStylesheetUrl } from '@soroborno/core';
+import { getFontStylesheetUrl } from '@shoroborno/core';
 
 export interface VitePluginOptions {
   fonts: string[];

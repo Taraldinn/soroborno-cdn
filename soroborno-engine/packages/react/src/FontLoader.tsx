@@ -1,5 +1,5 @@
 import React from 'react';
-import { getFontStylesheetUrl } from '@soroborno/core';
+import { getFontStylesheetUrl } from '@shoroborno/core';
 
 export interface FontLoaderProps {
   font: string;

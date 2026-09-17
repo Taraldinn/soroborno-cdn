@@ -6,8 +6,8 @@ import { SolaimanLipi, sorobornoFont } from '../packages/next/dist/index.js';
 import { sorobornoPlugin } from '../packages/vite/dist/index.js';
 import { defineSorobornoNuxtModule } from '../packages/nuxt/dist/index.js';
 
-describe('@soroborno/core & @soroborno/fonts', () => {
-  it('has populated registry from @soroborno/fonts', () => {
+describe('@shoroborno/core & @shoroborno/fonts', () => {
+  it('has populated registry from @shoroborno/fonts', () => {
     expect(fonts.length).toBeGreaterThanOrEqual(30);
     expect(fontMap.has('solaiman-lipi')).toBe(true);
     expect(solaimanLipi).toBeDefined();
@@ -43,7 +43,7 @@ describe('@soroborno/core & @soroborno/fonts', () => {
   });
 });
 
-describe('@soroborno/css', () => {
+describe('@shoroborno/css', () => {
   it('generates link tag', () => {
     const tag = createHtmlLinkTag('solaiman-lipi');
     expect(tag).toContain('<link rel="stylesheet"');
@@ -61,7 +61,7 @@ describe('@soroborno/css', () => {
   });
 });
 
-describe('@soroborno/next', () => {
+describe('@shoroborno/next', () => {
   it('generates variable and class name for Next.js', () => {
     const res = SolaimanLipi({ variable: '--font-solaiman' });
     expect(res.variable).toBe('--font-solaiman');
@@ -76,7 +76,7 @@ describe('@soroborno/next', () => {
   });
 });
 
-describe('@soroborno/vite', () => {
+describe('@shoroborno/vite', () => {
   it('injects link tags in transformIndexHtml', () => {
     const plugin = sorobornoPlugin({ fonts: ['solaiman-lipi', 'kalpurush'] });
     const tags = plugin.transformIndexHtml('<html><head></head><body></body></html>');
@@ -86,7 +86,7 @@ describe('@soroborno/vite', () => {
   });
 });
 
-describe('@soroborno/nuxt', () => {
+describe('@shoroborno/nuxt', () => {
   it('configures nuxt head links', () => {
     const mod = defineSorobornoNuxtModule({ fonts: ['solaiman-lipi'] });
     const mockNuxt = { options: { app: { head: { link: [] as any[] } } } };

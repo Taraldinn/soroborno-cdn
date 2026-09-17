@@ -6,7 +6,7 @@ import {
   getFont,
   getFontStylesheetUrl,
   getFontCss
-} from '@soroborno/core';
+} from '@shoroborno/core';
 
 export interface UseFontOptions {
   weights?: (FontWeight | number)[];
@@ -31,7 +31,7 @@ const loadedStylesheets = new Set<string>();
  *
  * @example
  * ```tsx
- * import { useFont } from '@soroborno/react';
+ * import { useFont } from '@shoroborno/react';
  *
  * export function Title() {
  *   const font = useFont('solaiman-lipi');

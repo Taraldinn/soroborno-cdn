@@ -4,7 +4,7 @@ import {
   type FontStyle,
   getFont,
   getFontStylesheetUrl
-} from '@soroborno/core';
+} from '@shoroborno/core';
 
 export interface UseVueFontOptions {
   weights?: (FontWeight | number)[];
@@ -28,7 +28,7 @@ const loadedVueStylesheets = new Set<string>();
  * @example
  * ```vue
  * <script setup>
- * import { useFont } from '@soroborno/vue';
+ * import { useFont } from '@shoroborno/vue';
  * const font = useFont('solaiman-lipi');
  * </script>
  *

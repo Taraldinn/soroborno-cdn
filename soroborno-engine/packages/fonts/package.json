@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/fonts",
+  "name": "@shoroborno/fonts",
   "version": "0.1.0",
   "description": "Generated font metadata, typed font definitions, and font catalog for the Soroborno ecosystem",
   "main": "./dist/index.cjs",
@@ -14,7 +14,7 @@
     "./data": "./data/fonts.json"
   },
   "dependencies": {
-    "@soroborno/core": "workspace:*"
+    "@shoroborno/core": "workspace:*"
   },
   "scripts": {
     "build": "tsc"

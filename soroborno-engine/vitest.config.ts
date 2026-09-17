@@ -12,9 +12,9 @@ export default defineConfig({
   },
   resolve: {
     alias: {
-      '@soroborno/core': path.resolve(__dirname, 'packages/core/dist/index.js'),
-      '@soroborno/fonts': path.resolve(__dirname, 'packages/fonts/dist/index.js'),
-      '@soroborno/css': path.resolve(__dirname, 'packages/css/dist/index.js')
+      '@shoroborno/core': path.resolve(__dirname, 'packages/core/dist/index.js'),
+      '@shoroborno/fonts': path.resolve(__dirname, 'packages/fonts/dist/index.js'),
+      '@shoroborno/css': path.resolve(__dirname, 'packages/css/dist/index.js')
     }
   },
   css: {

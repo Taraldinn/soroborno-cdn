@@ -1,5 +1,5 @@
 {
-  "name": "@soroborno/css",
+  "name": "@shoroborno/css",
   "version": "0.1.0",
   "description": "CSS generators, utility classes, and static stylesheets for Soroborno fonts",
   "main": "./dist/index.cjs",
@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "@soroborno/core": "workspace:*"
+    "@shoroborno/core": "workspace:*"
   },
   "scripts": {
     "build": "tsc"

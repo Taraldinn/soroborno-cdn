@@ -1,4 +1,4 @@
-import { type FontMetadata, globalRegistry } from "@soroborno/core";
+import { type FontMetadata, globalRegistry } from "@shoroborno/core";
 
 export const fonts: FontMetadata[] = [
   {
