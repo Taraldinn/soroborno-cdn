@@ -1,0 +1,38 @@
+{
+  "id": "bornomala-vintage",
+  "family": "BornomalaVintage",
+  "displayName": "BornomalaVintage",
+  "description": "Bornomala Vintage is a classic Bengali font with a vintage aesthetic, suitable for nostalgic and traditional designs.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "BornomalaVintage.ttf",
+      "files": {
+        "ttf": "BornomalaVintage.ttf",
+        "woff2": "bornomala-vintage-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Bornomala Vintage"
+  ],
+  "popularity": 0
+}

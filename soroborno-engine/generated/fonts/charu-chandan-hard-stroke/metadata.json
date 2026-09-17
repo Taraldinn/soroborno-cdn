@@ -1,0 +1,35 @@
+{
+  "id": "charu-chandan-hard-stroke",
+  "family": "charu-chandan-hard-stroke-v2.0",
+  "displayName": "charu-chandan-hard-stroke-v2.0",
+  "description": "Charu Chandan Hard Stroke is a distinctive font available from Charu Chandan, offering bold and impactful typography for various design needs. Font Source: Charu Chandan",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "charu-chandan-hard-stroke-v2.0.ttf",
+      "files": {
+        "ttf": "charu-chandan-hard-stroke-v2.0.ttf",
+        "woff2": "charu-chandan-hard-stroke-400-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

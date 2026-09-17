@@ -1,0 +1,84 @@
+{
+  "id": "fn-masud-chowa",
+  "family": "FN Masud Chowa Bijoy 2003 Italic",
+  "displayName": "FN Masud Chowa Bijoy 2003 Italic",
+  "description": "FN Masud Chowa is a Bengali font available from FontBD. It features a distinctive style suitable for various creative applications.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "italic",
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "FN Masud Chowa Bijoy 2003 Italic.otf",
+      "files": {
+        "otf": "FN Masud Chowa Bijoy 2003 Italic.otf",
+        "woff2": "fn-masud-chowa-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "FN Masud Chowa Bijoy 2003.otf",
+      "files": {
+        "otf": "FN Masud Chowa Bijoy 2003.otf",
+        "woff2": "fn-masud-chowa-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "FN Masud Chowa Bijoy 52 Italic.otf",
+      "files": {
+        "otf": "FN Masud Chowa Bijoy 52 Italic.otf",
+        "woff2": "fn-masud-chowa-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "FN Masud Chowa Bijoy 52.otf",
+      "files": {
+        "otf": "FN Masud Chowa Bijoy 52.otf",
+        "woff2": "fn-masud-chowa-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "FN Masud Chowa Uni&BE Italic.otf",
+      "files": {
+        "otf": "FN Masud Chowa Uni&BE Italic.otf",
+        "woff2": "fn-masud-chowa-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "FN Masud Chowa Uni&BE.otf",
+      "files": {
+        "otf": "FN Masud Chowa Uni&BE.otf",
+        "woff2": "fn-masud-chowa-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "FN Masud Chowa"
+  ],
+  "popularity": 0
+}

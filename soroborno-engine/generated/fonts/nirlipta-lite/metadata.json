@@ -1,0 +1,66 @@
+{
+  "id": "nirlipta-lite",
+  "family": "Nirlipta-ANSI-Italic",
+  "displayName": "Nirlipta-ANSI-Italic",
+  "description": "Nirlipta is a handwriting-style English and Bangla font where every letter feels like a real pen stroke. It’s perfect for designers, illustrators, and content creators who want to give their work a personal, warm, and natural touch. It works seamlessly across all devices and supports both ANSI and Unicode encoding.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "italic",
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "Nirlipta-ANSI-Italic.ttf",
+      "files": {
+        "ttf": "Nirlipta-ANSI-Italic.ttf",
+        "woff2": "nirlipta-lite-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Nirlipta-ANSI-Regular.ttf",
+      "files": {
+        "ttf": "Nirlipta-ANSI-Regular.ttf",
+        "woff2": "nirlipta-lite-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "Nirlipta-Italic.ttf",
+      "files": {
+        "ttf": "Nirlipta-Italic.ttf",
+        "woff2": "nirlipta-lite-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Nirlipta-Regular.ttf",
+      "files": {
+        "ttf": "Nirlipta-Regular.ttf",
+        "woff2": "nirlipta-lite-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Nirlipta Lite"
+  ],
+  "popularity": 0
+}

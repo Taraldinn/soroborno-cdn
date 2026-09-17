@@ -1,0 +1,66 @@
+{
+  "id": "osman-hadi",
+  "family": "Osman Hadi Insaf",
+  "displayName": "Osman Hadi Insaf",
+  "description": "Osman Hadi is not merely a Bangla typeface; it is a reflection of an ideal shaped by courage in the face of injustice, commitment to truth, and the pursuit of fairness. Every letter carries strength and purpose, while preserving a sense of human warmth and clarity. This typeface reminds us that words are not just for writing, they can inspire courage, unite people, and guide us toward justice. This is our typographic tribute to carry these values forward from generation to generation.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal",
+    "italic"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Osman Hadi Insaf.ttf",
+      "files": {
+        "ttf": "Osman Hadi Insaf.ttf",
+        "woff2": "osman-hadi-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Osman Hadi Lorai.ttf",
+      "files": {
+        "ttf": "Osman Hadi Lorai.ttf",
+        "woff2": "osman-hadi-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "Osman Hadi Sahos.ttf",
+      "files": {
+        "ttf": "Osman Hadi Sahos.ttf",
+        "woff2": "osman-hadi-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Osman Hadi Sotota.ttf",
+      "files": {
+        "ttf": "Osman Hadi Sotota.ttf",
+        "woff2": "osman-hadi-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Osman Hadi"
+  ],
+  "popularity": 0
+}

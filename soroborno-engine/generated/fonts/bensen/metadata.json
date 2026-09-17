@@ -1,0 +1,35 @@
+{
+  "id": "bensen",
+  "family": "bensen-v1.0",
+  "displayName": "bensen-v1.0",
+  "description": "BenSen is a unique font developed by Subrata Sen, offering a distinctive style for both digital and print applications.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "bensen-v1.0.ttf",
+      "files": {
+        "ttf": "bensen-v1.0.ttf",
+        "woff2": "bensen-400-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

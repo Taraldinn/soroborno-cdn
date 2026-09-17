@@ -1,0 +1,49 @@
+/* Soroborno Font: Osman Hadi Insaf (osman-hadi) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'Osman Hadi Insaf';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./osman-hadi-400-normal.woff2') format('woff2'),
+       url('./Osman Hadi Insaf.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Osman Hadi Insaf';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./osman-hadi-400-normal.woff2') format('woff2'),
+       url('./Osman Hadi Lorai.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Osman Hadi Insaf';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./osman-hadi-400-italic.woff2') format('woff2'),
+       url('./Osman Hadi Sahos.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Osman Hadi Insaf';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./osman-hadi-400-normal.woff2') format('woff2'),
+       url('./Osman Hadi Sotota.ttf') format('truetype');
+}
+
+
+.font-osman-hadi {
+  font-family: 'Osman Hadi Insaf', sans-serif;
+}
+
+:root {
+  --font-osman-hadi: 'Osman Hadi Insaf', sans-serif;
+}

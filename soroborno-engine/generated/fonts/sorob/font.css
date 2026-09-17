@@ -1,0 +1,49 @@
+/* Soroborno Font: Sorob-Bold (sorob) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'Sorob-Bold';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('./sorob-800-normal.woff2') format('woff2'),
+       url('./Sorob-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sorob-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./sorob-400-normal.woff2') format('woff2'),
+       url('./Sorob-Condensed.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sorob-Bold';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./sorob-600-normal.woff2') format('woff2'),
+       url('./Sorob-Matra Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sorob-Bold';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./sorob-500-normal.woff2') format('woff2'),
+       url('./Sorob-Regular.ttf') format('truetype');
+}
+
+
+.font-sorob {
+  font-family: 'Sorob-Bold', sans-serif;
+}
+
+:root {
+  --font-sorob: 'Sorob-Bold', sans-serif;
+}

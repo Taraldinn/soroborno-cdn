@@ -1,0 +1,19 @@
+name: Notify Soroborno Engine
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "fonts/**"
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch Event to Engine Repository
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.ENGINE_DISPATCH_TOKEN || secrets.GITHUB_TOKEN }}
+          repository: Taraldinn/soroborno-engine
+          event-type: font-repo-updated
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'

@@ -1,0 +1,229 @@
+/* Soroborno Font: BCC Purno Black Italic (purno) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./purno-900-italic.woff2') format('woff2'),
+       url('./BCC Purno Black Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./purno-900-normal.woff2') format('woff2'),
+       url('./BCC Purno Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./purno-700-italic.woff2') format('woff2'),
+       url('./BCC Purno Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./purno-700-normal.woff2') format('woff2'),
+       url('./BCC Purno Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./purno-400-italic.woff2') format('woff2'),
+       url('./BCC Purno Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./purno-400-normal.woff2') format('woff2'),
+       url('./BCC Purno Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./purno-600-italic.woff2') format('woff2'),
+       url('./BCC Purno Semibold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./purno-600-normal.woff2') format('woff2'),
+       url('./BCC Purno Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./purno-900-italic.woff2') format('woff2'),
+       url('./BCC Purno Black Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./purno-900-normal.woff2') format('woff2'),
+       url('./BCC Purno Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./purno-700-italic.woff2') format('woff2'),
+       url('./BCC Purno Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./purno-700-normal.woff2') format('woff2'),
+       url('./BCC Purno Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./purno-400-italic.woff2') format('woff2'),
+       url('./BCC Purno Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./purno-400-normal.woff2') format('woff2'),
+       url('./BCC Purno Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./purno-600-italic.woff2') format('woff2'),
+       url('./BCC Purno Semibold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./purno-600-normal.woff2') format('woff2'),
+       url('./BCC Purno Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./purno-900-italic.woff2') format('woff2'),
+       url('./BCC Purno Black Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./purno-900-normal.woff2') format('woff2'),
+       url('./BCC Purno Black.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./purno-700-italic.woff2') format('woff2'),
+       url('./BCC Purno Bold-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./purno-700-normal.woff2') format('woff2'),
+       url('./BCC Purno Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./purno-400-italic.woff2') format('woff2'),
+       url('./BCC Purno Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./purno-400-normal.woff2') format('woff2'),
+       url('./BCC Purno Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./purno-600-italic.woff2') format('woff2'),
+       url('./BCC Purno Semibold-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BCC Purno Black Italic';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./purno-600-normal.woff2') format('woff2'),
+       url('./BCC Purno Semibold.otf') format('opentype');
+}
+
+
+.font-purno {
+  font-family: 'BCC Purno Black Italic', sans-serif;
+}
+
+:root {
+  --font-purno: 'BCC Purno Black Italic', sans-serif;
+}

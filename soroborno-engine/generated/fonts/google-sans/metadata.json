@@ -1,0 +1,177 @@
+{
+  "id": "google-sans",
+  "family": "GoogleSans-Bold",
+  "displayName": "GoogleSans-Bold",
+  "description": "Google Sans is a geometric sans-serif typeface designed by Google. It is a proprietary font used across Google's various products and platforms.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400,
+    500,
+    600,
+    700
+  ],
+  "styles": [
+    "normal",
+    "italic"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "GoogleSans-Bold.ttf",
+      "files": {
+        "ttf": "GoogleSans-Bold.ttf",
+        "woff2": "google-sans-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "GoogleSans-BoldItalic.ttf",
+      "files": {
+        "ttf": "GoogleSans-BoldItalic.ttf",
+        "woff2": "google-sans-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "GoogleSans-Italic.ttf",
+      "files": {
+        "ttf": "GoogleSans-Italic.ttf",
+        "woff2": "google-sans-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "normal",
+      "originalFileName": "GoogleSans-Medium.ttf",
+      "files": {
+        "ttf": "GoogleSans-Medium.ttf",
+        "woff2": "google-sans-500-normal.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "italic",
+      "originalFileName": "GoogleSans-MediumItalic.ttf",
+      "files": {
+        "ttf": "GoogleSans-MediumItalic.ttf",
+        "woff2": "google-sans-500-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "GoogleSans-Regular.ttf",
+      "files": {
+        "ttf": "GoogleSans-Regular.ttf",
+        "woff2": "google-sans-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "GoogleSans-SemiBold.ttf",
+      "files": {
+        "ttf": "GoogleSans-SemiBold.ttf",
+        "woff2": "google-sans-600-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "italic",
+      "originalFileName": "GoogleSans-SemiBoldItalic.ttf",
+      "files": {
+        "ttf": "GoogleSans-SemiBoldItalic.ttf",
+        "woff2": "google-sans-600-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "GoogleSans_17pt-Bold.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-Bold.ttf",
+        "woff2": "google-sans-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "GoogleSans_17pt-BoldItalic.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-BoldItalic.ttf",
+        "woff2": "google-sans-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "GoogleSans_17pt-Italic.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-Italic.ttf",
+        "woff2": "google-sans-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "normal",
+      "originalFileName": "GoogleSans_17pt-Medium.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-Medium.ttf",
+        "woff2": "google-sans-500-normal.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "italic",
+      "originalFileName": "GoogleSans_17pt-MediumItalic.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-MediumItalic.ttf",
+        "woff2": "google-sans-500-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "GoogleSans_17pt-Regular.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-Regular.ttf",
+        "woff2": "google-sans-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "GoogleSans_17pt-SemiBold.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-SemiBold.ttf",
+        "woff2": "google-sans-600-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "italic",
+      "originalFileName": "GoogleSans_17pt-SemiBoldItalic.ttf",
+      "files": {
+        "ttf": "GoogleSans_17pt-SemiBoldItalic.ttf",
+        "woff2": "google-sans-600-italic.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Google_Sans"
+  ],
+  "popularity": 0
+}

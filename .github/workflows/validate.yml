@@ -1,0 +1,39 @@
+name: Validate Font Contribution PR
+
+on:
+  pull_request:
+    paths:
+      - "fonts/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Fonts
+        uses: actions/checkout@v4
+
+      - name: Basic Font File & Metadata Validation
+        run: |
+          ERRORS=0
+          for dir in fonts/*/; do
+            [ -d "$dir" ] || continue
+            echo "Checking $dir..."
+            
+            # Check for font files
+            count=$(find "$dir" -maxdepth 1 -name "*.ttf" -o -name "*.otf" | wc -l)
+            if [ "$count" -eq 0 ]; then
+              echo "::error file=$dir::No .ttf or .otf font files found in $dir"
+              ERRORS=$((ERRORS + 1))
+            fi
+            
+            # Check for license
+            if [ ! -f "${dir}LICENSE" ] && [ ! -f "${dir}OFL.txt" ] && [ ! -f "${dir}license.txt" ]; then
+              echo "::warning file=$dir::No explicit LICENSE file found in $dir"
+            fi
+          done
+          
+          if [ "$ERRORS" -gt 0 ]; then
+            echo "Validation failed with $ERRORS errors."
+            exit 1
+          fi
+          echo "Font structure checks passed!"

@@ -1,0 +1,49 @@
+/* Soroborno Font: July-Bold-Italic (july-font) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'July-Bold-Italic';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./july-font-700-italic.woff2') format('woff2'),
+       url('./July-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'July-Bold-Italic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./july-font-700-normal.woff2') format('woff2'),
+       url('./July-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'July-Bold-Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./july-font-400-italic.woff2') format('woff2'),
+       url('./July-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'July-Bold-Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./july-font-400-normal.woff2') format('woff2'),
+       url('./July-Regular.ttf') format('truetype');
+}
+
+
+.font-july-font {
+  font-family: 'July-Bold-Italic', sans-serif;
+}
+
+:root {
+  --font-july-font: 'July-Bold-Italic', sans-serif;
+}

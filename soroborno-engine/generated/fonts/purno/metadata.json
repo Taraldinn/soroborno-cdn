@@ -1,0 +1,249 @@
+{
+  "id": "purno",
+  "family": "BCC Purno Black Italic",
+  "displayName": "BCC Purno Black Italic",
+  "description": "Purno is a comprehensive font family developed by the Bangladesh Computer Council (BCC). It is designed to providing high-quality Bengali typography for various digital and print platforms.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400,
+    600,
+    700,
+    900
+  ],
+  "styles": [
+    "italic",
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 900,
+      "style": "italic",
+      "originalFileName": "BCC Purno Black Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Black Italic.ttf",
+        "woff2": "purno-900-italic.woff2"
+      }
+    },
+    {
+      "weight": 900,
+      "style": "normal",
+      "originalFileName": "BCC Purno Black.ttf",
+      "files": {
+        "ttf": "BCC Purno Black.ttf",
+        "woff2": "purno-900-normal.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "BCC Purno Bold-Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Bold-Italic.ttf",
+        "woff2": "purno-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "BCC Purno Bold.ttf",
+      "files": {
+        "ttf": "BCC Purno Bold.ttf",
+        "woff2": "purno-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "BCC Purno Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Italic.ttf",
+        "woff2": "purno-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "BCC Purno Regular.ttf",
+      "files": {
+        "ttf": "BCC Purno Regular.ttf",
+        "woff2": "purno-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "italic",
+      "originalFileName": "BCC Purno Semibold-Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Semibold-Italic.ttf",
+        "woff2": "purno-600-italic.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "BCC Purno Semibold.ttf",
+      "files": {
+        "ttf": "BCC Purno Semibold.ttf",
+        "woff2": "purno-600-normal.woff2"
+      }
+    },
+    {
+      "weight": 900,
+      "style": "italic",
+      "originalFileName": "BCC Purno Black Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Black Italic.ttf",
+        "woff2": "purno-900-italic.woff2"
+      }
+    },
+    {
+      "weight": 900,
+      "style": "normal",
+      "originalFileName": "BCC Purno Black.ttf",
+      "files": {
+        "ttf": "BCC Purno Black.ttf",
+        "woff2": "purno-900-normal.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "BCC Purno Bold-Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Bold-Italic.ttf",
+        "woff2": "purno-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "BCC Purno Bold.ttf",
+      "files": {
+        "ttf": "BCC Purno Bold.ttf",
+        "woff2": "purno-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "BCC Purno Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Italic.ttf",
+        "woff2": "purno-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "BCC Purno Regular.ttf",
+      "files": {
+        "ttf": "BCC Purno Regular.ttf",
+        "woff2": "purno-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "italic",
+      "originalFileName": "BCC Purno Semibold-Italic.ttf",
+      "files": {
+        "ttf": "BCC Purno Semibold-Italic.ttf",
+        "woff2": "purno-600-italic.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "BCC Purno Semibold.ttf",
+      "files": {
+        "ttf": "BCC Purno Semibold.ttf",
+        "woff2": "purno-600-normal.woff2"
+      }
+    },
+    {
+      "weight": 900,
+      "style": "italic",
+      "originalFileName": "BCC Purno Black Italic.otf",
+      "files": {
+        "otf": "BCC Purno Black Italic.otf",
+        "woff2": "purno-900-italic.woff2"
+      }
+    },
+    {
+      "weight": 900,
+      "style": "normal",
+      "originalFileName": "BCC Purno Black.otf",
+      "files": {
+        "otf": "BCC Purno Black.otf",
+        "woff2": "purno-900-normal.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "BCC Purno Bold-Italic.otf",
+      "files": {
+        "otf": "BCC Purno Bold-Italic.otf",
+        "woff2": "purno-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "BCC Purno Bold.otf",
+      "files": {
+        "otf": "BCC Purno Bold.otf",
+        "woff2": "purno-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "BCC Purno Italic.otf",
+      "files": {
+        "otf": "BCC Purno Italic.otf",
+        "woff2": "purno-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "BCC Purno Regular.otf",
+      "files": {
+        "otf": "BCC Purno Regular.otf",
+        "woff2": "purno-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "italic",
+      "originalFileName": "BCC Purno Semibold-Italic.otf",
+      "files": {
+        "otf": "BCC Purno Semibold-Italic.otf",
+        "woff2": "purno-600-italic.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "BCC Purno Semibold.otf",
+      "files": {
+        "otf": "BCC Purno Semibold.otf",
+        "woff2": "purno-600-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Purno"
+  ],
+  "popularity": 0
+}

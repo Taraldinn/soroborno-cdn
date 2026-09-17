@@ -1,0 +1,86 @@
+{
+  "id": "abirvab",
+  "family": "Abirvab-Bold Italic",
+  "displayName": "Abirvab-Bold Italic",
+  "description": "Abirvab, a decorative bengali typeface, gives festive look at the first glance. The Font Family contains 6 styles. Abirvab is the font that suits your need for any occasion.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    300,
+    400,
+    700
+  ],
+  "styles": [
+    "italic",
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "Abirvab-Bold Italic.ttf",
+      "files": {
+        "ttf": "Abirvab-Bold Italic.ttf",
+        "woff2": "abirvab-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "Abirvab-Bold.ttf",
+      "files": {
+        "ttf": "Abirvab-Bold.ttf",
+        "woff2": "abirvab-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "Abirvab-Italic.ttf",
+      "files": {
+        "ttf": "Abirvab-Italic.ttf",
+        "woff2": "abirvab-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 300,
+      "style": "italic",
+      "originalFileName": "Abirvab-Light Italic.ttf",
+      "files": {
+        "ttf": "Abirvab-Light Italic.ttf",
+        "woff2": "abirvab-300-italic.woff2"
+      }
+    },
+    {
+      "weight": 300,
+      "style": "normal",
+      "originalFileName": "Abirvab-Light.ttf",
+      "files": {
+        "ttf": "Abirvab-Light.ttf",
+        "woff2": "abirvab-300-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Abirvab-Regular.ttf",
+      "files": {
+        "ttf": "Abirvab-Regular.ttf",
+        "woff2": "abirvab-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Abirvab"
+  ],
+  "popularity": 0
+}

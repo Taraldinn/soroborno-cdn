@@ -1,0 +1,67 @@
+{
+  "id": "anirban",
+  "family": "Anirban-Bold-700",
+  "displayName": "Anirban-Bold-700",
+  "description": "Anirban is mainly a display font. It has four styles. These are regular, italic, bold and bold italic. Which will be very much useful for the user and designer. The visual characteristic of this typeface specially indicates something strong. You can also use it as a paragraph font.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400,
+    700
+  ],
+  "styles": [
+    "normal",
+    "italic"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "Anirban-Bold-700.ttf",
+      "files": {
+        "ttf": "Anirban-Bold-700.ttf",
+        "woff2": "anirban-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "Anirban-Bold-Italic-700i.ttf",
+      "files": {
+        "ttf": "Anirban-Bold-Italic-700i.ttf",
+        "woff2": "anirban-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "Anirban-Italic-400i.ttf",
+      "files": {
+        "ttf": "Anirban-Italic-400i.ttf",
+        "woff2": "anirban-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Anirban-Regular-400.ttf",
+      "files": {
+        "ttf": "Anirban-Regular-400.ttf",
+        "woff2": "anirban-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Anirban"
+  ],
+  "popularity": 0
+}

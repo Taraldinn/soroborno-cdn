@@ -1,0 +1,22 @@
+/* Soroborno Font: DROHO KK V2 Unicode (2) (droho) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'DROHO KK V2 Unicode (2)';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./droho-400-normal.woff2') format('woff2'),
+       url('./DROHO KK V2 Unicode (2).ttf') format('truetype');
+}
+
+
+.font-droho {
+  font-family: 'DROHO KK V2 Unicode (2)', sans-serif;
+}
+
+:root {
+  --font-droho: 'DROHO KK V2 Unicode (2)', sans-serif;
+}

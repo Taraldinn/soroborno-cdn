@@ -1,0 +1,68 @@
+{
+  "id": "potro-sans-bangla",
+  "family": "PotroSansBangla-Bold",
+  "displayName": "PotroSansBangla-Bold",
+  "description": "Potro Sans Bangla is a modern sans-serif font designed specifically for the Bengali script. It offers clean lines and high legibility, making it suitable for a wide range of digital and print applications.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400,
+    500,
+    600,
+    700
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "PotroSansBangla-Bold.ttf",
+      "files": {
+        "ttf": "PotroSansBangla-Bold.ttf",
+        "woff2": "potro-sans-bangla-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "normal",
+      "originalFileName": "PotroSansBangla-Medium.ttf",
+      "files": {
+        "ttf": "PotroSansBangla-Medium.ttf",
+        "woff2": "potro-sans-bangla-500-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "PotroSansBangla-Regular.ttf",
+      "files": {
+        "ttf": "PotroSansBangla-Regular.ttf",
+        "woff2": "potro-sans-bangla-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "PotroSansBangla-SemiBold.ttf",
+      "files": {
+        "ttf": "PotroSansBangla-SemiBold.ttf",
+        "woff2": "potro-sans-bangla-600-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Potro Sans Bangla"
+  ],
+  "popularity": 0
+}

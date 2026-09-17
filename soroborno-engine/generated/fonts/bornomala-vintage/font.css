@@ -1,0 +1,22 @@
+/* Soroborno Font: BornomalaVintage (bornomala-vintage) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'BornomalaVintage';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./bornomala-vintage-400-normal.woff2') format('woff2'),
+       url('./BornomalaVintage.ttf') format('truetype');
+}
+
+
+.font-bornomala-vintage {
+  font-family: 'BornomalaVintage', sans-serif;
+}
+
+:root {
+  --font-bornomala-vintage: 'BornomalaVintage', sans-serif;
+}

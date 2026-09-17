@@ -1,0 +1,64 @@
+{
+  "id": "mukti",
+  "family": "mukti-v3.4.3",
+  "displayName": "mukti-v3.4.3",
+  "description": "Mukti is a significant Bengali font developed by Dr. Anirban Mitra under the Free Bangla Font Project. It was created to provide a high-quality, free Bengali font with comprehensive Unicode support, making it particularly suitable for digital publishing and web content.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    500,
+    700
+  ],
+  "styles": [
+    "normal",
+    "italic"
+  ],
+  "variants": [
+    {
+      "weight": 500,
+      "style": "normal",
+      "originalFileName": "mukti-v3.4.3.ttf",
+      "files": {
+        "ttf": "mukti-v3.4.3.ttf",
+        "woff2": "mukti-500-normal.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "muktibi-v3.4.3.ttf",
+      "files": {
+        "ttf": "muktibi-v3.4.3.ttf",
+        "woff2": "mukti-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "muktibold-v3.4.3.ttf",
+      "files": {
+        "ttf": "muktibold-v3.4.3.ttf",
+        "woff2": "mukti-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "italic",
+      "originalFileName": "muktiita-v3.4.3.ttf",
+      "files": {
+        "ttf": "muktiita-v3.4.3.ttf",
+        "woff2": "mukti-500-italic.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

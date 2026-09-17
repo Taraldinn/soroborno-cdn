@@ -1,0 +1,49 @@
+/* Soroborno Font: PotroSansBangla-Bold (potro-sans-bangla) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'PotroSansBangla-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./potro-sans-bangla-700-normal.woff2') format('woff2'),
+       url('./PotroSansBangla-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PotroSansBangla-Bold';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./potro-sans-bangla-500-normal.woff2') format('woff2'),
+       url('./PotroSansBangla-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PotroSansBangla-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./potro-sans-bangla-400-normal.woff2') format('woff2'),
+       url('./PotroSansBangla-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PotroSansBangla-Bold';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./potro-sans-bangla-600-normal.woff2') format('woff2'),
+       url('./PotroSansBangla-SemiBold.ttf') format('truetype');
+}
+
+
+.font-potro-sans-bangla {
+  font-family: 'PotroSansBangla-Bold', sans-serif;
+}
+
+:root {
+  --font-potro-sans-bangla: 'PotroSansBangla-Bold', sans-serif;
+}

@@ -1,0 +1,68 @@
+{
+  "id": "sorob",
+  "family": "Sorob-Bold",
+  "displayName": "Sorob-Bold",
+  "description": "Sorob is a Bangla display font. It’s a bold, cool, expressive in nature. Which will be very much useful for the user and designers. Mainly these fonts are for making posters, magazines, and logos as well. To make poster banners and logos, designers have to make customize types. Especially to indicate something strong and bold. It will help them to do those easily.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400,
+    500,
+    600,
+    800
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 800,
+      "style": "normal",
+      "originalFileName": "Sorob-Bold.ttf",
+      "files": {
+        "ttf": "Sorob-Bold.ttf",
+        "woff2": "sorob-800-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Sorob-Condensed.ttf",
+      "files": {
+        "ttf": "Sorob-Condensed.ttf",
+        "woff2": "sorob-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "Sorob-Matra Regular.ttf",
+      "files": {
+        "ttf": "Sorob-Matra Regular.ttf",
+        "woff2": "sorob-600-normal.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "normal",
+      "originalFileName": "Sorob-Regular.ttf",
+      "files": {
+        "ttf": "Sorob-Regular.ttf",
+        "woff2": "sorob-500-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Sorob"
+  ],
+  "popularity": 0
+}

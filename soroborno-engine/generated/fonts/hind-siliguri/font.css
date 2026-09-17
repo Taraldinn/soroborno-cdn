@@ -1,0 +1,58 @@
+/* Soroborno Font: HindSiliguri-Bold (hind-siliguri) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'HindSiliguri-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./hind-siliguri-700-normal.woff2') format('woff2'),
+       url('./HindSiliguri-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'HindSiliguri-Bold';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./hind-siliguri-300-normal.woff2') format('woff2'),
+       url('./HindSiliguri-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'HindSiliguri-Bold';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./hind-siliguri-500-normal.woff2') format('woff2'),
+       url('./HindSiliguri-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'HindSiliguri-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./hind-siliguri-400-normal.woff2') format('woff2'),
+       url('./HindSiliguri-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'HindSiliguri-Bold';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./hind-siliguri-600-normal.woff2') format('woff2'),
+       url('./HindSiliguri-SemiBold.ttf') format('truetype');
+}
+
+
+.font-hind-siliguri {
+  font-family: 'HindSiliguri-Bold', sans-serif;
+}
+
+:root {
+  --font-hind-siliguri: 'HindSiliguri-Bold', sans-serif;
+}

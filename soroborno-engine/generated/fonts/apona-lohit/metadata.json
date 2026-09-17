@@ -1,0 +1,35 @@
+{
+  "id": "apona-lohit",
+  "family": "apona-lohit-v1.01",
+  "displayName": "apona-lohit-v1.01",
+  "description": "Apona Lohit is an enhanced version of the Lohit font from Ekushey, featuring additional hinting for improved screen readability. It serves as a Unicode equivalent to the popular Boishakhi font. The TrueType hinting was initiated by Ershadul Haq and later refined by Alamgir Mohammed.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "apona-lohit-v1.01.ttf",
+      "files": {
+        "ttf": "apona-lohit-v1.01.ttf",
+        "woff2": "apona-lohit-400-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

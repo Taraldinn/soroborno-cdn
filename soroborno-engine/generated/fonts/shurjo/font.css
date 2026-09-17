@@ -1,0 +1,31 @@
+/* Soroborno Font: Shurjo-Regular (shurjo) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'Shurjo-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./shurjo-400-normal.woff2') format('woff2'),
+       url('./Shurjo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Shurjo-Regular';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./shurjo-700-normal.woff2') format('woff2'),
+       url('./Shurjo-bold.ttf') format('truetype');
+}
+
+
+.font-shurjo {
+  font-family: 'Shurjo-Regular', sans-serif;
+}
+
+:root {
+  --font-shurjo: 'Shurjo-Regular', sans-serif;
+}

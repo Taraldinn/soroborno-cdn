@@ -1,0 +1,35 @@
+{
+  "id": "baloo-da-2",
+  "family": "baloo-da-2",
+  "displayName": "baloo-da-2",
+  "description": "Baloo Da 2 is a modernized version of the original Baloo font family, specifically designed for Bengali script. It features a contemporary design with improved readability and versatile weight options, making it perfect for both display and text usage.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "baloo-da-2.ttf",
+      "files": {
+        "ttf": "baloo-da-2.ttf",
+        "woff2": "baloo-da-2-400-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

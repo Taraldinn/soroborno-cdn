@@ -1,0 +1,66 @@
+{
+  "id": "tiro-bangla",
+  "family": "TiroBangla-Italic",
+  "displayName": "TiroBangla-Italic",
+  "description": "Tiro Bangla is an elegant typeface crafted by renowned designers John Hudson and Fiona Ross, with valuable assistance from Neelakash Kshetrimayum. The font's heritage traces back to a typeface specifically designed for the prestigious Murty Classical Library of India book series.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "italic",
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "TiroBangla-Italic.ttf",
+      "files": {
+        "ttf": "TiroBangla-Italic.ttf",
+        "woff2": "tiro-bangla-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "TiroBangla-Regular.ttf",
+      "files": {
+        "ttf": "TiroBangla-Regular.ttf",
+        "woff2": "tiro-bangla-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "tiro-bangla-italic-v1.60.ttf",
+      "files": {
+        "ttf": "tiro-bangla-italic-v1.60.ttf",
+        "woff2": "tiro-bangla-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "tiro-bangla-regular-v1.60.ttf",
+      "files": {
+        "ttf": "tiro-bangla-regular-v1.60.ttf",
+        "woff2": "tiro-bangla-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Tiro_Bangla"
+  ],
+  "popularity": 0
+}

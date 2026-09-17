@@ -1,0 +1,63 @@
+name: Ingest Font Updates & Rebuild
+
+on:
+  repository_dispatch:
+    types: [font-repo-updated]
+  workflow_dispatch:
+    inputs:
+      font_ref:
+        description: 'Git ref / commit sha of font repository'
+        required: false
+        default: 'main'
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Engine
+        uses: actions/checkout@v4
+
+      - name: Checkout Fonts Repository
+        uses: actions/checkout@v4
+        with:
+          repository: Taraldinn/soroborno-cdn
+          ref: ${{ github.event.client_payload.ref || inputs.font_ref || 'main' }}
+          path: fonts-source
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile=false
+
+      - name: Run Processing Engine
+        env:
+          FONT_REPO_DIR: ${{ github.workspace }}/fonts-source/fonts
+          OUTPUT_DIR: ${{ github.workspace }}/generated
+        run: pnpm run engine:process
+
+      - name: Rebuild Core & Font Packages
+        run: |
+          mkdir -p packages/fonts/data
+          cp generated/fonts.json packages/fonts/data/fonts.json
+          pnpm run build
+
+      - name: Run Verification Tests
+        run: pnpm test
+
+      - name: Create Pull Request with Updated Assets
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(fonts): update font assets and metadata from soroborno-cdn"
+          title: "Automated Font Ingestion Update"
+          body: "Triggered by font repository update in `Taraldinn/soroborno-cdn`."
+          branch: "automation/font-update"

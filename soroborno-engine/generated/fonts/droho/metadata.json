@@ -1,0 +1,38 @@
+{
+  "id": "droho",
+  "family": "DROHO KK V2 Unicode (2)",
+  "displayName": "DROHO KK V2 Unicode (2)",
+  "description": "DROHO is a Bengali font with a unique character and style.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "DROHO KK V2 Unicode (2).ttf",
+      "files": {
+        "ttf": "DROHO KK V2 Unicode (2).ttf",
+        "woff2": "droho-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "DROHO"
+  ],
+  "popularity": 0
+}

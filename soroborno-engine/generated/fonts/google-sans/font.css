@@ -1,0 +1,157 @@
+/* Soroborno Font: GoogleSans-Bold (google-sans) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./google-sans-700-normal.woff2') format('woff2'),
+       url('./GoogleSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./google-sans-700-italic.woff2') format('woff2'),
+       url('./GoogleSans-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./google-sans-400-italic.woff2') format('woff2'),
+       url('./GoogleSans-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./google-sans-500-normal.woff2') format('woff2'),
+       url('./GoogleSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./google-sans-500-italic.woff2') format('woff2'),
+       url('./GoogleSans-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./google-sans-400-normal.woff2') format('woff2'),
+       url('./GoogleSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./google-sans-600-normal.woff2') format('woff2'),
+       url('./GoogleSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./google-sans-600-italic.woff2') format('woff2'),
+       url('./GoogleSans-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./google-sans-700-normal.woff2') format('woff2'),
+       url('./GoogleSans_17pt-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./google-sans-700-italic.woff2') format('woff2'),
+       url('./GoogleSans_17pt-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./google-sans-400-italic.woff2') format('woff2'),
+       url('./GoogleSans_17pt-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./google-sans-500-normal.woff2') format('woff2'),
+       url('./GoogleSans_17pt-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./google-sans-500-italic.woff2') format('woff2'),
+       url('./GoogleSans_17pt-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./google-sans-400-normal.woff2') format('woff2'),
+       url('./GoogleSans_17pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./google-sans-600-normal.woff2') format('woff2'),
+       url('./GoogleSans_17pt-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./google-sans-600-italic.woff2') format('woff2'),
+       url('./GoogleSans_17pt-SemiBoldItalic.ttf') format('truetype');
+}
+
+
+.font-google-sans {
+  font-family: 'GoogleSans-Bold', sans-serif;
+}
+
+:root {
+  --font-google-sans: 'GoogleSans-Bold', sans-serif;
+}

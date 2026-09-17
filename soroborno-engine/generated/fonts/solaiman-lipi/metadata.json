@@ -1,0 +1,55 @@
+{
+  "id": "solaiman-lipi",
+  "family": "solaimanlipi-bold-v1.0",
+  "displayName": "solaimanlipi-bold-v1.0",
+  "description": "SolaimanLipi is a Unicode-compliant Bangla font designed by Solaiman Karim in 2003. It was developed as part of the Ekushey project and is redistributed by Altruists International. The font supports complete Bengali Unicode range (U+0980-U+09FF).",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    100,
+    400,
+    700
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "solaimanlipi-bold-v1.0.ttf",
+      "files": {
+        "ttf": "solaimanlipi-bold-v1.0.ttf",
+        "woff2": "solaiman-lipi-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "solaimanlipi-normal-v1.0.ttf",
+      "files": {
+        "ttf": "solaimanlipi-normal-v1.0.ttf",
+        "woff2": "solaiman-lipi-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 100,
+      "style": "normal",
+      "originalFileName": "solaimanlipi-thin-v1.0.ttf",
+      "files": {
+        "ttf": "solaimanlipi-thin-v1.0.ttf",
+        "woff2": "solaiman-lipi-100-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

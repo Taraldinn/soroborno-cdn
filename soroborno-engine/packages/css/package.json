@@ -1,0 +1,24 @@
+{
+  "name": "@soroborno/css",
+  "version": "0.1.0",
+  "description": "CSS generators, utility classes, and static stylesheets for Soroborno fonts",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "dependencies": {
+    "@soroborno/core": "workspace:*"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["bangla", "fonts", "css", "typography", "soroborno"],
+  "author": "Taraldinn",
+  "license": "MIT"
+}

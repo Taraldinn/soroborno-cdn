@@ -1,0 +1,67 @@
+/* Soroborno Font: FN Masud Chowa Bijoy 2003 Italic (fn-masud-chowa) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fn-masud-chowa-400-italic.woff2') format('woff2'),
+       url('./FN Masud Chowa Bijoy 2003 Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fn-masud-chowa-400-normal.woff2') format('woff2'),
+       url('./FN Masud Chowa Bijoy 2003.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fn-masud-chowa-400-italic.woff2') format('woff2'),
+       url('./FN Masud Chowa Bijoy 52 Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fn-masud-chowa-400-normal.woff2') format('woff2'),
+       url('./FN Masud Chowa Bijoy 52.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fn-masud-chowa-400-italic.woff2') format('woff2'),
+       url('./FN Masud Chowa Uni&BE Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fn-masud-chowa-400-normal.woff2') format('woff2'),
+       url('./FN Masud Chowa Uni&BE.otf') format('opentype');
+}
+
+
+.font-fn-masud-chowa {
+  font-family: 'FN Masud Chowa Bijoy 2003 Italic', sans-serif;
+}
+
+:root {
+  --font-fn-masud-chowa: 'FN Masud Chowa Bijoy 2003 Italic', sans-serif;
+}

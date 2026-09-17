@@ -1,0 +1,49 @@
+/* Soroborno Font: Anirban-Bold-700 (anirban) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'Anirban-Bold-700';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./anirban-700-normal.woff2') format('woff2'),
+       url('./Anirban-Bold-700.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Anirban-Bold-700';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./anirban-700-italic.woff2') format('woff2'),
+       url('./Anirban-Bold-Italic-700i.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Anirban-Bold-700';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./anirban-400-italic.woff2') format('woff2'),
+       url('./Anirban-Italic-400i.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Anirban-Bold-700';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./anirban-400-normal.woff2') format('woff2'),
+       url('./Anirban-Regular-400.ttf') format('truetype');
+}
+
+
+.font-anirban {
+  font-family: 'Anirban-Bold-700', sans-serif;
+}
+
+:root {
+  --font-anirban: 'Anirban-Bold-700', sans-serif;
+}

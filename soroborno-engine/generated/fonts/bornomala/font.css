@@ -1,0 +1,31 @@
+/* Soroborno Font: Bornomala-Bold (bornomala) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'Bornomala-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./bornomala-700-normal.woff2') format('woff2'),
+       url('./Bornomala-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bornomala-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./bornomala-400-normal.woff2') format('woff2'),
+       url('./Bornomala-Regular.ttf') format('truetype');
+}
+
+
+.font-bornomala {
+  font-family: 'Bornomala-Bold', sans-serif;
+}
+
+:root {
+  --font-bornomala: 'Bornomala-Bold', sans-serif;
+}

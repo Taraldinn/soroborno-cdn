@@ -1,0 +1,78 @@
+{
+  "id": "hind-siliguri",
+  "family": "HindSiliguri-Bold",
+  "displayName": "HindSiliguri-Bold",
+  "description": "Hind Siliguri is a free Bengali typeface developed by the Indian Type Foundry (ITF). It is a part of the Hind font family and is designed for use in both digital and print media, offering a clean and modern sans-serif look for the Bengali script.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    300,
+    400,
+    500,
+    600,
+    700
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "HindSiliguri-Bold.ttf",
+      "files": {
+        "ttf": "HindSiliguri-Bold.ttf",
+        "woff2": "hind-siliguri-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 300,
+      "style": "normal",
+      "originalFileName": "HindSiliguri-Light.ttf",
+      "files": {
+        "ttf": "HindSiliguri-Light.ttf",
+        "woff2": "hind-siliguri-300-normal.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "normal",
+      "originalFileName": "HindSiliguri-Medium.ttf",
+      "files": {
+        "ttf": "HindSiliguri-Medium.ttf",
+        "woff2": "hind-siliguri-500-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "HindSiliguri-Regular.ttf",
+      "files": {
+        "ttf": "HindSiliguri-Regular.ttf",
+        "woff2": "hind-siliguri-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "HindSiliguri-SemiBold.ttf",
+      "files": {
+        "ttf": "HindSiliguri-SemiBold.ttf",
+        "woff2": "hind-siliguri-600-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Hind_Siliguri"
+  ],
+  "popularity": 0
+}

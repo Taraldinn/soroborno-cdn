@@ -1,0 +1,24 @@
+{
+  "name": "@soroborno/nuxt",
+  "version": "0.1.0",
+  "description": "Nuxt 3 module for effortless Soroborno Bangla font injection and composables",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "dependencies": {
+    "@soroborno/core": "workspace:*"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["bangla", "fonts", "nuxt", "nuxtjs", "typography", "soroborno"],
+  "author": "Taraldinn",
+  "license": "MIT"
+}

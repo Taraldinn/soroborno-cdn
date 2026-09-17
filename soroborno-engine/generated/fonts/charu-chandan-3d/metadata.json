@@ -1,0 +1,35 @@
+{
+  "id": "charu-chandan-3d",
+  "family": "charu-chandan-3d-v1.10",
+  "displayName": "charu-chandan-3d-v1.10",
+  "description": "Charu Chandan 3D is a unique font designed to give a three-dimensional effect, adding depth and visual interest to your text. Font Source: Charu Chandan",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "charu-chandan-3d-v1.10.ttf",
+      "files": {
+        "ttf": "charu-chandan-3d-v1.10.ttf",
+        "woff2": "charu-chandan-3d-400-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

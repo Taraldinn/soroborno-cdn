@@ -1,0 +1,31 @@
+{
+  "name": "@soroborno/react",
+  "version": "0.1.0",
+  "description": "React integration, hooks, and components for the Soroborno Bangla font ecosystem",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0"
+  },
+  "dependencies": {
+    "@soroborno/core": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.1",
+    "react": "^19.0.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["bangla", "fonts", "react", "typography", "soroborno"],
+  "author": "Taraldinn",
+  "license": "MIT"
+}

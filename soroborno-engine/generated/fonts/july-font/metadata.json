@@ -1,0 +1,67 @@
+{
+  "id": "july-font",
+  "family": "July-Bold-Italic",
+  "displayName": "July-Bold-Italic",
+  "description": "July Font is a Bengali font family providing clear and readable text.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400,
+    700
+  ],
+  "styles": [
+    "italic",
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "July-Bold-Italic.ttf",
+      "files": {
+        "ttf": "July-Bold-Italic.ttf",
+        "woff2": "july-font-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "July-Bold.ttf",
+      "files": {
+        "ttf": "July-Bold.ttf",
+        "woff2": "july-font-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "July-Italic.ttf",
+      "files": {
+        "ttf": "July-Italic.ttf",
+        "woff2": "july-font-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "July-Regular.ttf",
+      "files": {
+        "ttf": "July-Regular.ttf",
+        "woff2": "july-font-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "July-Font"
+  ],
+  "popularity": 0
+}

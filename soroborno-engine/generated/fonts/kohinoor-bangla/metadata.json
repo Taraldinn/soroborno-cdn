@@ -1,0 +1,78 @@
+{
+  "id": "kohinoor-bangla",
+  "family": "KohinoorBangla-Bold",
+  "displayName": "KohinoorBangla-Bold",
+  "description": "Kohinoor Bangla is a highly legible Bengali font designed for multilingual projects and corporate branding.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    300,
+    400,
+    500,
+    600,
+    700
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "KohinoorBangla-Bold.otf",
+      "files": {
+        "otf": "KohinoorBangla-Bold.otf",
+        "woff2": "kohinoor-bangla-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 300,
+      "style": "normal",
+      "originalFileName": "KohinoorBangla-Light.otf",
+      "files": {
+        "otf": "KohinoorBangla-Light.otf",
+        "woff2": "kohinoor-bangla-300-normal.woff2"
+      }
+    },
+    {
+      "weight": 500,
+      "style": "normal",
+      "originalFileName": "KohinoorBangla-Medium.otf",
+      "files": {
+        "otf": "KohinoorBangla-Medium.otf",
+        "woff2": "kohinoor-bangla-500-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "KohinoorBangla-Regular.otf",
+      "files": {
+        "otf": "KohinoorBangla-Regular.otf",
+        "woff2": "kohinoor-bangla-400-normal.woff2"
+      }
+    },
+    {
+      "weight": 600,
+      "style": "normal",
+      "originalFileName": "KohinoorBangla-Semibold.otf",
+      "files": {
+        "otf": "KohinoorBangla-Semibold.otf",
+        "woff2": "kohinoor-bangla-600-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Kohinoor Bangla"
+  ],
+  "popularity": 0
+}

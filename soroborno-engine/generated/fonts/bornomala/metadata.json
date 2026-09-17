@@ -1,0 +1,48 @@
+{
+  "id": "bornomala",
+  "family": "Bornomala-Bold",
+  "displayName": "Bornomala-Bold",
+  "description": "Bornomala is a Bengali font family designed for clarity and elegance.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400,
+    700
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "Bornomala-Bold.ttf",
+      "files": {
+        "ttf": "Bornomala-Bold.ttf",
+        "woff2": "bornomala-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Bornomala-Regular.ttf",
+      "files": {
+        "ttf": "Bornomala-Regular.ttf",
+        "woff2": "bornomala-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Bornomala"
+  ],
+  "popularity": 0
+}

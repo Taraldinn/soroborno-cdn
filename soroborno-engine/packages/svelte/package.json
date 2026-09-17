@@ -1,0 +1,24 @@
+{
+  "name": "@soroborno/svelte",
+  "version": "0.1.0",
+  "description": "Svelte and SvelteKit integration and action for Soroborno fonts",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "dependencies": {
+    "@soroborno/core": "workspace:*"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["bangla", "fonts", "svelte", "sveltekit", "typography", "soroborno"],
+  "author": "Taraldinn",
+  "license": "MIT"
+}

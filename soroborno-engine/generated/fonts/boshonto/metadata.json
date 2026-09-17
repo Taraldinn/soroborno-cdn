@@ -1,0 +1,86 @@
+{
+  "id": "boshonto",
+  "family": "Boshonto-Bold-Italic",
+  "displayName": "Boshonto-Bold-Italic",
+  "description": "Boshonto typeface can be used as a Display and Paragraph font. The visual characteristic of this typeface is to express sweet and soft words as well as emotional talks.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    300,
+    400,
+    700
+  ],
+  "styles": [
+    "italic",
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 700,
+      "style": "italic",
+      "originalFileName": "Boshonto-Bold-Italic.ttf",
+      "files": {
+        "ttf": "Boshonto-Bold-Italic.ttf",
+        "woff2": "boshonto-700-italic.woff2"
+      }
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "originalFileName": "Boshonto-Bold.ttf",
+      "files": {
+        "ttf": "Boshonto-Bold.ttf",
+        "woff2": "boshonto-700-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "originalFileName": "Boshonto-Italic.ttf",
+      "files": {
+        "ttf": "Boshonto-Italic.ttf",
+        "woff2": "boshonto-400-italic.woff2"
+      }
+    },
+    {
+      "weight": 300,
+      "style": "italic",
+      "originalFileName": "Boshonto-Light-Italic.ttf",
+      "files": {
+        "ttf": "Boshonto-Light-Italic.ttf",
+        "woff2": "boshonto-300-italic.woff2"
+      }
+    },
+    {
+      "weight": 300,
+      "style": "normal",
+      "originalFileName": "Boshonto-Light.ttf",
+      "files": {
+        "ttf": "Boshonto-Light.ttf",
+        "woff2": "boshonto-300-normal.woff2"
+      }
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "Boshonto-Regular.ttf",
+      "files": {
+        "ttf": "Boshonto-Regular.ttf",
+        "woff2": "boshonto-400-normal.woff2"
+      }
+    }
+  ],
+  "aliases": [
+    "Boshonto"
+  ],
+  "popularity": 0
+}

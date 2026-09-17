@@ -1,0 +1,35 @@
+{
+  "id": "charukola-ultra-light",
+  "family": "charukola-ultra-light-v1.20",
+  "displayName": "charukola-ultra-light-v1.20",
+  "description": "Charukola Ultra Light is a font available through Charu Chandan, providing a sleek and modern typeface option for digital and print use. Font Source: Charu Chandan",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    200
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 200,
+      "style": "normal",
+      "originalFileName": "charukola-ultra-light-v1.20.ttf",
+      "files": {
+        "ttf": "charukola-ultra-light-v1.20.ttf",
+        "woff2": "charukola-ultra-light-200-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

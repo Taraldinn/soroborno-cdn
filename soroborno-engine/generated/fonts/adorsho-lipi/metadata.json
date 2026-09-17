@@ -1,0 +1,35 @@
+{
+  "id": "adorsho-lipi",
+  "family": "adorsho-lipi-v1.0",
+  "displayName": "adorsho-lipi-v1.0",
+  "description": "Adorsho Lipi is a versatile font sourced from cgimagine, designed to provide clear and elegant text for various applications.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "adorsho-lipi-v1.0.ttf",
+      "files": {
+        "ttf": "adorsho-lipi-v1.0.ttf",
+        "woff2": "adorsho-lipi-400-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}

@@ -1,0 +1,58 @@
+/* Soroborno Font: KohinoorBangla-Bold (kohinoor-bangla) */
+
+/* License: SIL OFL 1.1 */
+
+
+@font-face {
+  font-family: 'KohinoorBangla-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./kohinoor-bangla-700-normal.woff2') format('woff2'),
+       url('./KohinoorBangla-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'KohinoorBangla-Bold';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./kohinoor-bangla-300-normal.woff2') format('woff2'),
+       url('./KohinoorBangla-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'KohinoorBangla-Bold';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./kohinoor-bangla-500-normal.woff2') format('woff2'),
+       url('./KohinoorBangla-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'KohinoorBangla-Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./kohinoor-bangla-400-normal.woff2') format('woff2'),
+       url('./KohinoorBangla-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'KohinoorBangla-Bold';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./kohinoor-bangla-600-normal.woff2') format('woff2'),
+       url('./KohinoorBangla-Semibold.otf') format('opentype');
+}
+
+
+.font-kohinoor-bangla {
+  font-family: 'KohinoorBangla-Bold', sans-serif;
+}
+
+:root {
+  --font-kohinoor-bangla: 'KohinoorBangla-Bold', sans-serif;
+}

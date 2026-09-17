@@ -1,0 +1,35 @@
+{
+  "id": "vrinda",
+  "family": "vrinda",
+  "displayName": "vrinda",
+  "description": "Vrinda is a traditional Bengali font that offers clean and legible typography, making it suitable for both digital content and print materials requiring Bengali script support.",
+  "category": "bangla",
+  "designer": "Open Source Contributor",
+  "version": "1.0",
+  "license": {
+    "name": "SIL OFL 1.1",
+    "url": "https://openfontlicense.org/"
+  },
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "variants": [
+    {
+      "weight": 400,
+      "style": "normal",
+      "originalFileName": "vrinda.ttf",
+      "files": {
+        "ttf": "vrinda.ttf",
+        "woff2": "vrinda-400-normal.woff2"
+      }
+    }
+  ],
+  "popularity": 0
+}
