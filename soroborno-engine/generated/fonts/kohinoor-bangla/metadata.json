@@ -1,14 +1,14 @@
 {
   "id": "kohinoor-bangla",
-  "family": "KohinoorBangla-Bold",
-  "displayName": "KohinoorBangla-Bold",
+  "family": "Kohinoor Bangla",
+  "displayName": "Kohinoor Bangla",
   "description": "Kohinoor Bangla is a highly legible Bengali font designed for multilingual projects and corporate branding.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Satya Rajpurohit",
+  "version": "Version 1.152;PS 1.000;hotconv 16.6.54;makeotf.lib2.5.65590",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is protected under domestic and international trademark and copyright law. You agree to identify the ITF fonts by name and credit the ITF's ownership of the trademarks and copyrights in any design or production credits.",
+    "url": "https://indiantypefoundry.com/licensing"
   },
   "subsets": [
     "bengali",

@@ -1,13 +1,13 @@
 {
   "id": "bangla",
-  "family": "bangla",
-  "displayName": "bangla",
+  "family": "Bangla",
+  "displayName": "Bangla",
   "description": "The Bangla font is a versatile typeface sourced from PfEd, designed to support Bengali script in various digital formats.",
   "category": "bangla",
   "designer": "Open Source Contributor",
-  "version": "1.0",
+  "version": "Version 1.0",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "GNU GPL",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [

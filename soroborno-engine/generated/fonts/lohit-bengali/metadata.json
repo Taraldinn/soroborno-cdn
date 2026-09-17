@@ -1,11 +1,11 @@
 {
   "id": "lohit-bengali",
-  "family": "lohit-bengali-v2.5.1",
-  "displayName": "lohit-bengali-v2.5.1",
+  "family": "Lohit Bengali",
+  "displayName": "Lohit Bengali",
   "description": "Lohit Bengali is a widely-used Unicode-compliant Bengali font developed as part of the Lohit font family project. Originally designed by Automatic Control Equipments (Pune, India) and enhanced by various contributors, it has become a standard choice for Bengali text rendering across different platforms.",
   "category": "bangla",
   "designer": "Open Source Contributor",
-  "version": "1.0",
+  "version": "Version 2.5.1",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"

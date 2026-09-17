@@ -1,10 +1,10 @@
-/* Soroborno Font: Chilekotha Italic (chilekotha) */
+/* Soroborno Font: Chilekotha (chilekotha) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL */
 
 
 @font-face {
-  font-family: 'Chilekotha Italic';
+  font-family: 'Chilekotha';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'Chilekotha Italic';
+  font-family: 'Chilekotha';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -23,9 +23,9 @@
 
 
 .font-chilekotha {
-  font-family: 'Chilekotha Italic', sans-serif;
+  font-family: 'Chilekotha', sans-serif;
 }
 
 :root {
-  --font-chilekotha: 'Chilekotha Italic', sans-serif;
+  --font-chilekotha: 'Chilekotha', sans-serif;
 }

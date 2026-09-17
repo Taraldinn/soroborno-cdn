@@ -1,13 +1,14 @@
 {
   "id": "charu-chandan-hard-stroke",
-  "family": "charu-chandan-hard-stroke-v2.0",
-  "displayName": "charu-chandan-hard-stroke-v2.0",
+  "family": "Charu Chandan Hard Stroke",
+  "displayName": "Charu Chandan Hard Stroke",
   "description": "Charu Chandan Hard Stroke is a distinctive font available from Charu Chandan, offering bold and impactful typography for various design needs. Font Source: Charu Chandan",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Chandan Acharja",
+  "designerUrl": "http://www.charuchandan.com/",
+  "version": "2.00, 13 July 2017, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright © 2016 by Chandan Acharja. All rights reserved.\r\n\r\nTypography & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [

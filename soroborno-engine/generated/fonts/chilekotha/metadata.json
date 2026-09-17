@@ -1,14 +1,15 @@
 {
   "id": "chilekotha",
-  "family": "Chilekotha Italic",
-  "displayName": "Chilekotha Italic",
+  "family": "Chilekotha",
+  "displayName": "Chilekotha",
   "description": "Chilekotha is a Unicode-compliant, dynamic Bengali typeface with an elegant look. The dynamic stylization of the Chilekotha font represents peace and harmony. Chilekotha can be used in large sizes for headings, rather than for extended passages of body text. Chilekotha will often have more eccentric and variable designs than the simple, relatively restrained typefaces generally used for body text.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Md. Shamim Reza",
+  "designerUrl": "https://www.facebook.com/shameem.reza.167",
+  "version": "Version 1.001",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "url": "http://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",

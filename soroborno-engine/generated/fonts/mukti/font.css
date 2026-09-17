@@ -1,10 +1,10 @@
-/* Soroborno Font: mukti-v3.4.3 (mukti) */
+/* Soroborno Font: Mukti (mukti) */
 
-/* License: SIL OFL 1.1 */
+/* License: GNU GPL3+© Mukta Bangla Font Project, Dr Anirban Mitra 2002-2022 */
 
 
 @font-face {
-  font-family: 'mukti-v3.4.3';
+  font-family: 'Mukti';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'mukti-v3.4.3';
+  font-family: 'Mukti';
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -22,7 +22,7 @@
 }
 
 @font-face {
-  font-family: 'mukti-v3.4.3';
+  font-family: 'Mukti';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-  font-family: 'mukti-v3.4.3';
+  font-family: 'Mukti';
   font-style: italic;
   font-weight: 500;
   font-display: swap;
@@ -41,9 +41,9 @@
 
 
 .font-mukti {
-  font-family: 'mukti-v3.4.3', sans-serif;
+  font-family: 'Mukti', sans-serif;
 }
 
 :root {
-  --font-mukti: 'mukti-v3.4.3', sans-serif;
+  --font-mukti: 'Mukti', sans-serif;
 }

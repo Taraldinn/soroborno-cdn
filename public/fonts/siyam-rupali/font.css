@@ -1,10 +1,10 @@
-/* Soroborno Font: siyam-rupali-v1.070 (siyam-rupali) */
+/* Soroborno Font: Siyam Rupali (siyam-rupali) */
 
-/* License: SIL OFL 1.1 */
+/* License: GNU GPL */
 
 
 @font-face {
-  font-family: 'siyam-rupali-v1.070';
+  font-family: 'Siyam Rupali';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-siyam-rupali {
-  font-family: 'siyam-rupali-v1.070', sans-serif;
+  font-family: 'Siyam Rupali', sans-serif;
 }
 
 :root {
-  --font-siyam-rupali: 'siyam-rupali-v1.070', sans-serif;
+  --font-siyam-rupali: 'Siyam Rupali', sans-serif;
 }

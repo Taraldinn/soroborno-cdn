@@ -1,10 +1,10 @@
-/* Soroborno Font: baloo-da-2 (baloo-da-2) */
+/* Soroborno Font: Baloo Da 2 (baloo-da-2) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL */
 
 
 @font-face {
-  font-family: 'baloo-da-2';
+  font-family: 'Baloo Da 2';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-baloo-da-2 {
-  font-family: 'baloo-da-2', sans-serif;
+  font-family: 'Baloo Da 2', sans-serif;
 }
 
 :root {
-  --font-baloo-da-2: 'baloo-da-2', sans-serif;
+  --font-baloo-da-2: 'Baloo Da 2', sans-serif;
 }

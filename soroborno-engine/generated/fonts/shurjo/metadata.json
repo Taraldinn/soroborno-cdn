@@ -1,11 +1,12 @@
 {
   "id": "shurjo",
-  "family": "Shurjo-Regular",
-  "displayName": "Shurjo-Regular",
+  "family": "Shurjo",
+  "displayName": "Shurjo",
   "description": "A bespoke type family designed for Bangladesh’s largest newspaper, the Dainik Prothom Alo in 2017-2018, this family of 18 fonts in 9 weights was a major part of the recent redesign of the newspaper.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jacob Thomas <jacob@bengalcreativemedia.com>",
+  "designerUrl": "http://banglatypefoundry.com",
+  "version": "Version 5.001",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"

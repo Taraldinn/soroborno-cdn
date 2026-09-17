@@ -1,10 +1,14 @@
-/* Soroborno Font: Abirvab-Bold Italic (abirvab) */
+/* Soroborno Font: AbirvabHimel (abirvab) */
 
-/* License: SIL OFL 1.1 */
+/* License: Copyright (c) 2016 by Thouhedul Islam Himel. All rights reserved.                                                                                                                                                                                    Font Design & Develop by Thouhedul Islam Himel, 
+Department of Multimedia & Creative Technology (MCT), Daffodil International University (DIU).
+Web: studioarrival.com
+Email: himelnandail@gmail.com
+Cell: +8801931513165 */
 
 
 @font-face {
-  font-family: 'Abirvab-Bold Italic';
+  font-family: 'AbirvabHimel';
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -13,7 +17,7 @@
 }
 
 @font-face {
-  font-family: 'Abirvab-Bold Italic';
+  font-family: 'AbirvabHimel';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -22,7 +26,7 @@
 }
 
 @font-face {
-  font-family: 'Abirvab-Bold Italic';
+  font-family: 'AbirvabHimel';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -31,7 +35,7 @@
 }
 
 @font-face {
-  font-family: 'Abirvab-Bold Italic';
+  font-family: 'AbirvabHimel';
   font-style: italic;
   font-weight: 300;
   font-display: swap;
@@ -40,7 +44,7 @@
 }
 
 @font-face {
-  font-family: 'Abirvab-Bold Italic';
+  font-family: 'AbirvabHimel';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -49,7 +53,7 @@
 }
 
 @font-face {
-  font-family: 'Abirvab-Bold Italic';
+  font-family: 'AbirvabHimel';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -59,9 +63,9 @@
 
 
 .font-abirvab {
-  font-family: 'Abirvab-Bold Italic', sans-serif;
+  font-family: 'AbirvabHimel', sans-serif;
 }
 
 :root {
-  --font-abirvab: 'Abirvab-Bold Italic', sans-serif;
+  --font-abirvab: 'AbirvabHimel', sans-serif;
 }

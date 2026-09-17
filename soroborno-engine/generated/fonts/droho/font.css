@@ -1,10 +1,10 @@
-/* Soroborno Font: DROHO KK V2 Unicode (2) (droho) */
+/* Soroborno Font: DROHO KK (droho) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is copyrighted property of Lipikola under domestic and international trademark and copyright laws. You cannot Modify, Distribute, Edit, Forge or Sell this Font Software, it will be considered illegal & punishable crime in the court of law. You have to give proper credit to the owner of the Font Software- Lipikoa in your design/product detail and accept our terms & conditions. */
 
 
 @font-face {
-  font-family: 'DROHO KK V2 Unicode (2)';
+  font-family: 'DROHO KK';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-droho {
-  font-family: 'DROHO KK V2 Unicode (2)', sans-serif;
+  font-family: 'DROHO KK', sans-serif;
 }
 
 :root {
-  --font-droho: 'DROHO KK V2 Unicode (2)', sans-serif;
+  --font-droho: 'DROHO KK', sans-serif;
 }

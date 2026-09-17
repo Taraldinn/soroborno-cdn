@@ -1,10 +1,10 @@
-/* Soroborno Font: bangla (bangla) */
+/* Soroborno Font: Bangla (bangla) */
 
-/* License: SIL OFL 1.1 */
+/* License: GNU GPL */
 
 
 @font-face {
-  font-family: 'bangla';
+  font-family: 'Bangla';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-bangla {
-  font-family: 'bangla', sans-serif;
+  font-family: 'Bangla', sans-serif;
 }
 
 :root {
-  --font-bangla: 'bangla', sans-serif;
+  --font-bangla: 'Bangla', sans-serif;
 }

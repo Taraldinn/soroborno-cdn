@@ -1,11 +1,12 @@
 {
   "id": "osman-hadi",
-  "family": "Osman Hadi Insaf",
-  "displayName": "Osman Hadi Insaf",
+  "family": "Osman Hadi",
+  "displayName": "Osman Hadi",
   "description": "Osman Hadi is not merely a Bangla typeface; it is a reflection of an ideal shaped by courage in the face of injustice, commitment to truth, and the pursuit of fairness. Every letter carries strength and purpose, while preserving a sense of human warmth and clarity. This typeface reminds us that words are not just for writing, they can inspire courage, unite people, and guide us toward justice. This is our typographic tribute to carry these values forward from generation to generation.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Ismail Hossain Sifat",
+  "designerUrl": "https://m.facebook.com/ismailh.sifat/",
+  "version": "Version 1.000",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"

@@ -1,10 +1,10 @@
-/* Soroborno Font: solaimanlipi-bold-v1.0 (solaiman-lipi) */
+/* Soroborno Font: SolaimanLipi (solaiman-lipi) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is licensed under the SIL Open Font License, Version 1.1. */
 
 
 @font-face {
-  font-family: 'solaimanlipi-bold-v1.0';
+  font-family: 'SolaimanLipi';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'solaimanlipi-bold-v1.0';
+  font-family: 'SolaimanLipi';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -22,7 +22,7 @@
 }
 
 @font-face {
-  font-family: 'solaimanlipi-bold-v1.0';
+  font-family: 'SolaimanLipi';
   font-style: normal;
   font-weight: 100;
   font-display: swap;
@@ -32,9 +32,9 @@
 
 
 .font-solaiman-lipi {
-  font-family: 'solaimanlipi-bold-v1.0', sans-serif;
+  font-family: 'SolaimanLipi', sans-serif;
 }
 
 :root {
-  --font-solaiman-lipi: 'solaimanlipi-bold-v1.0', sans-serif;
+  --font-solaiman-lipi: 'SolaimanLipi', sans-serif;
 }

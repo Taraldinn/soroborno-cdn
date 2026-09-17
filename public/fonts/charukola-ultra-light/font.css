@@ -1,10 +1,18 @@
-/* Soroborno Font: charukola-ultra-light-v1.20 (charukola-ultra-light) */
+/* Soroborno Font: Charukola Ultra Light Unicode (charukola-ultra-light) */
 
-/* License: SIL OFL 1.1 */
+/* License: Copyright ©2016 by Chandan Acharja. All rights reserved.
+
+Typography & Develop by Chandan Acharja,
+Department of Graphic Design, Faculty of Fine Arts,
+University of Dhaka.
+Web : www.charuchandan.com
+Email : chandan0112@gmail.com
+Mobile +8801704580102
++8801956834106 */
 
 
 @font-face {
-  font-family: 'charukola-ultra-light-v1.20';
+  font-family: 'Charukola Ultra Light Unicode';
   font-style: normal;
   font-weight: 200;
   font-display: swap;
@@ -14,9 +22,9 @@
 
 
 .font-charukola-ultra-light {
-  font-family: 'charukola-ultra-light-v1.20', sans-serif;
+  font-family: 'Charukola Ultra Light Unicode', sans-serif;
 }
 
 :root {
-  --font-charukola-ultra-light: 'charukola-ultra-light-v1.20', sans-serif;
+  --font-charukola-ultra-light: 'Charukola Ultra Light Unicode', sans-serif;
 }

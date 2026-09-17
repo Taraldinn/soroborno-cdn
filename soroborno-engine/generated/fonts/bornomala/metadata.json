@@ -1,14 +1,15 @@
 {
   "id": "bornomala",
-  "family": "Bornomala-Bold",
-  "displayName": "Bornomala-Bold",
+  "family": "Bornomala",
+  "displayName": "Bornomala",
   "description": "Bornomala is a Bengali font family designed for clarity and elegance.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jayed Ahsan Saad",
+  "designerUrl": "https://codepotro.com",
+  "version": "1.0.0.3",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL.",
+    "url": "http://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",

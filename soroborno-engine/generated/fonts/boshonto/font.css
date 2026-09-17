@@ -1,10 +1,41 @@
-/* Soroborno Font: Boshonto-Bold-Italic (boshonto) */
+/* Soroborno Font: Boshonto (boshonto) */
 
-/* License: SIL OFL 1.1 */
+/* License: End-user License Agreement
+
+Preamble In this license, 'the given typeface' refers to the given .zip file, which may contain one or numerous fonts. These fonts can be of any type (.ttf, .otf, ...) and together they form a 'font family' or in short a 'typeface'. 
+
+Copyright
+The given typeface is the intellectual property of Bengal Fonts and its respective author 
+
+Personal Use
+The given typeface may be downloaded and used free of charge for personal use, as long as the usage is not racist or illegal. Personal use refers to all usage that does not generate financial income in a business manner, for instance: 
+- personal scrapbooking for yourself 
+- recreational websites and blogs for friends and family 
+- prints such as flyers, posters, t-shirts for churches, charities, and non-profit organisations 
+
+Commercial Use
+Commercial use is not allowed without giving credit to Bengal Fonts. Commercial use refers to usage in a business environment, including: 
+-multimeda, tv, applications, video games, or film. 
+
+Modification
+The given typeface may not be modified, altered, adapted or built upon without written permission by its respective author. This pertains all files within the downloadable font zip-file. 
+
+Conversion
+The given typeface may be converted to other formats such as WOFF, SVG or EOT webfonts, as long as the font is not modified in any other way, such as changing names or altering individual glyphs. 
+
+Distribution
+While the given typeface may freely be copied and passed along to other individuals for private use as its original downloadable zip-file, it may not be sold or published without written permission by its respective author. 
+
+Embedding
+The given typeface may be embedded into an application such as a web- or mobile app, as long as the application is of personal use and does not distribute the given typeface, such as offering it as a download. 
+
+Disclaimer
+The given typeface is offered 'as is' without any warranty. Bengal Fonts and the respective author of the given typeface shall not be liable for any damage derived from using this typeface. 
+By using the given typeface you agree to the terms of this license. */
 
 
 @font-face {
-  font-family: 'Boshonto-Bold-Italic';
+  font-family: 'Boshonto';
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -13,7 +44,7 @@
 }
 
 @font-face {
-  font-family: 'Boshonto-Bold-Italic';
+  font-family: 'Boshonto';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -22,7 +53,7 @@
 }
 
 @font-face {
-  font-family: 'Boshonto-Bold-Italic';
+  font-family: 'Boshonto';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -31,7 +62,7 @@
 }
 
 @font-face {
-  font-family: 'Boshonto-Bold-Italic';
+  font-family: 'Boshonto';
   font-style: italic;
   font-weight: 300;
   font-display: swap;
@@ -40,7 +71,7 @@
 }
 
 @font-face {
-  font-family: 'Boshonto-Bold-Italic';
+  font-family: 'Boshonto';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -49,7 +80,7 @@
 }
 
 @font-face {
-  font-family: 'Boshonto-Bold-Italic';
+  font-family: 'Boshonto';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -59,9 +90,9 @@
 
 
 .font-boshonto {
-  font-family: 'Boshonto-Bold-Italic', sans-serif;
+  font-family: 'Boshonto', sans-serif;
 }
 
 :root {
-  --font-boshonto: 'Boshonto-Bold-Italic', sans-serif;
+  --font-boshonto: 'Boshonto', sans-serif;
 }

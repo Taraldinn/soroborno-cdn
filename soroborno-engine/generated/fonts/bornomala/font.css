@@ -1,10 +1,10 @@
-/* Soroborno Font: Bornomala-Bold (bornomala) */
+/* Soroborno Font: Bornomala (bornomala) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL. */
 
 
 @font-face {
-  font-family: 'Bornomala-Bold';
+  font-family: 'Bornomala';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'Bornomala-Bold';
+  font-family: 'Bornomala';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -23,9 +23,9 @@
 
 
 .font-bornomala {
-  font-family: 'Bornomala-Bold', sans-serif;
+  font-family: 'Bornomala', sans-serif;
 }
 
 :root {
-  --font-bornomala: 'Bornomala-Bold', sans-serif;
+  --font-bornomala: 'Bornomala', sans-serif;
 }

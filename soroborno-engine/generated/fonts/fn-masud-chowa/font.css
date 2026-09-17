@@ -1,10 +1,10 @@
-/* Soroborno Font: FN Masud Chowa Bijoy 2003 Italic (fn-masud-chowa) */
+/* Soroborno Font: FN Masud Chowa Bijoy2003 (fn-masud-chowa) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is copyrighted property of FontBD Type Foundry under domestic and international trademark and copyright laws. You cannot Modify, Distribute, Edit, Forge or Sell this Font Software, it will be considered illegal & punishable crime in the court of law. You have to give proper credit to the owner of the Font Software- FontBD Type Foundry in your design/product detail and accept our terms & conditions. */
 
 
 @font-face {
-  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-family: 'FN Masud Chowa Bijoy2003';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-family: 'FN Masud Chowa Bijoy2003';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -22,7 +22,7 @@
 }
 
 @font-face {
-  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-family: 'FN Masud Chowa Bijoy2003';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-family: 'FN Masud Chowa Bijoy2003';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -40,7 +40,7 @@
 }
 
 @font-face {
-  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-family: 'FN Masud Chowa Bijoy2003';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -49,7 +49,7 @@
 }
 
 @font-face {
-  font-family: 'FN Masud Chowa Bijoy 2003 Italic';
+  font-family: 'FN Masud Chowa Bijoy2003';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -59,9 +59,9 @@
 
 
 .font-fn-masud-chowa {
-  font-family: 'FN Masud Chowa Bijoy 2003 Italic', sans-serif;
+  font-family: 'FN Masud Chowa Bijoy2003', sans-serif;
 }
 
 :root {
-  --font-fn-masud-chowa: 'FN Masud Chowa Bijoy 2003 Italic', sans-serif;
+  --font-fn-masud-chowa: 'FN Masud Chowa Bijoy2003', sans-serif;
 }

@@ -1,10 +1,10 @@
-/* Soroborno Font: bensen-v1.0 (bensen) */
+/* Soroborno Font: BenSen (bensen) */
 
 /* License: SIL OFL 1.1 */
 
 
 @font-face {
-  font-family: 'bensen-v1.0';
+  font-family: 'BenSen';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-bensen {
-  font-family: 'bensen-v1.0', sans-serif;
+  font-family: 'BenSen', sans-serif;
 }
 
 :root {
-  --font-bensen: 'bensen-v1.0', sans-serif;
+  --font-bensen: 'BenSen', sans-serif;
 }

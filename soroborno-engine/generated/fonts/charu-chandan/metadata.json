@@ -1,13 +1,14 @@
 {
   "id": "charu-chandan",
-  "family": "charu-chandan-v2.20",
-  "displayName": "charu-chandan-v2.20",
+  "family": "Charu Chandan Unicode",
+  "displayName": "Charu Chandan Unicode",
   "description": "Charu Chandan is an elegant Bengali font developed by Charu Chandan. It features a distinctive design that combines traditional Bengali calligraphic elements with modern typography, making it suitable for both decorative and functional uses.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Chandan Acharja",
+  "designerUrl": "https://www.charuchandan.com",
+  "version": "2.20, 20 October 2015, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright © 2015 by Chandan Acharja. All rights reserved.\r\n\r\nFont Design & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [

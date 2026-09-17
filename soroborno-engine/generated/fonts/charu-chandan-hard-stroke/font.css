@@ -1,10 +1,16 @@
-/* Soroborno Font: charu-chandan-hard-stroke-v2.0 (charu-chandan-hard-stroke) */
+/* Soroborno Font: Charu Chandan Hard Stroke (charu-chandan-hard-stroke) */
 
-/* License: SIL OFL 1.1 */
+/* License: Copyright © 2016 by Chandan Acharja. All rights reserved.
+
+Typography & Develop by Chandan Acharja,
+Department of Graphic Design, Faculty of Fine Arts, University of Dhaka.
+Web: www.charuchandan.com
+Email: chandan0112@gmail.com
+Cell: +8801956834106, +8801704580102 */
 
 
 @font-face {
-  font-family: 'charu-chandan-hard-stroke-v2.0';
+  font-family: 'Charu Chandan Hard Stroke';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +20,9 @@
 
 
 .font-charu-chandan-hard-stroke {
-  font-family: 'charu-chandan-hard-stroke-v2.0', sans-serif;
+  font-family: 'Charu Chandan Hard Stroke', sans-serif;
 }
 
 :root {
-  --font-charu-chandan-hard-stroke: 'charu-chandan-hard-stroke-v2.0', sans-serif;
+  --font-charu-chandan-hard-stroke: 'Charu Chandan Hard Stroke', sans-serif;
 }

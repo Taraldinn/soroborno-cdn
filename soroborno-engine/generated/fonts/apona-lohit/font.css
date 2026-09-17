@@ -1,10 +1,10 @@
-/* Soroborno Font: apona-lohit-v1.01 (apona-lohit) */
+/* Soroborno Font: AponaLohit (apona-lohit) */
 
 /* License: SIL OFL 1.1 */
 
 
 @font-face {
-  font-family: 'apona-lohit-v1.01';
+  font-family: 'AponaLohit';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-apona-lohit {
-  font-family: 'apona-lohit-v1.01', sans-serif;
+  font-family: 'AponaLohit', sans-serif;
 }
 
 :root {
-  --font-apona-lohit: 'apona-lohit-v1.01', sans-serif;
+  --font-apona-lohit: 'AponaLohit', sans-serif;
 }

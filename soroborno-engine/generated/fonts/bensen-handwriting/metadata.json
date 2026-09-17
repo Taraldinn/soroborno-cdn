@@ -1,11 +1,12 @@
 {
   "id": "bensen-handwriting",
-  "family": "bensen-handwriting-v1.0",
-  "displayName": "bensen-handwriting-v1.0",
+  "family": "BenSenHandwriting",
+  "displayName": "BenSenHandwriting",
   "description": "BenSen Handwriting is a unique Bengali font that simulates natural handwriting, developed by Subrata Sen. It brings a personal, handwritten feel to digital content while maintaining readability and Bengali script authenticity.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Subrata Sen",
+  "designerUrl": "http://www.omicronlab.com or http://www.altruists.org",
+  "version": "Version 1.00 June 17, 2009, initial release",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"

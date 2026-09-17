@@ -1,10 +1,10 @@
-/* Soroborno Font: PotroSansBangla-Bold (potro-sans-bangla) */
+/* Soroborno Font: Potro Sans Bangla (potro-sans-bangla) */
 
 /* License: SIL OFL 1.1 */
 
 
 @font-face {
-  font-family: 'PotroSansBangla-Bold';
+  font-family: 'Potro Sans Bangla';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'PotroSansBangla-Bold';
+  font-family: 'Potro Sans Bangla';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -22,7 +22,7 @@
 }
 
 @font-face {
-  font-family: 'PotroSansBangla-Bold';
+  font-family: 'Potro Sans Bangla';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-  font-family: 'PotroSansBangla-Bold';
+  font-family: 'Potro Sans Bangla';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -41,9 +41,9 @@
 
 
 .font-potro-sans-bangla {
-  font-family: 'PotroSansBangla-Bold', sans-serif;
+  font-family: 'Potro Sans Bangla', sans-serif;
 }
 
 :root {
-  --font-potro-sans-bangla: 'PotroSansBangla-Bold', sans-serif;
+  --font-potro-sans-bangla: 'Potro Sans Bangla', sans-serif;
 }

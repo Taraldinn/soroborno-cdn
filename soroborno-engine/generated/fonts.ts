@@ -5,14 +5,15 @@ import type { FontMetadata } from './types.js';
 export const fonts: FontMetadata[] = [
   {
     "id": "abirvab",
-    "family": "Abirvab-Bold Italic",
-    "displayName": "Abirvab-Bold Italic",
+    "family": "AbirvabHimel",
+    "displayName": "AbirvabHimel",
     "description": "Abirvab, a decorative bengali typeface, gives festive look at the first glance. The Font Family contains 6 styles. Abirvab is the font that suits your need for any occasion.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Thouhedul Islam Himel",
+    "designerUrl": "https://www.facebook.com/t.h.himu",
+    "version": "AbirvabHimel v6.5, 14 April 2016, Thouhedul Islam Himel, Dept. of Multimedia & Creative Technology (MCT), Daffodil International University (DIU).",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "Copyright (c) 2016 by Thouhedul Islam Himel. All rights reserved.                                                                                                                                                                                    Font Design & Develop by Thouhedul Islam Himel, \r\nDepartment of Multimedia & Creative Technology (MCT), Daffodil International University (DIU).\r\nWeb: studioarrival.com\r\nEmail: himelnandail@gmail.com\r\nCell: +8801931513165",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -91,14 +92,14 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "adorsho-lipi",
-    "family": "adorsho-lipi-v1.0",
-    "displayName": "adorsho-lipi-v1.0",
+    "family": "AdorshoLipi",
+    "displayName": "AdorshoLipi",
     "description": "Adorsho Lipi is a versatile font sourced from cgimagine, designed to provide clear and elegant text for various applications.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Partha sarathi Pal",
+    "version": "Version 1.00 July 10, 2007, initial release",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "Designed by: Partha sarathi Pal <p.s.pal.2006@gmail.com> This font is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. This font is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License (http://www.gnu.org/licenses/gpl.txt), in the COPYING file for more details. As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -193,12 +194,12 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "apona-lohit",
-    "family": "apona-lohit-v1.01",
-    "displayName": "apona-lohit-v1.01",
+    "family": "AponaLohit",
+    "displayName": "AponaLohit",
     "description": "Apona Lohit is an enhanced version of the Lohit font from Ekushey, featuring additional hinting for improved screen readability. It serves as a Unicode equivalent to the popular Boishakhi font. The TrueType hinting was initiated by Ershadul Haq and later refined by Alamgir Mohammed.",
     "category": "bangla",
     "designer": "Open Source Contributor",
-    "version": "1.0",
+    "version": "Version 1.01",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -228,15 +229,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "baloo-da-2",
-    "family": "baloo-da-2",
-    "displayName": "baloo-da-2",
+    "family": "Baloo Da 2",
+    "displayName": "Baloo Da 2",
     "description": "Baloo Da 2 is a modernized version of the original Baloo font family, specifically designed for Bengali script. It features a contemporary design with improved readability and versatile weight options, making it perfect for both display and text usage.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Noopur Datye, Sulekha Rajkumar and Ek Type",
+    "designerUrl": "www.ektype.in",
+    "version": "Version 1.700",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+      "url": "http://scripts.sil.org/OFL"
     },
     "subsets": [
       "bengali",
@@ -263,14 +265,14 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "bangla",
-    "family": "bangla",
-    "displayName": "bangla",
+    "family": "Bangla",
+    "displayName": "Bangla",
     "description": "The Bangla font is a versatile typeface sourced from PfEd, designed to support Bengali script in various digital formats.",
     "category": "bangla",
     "designer": "Open Source Contributor",
-    "version": "1.0",
+    "version": "Version 1.0",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "GNU GPL",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -298,12 +300,13 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "bensen",
-    "family": "bensen-v1.0",
-    "displayName": "bensen-v1.0",
+    "family": "BenSen",
+    "displayName": "BenSen",
     "description": "BenSen is a unique font developed by Subrata Sen, offering a distinctive style for both digital and print applications.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Subrata Sen",
+    "designerUrl": "http://www.omicronlab.com or http://www.altruists.org",
+    "version": "Version 1.00 June 5, 2009, initial release",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -333,12 +336,13 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "bensen-handwriting",
-    "family": "bensen-handwriting-v1.0",
-    "displayName": "bensen-handwriting-v1.0",
+    "family": "BenSenHandwriting",
+    "displayName": "BenSenHandwriting",
     "description": "BenSen Handwriting is a unique Bengali font that simulates natural handwriting, developed by Subrata Sen. It brings a personal, handwritten feel to digital content while maintaining readability and Bengali script authenticity.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Subrata Sen",
+    "designerUrl": "http://www.omicronlab.com or http://www.altruists.org",
+    "version": "Version 1.00 June 17, 2009, initial release",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -368,15 +372,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "bornomala",
-    "family": "Bornomala-Bold",
-    "displayName": "Bornomala-Bold",
+    "family": "Bornomala",
+    "displayName": "Bornomala",
     "description": "Bornomala is a Bengali font family designed for clarity and elegance.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Jayed Ahsan Saad",
+    "designerUrl": "https://codepotro.com",
+    "version": "1.0.0.3",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL.",
+      "url": "http://scripts.sil.org/OFL"
     },
     "subsets": [
       "bengali",
@@ -416,12 +421,13 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "bornomala-vintage",
-    "family": "BornomalaVintage",
-    "displayName": "BornomalaVintage",
+    "family": "Bornomala Vintage",
+    "displayName": "Bornomala Vintage",
     "description": "Bornomala Vintage is a classic Bengali font with a vintage aesthetic, suitable for nostalgic and traditional designs.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Jayed Ahsan Saad",
+    "designerUrl": "https://codepotro.com",
+    "version": "BornomalaVintageEdition;1.000;",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -454,15 +460,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "boshonto",
-    "family": "Boshonto-Bold-Italic",
-    "displayName": "Boshonto-Bold-Italic",
+    "family": "Boshonto",
+    "displayName": "Boshonto",
     "description": "Boshonto typeface can be used as a Display and Paragraph font. The visual characteristic of this typeface is to express sweet and soft words as well as emotional talks.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Jasem Uddin",
+    "designerUrl": "https://bengalfonts.com/by/jasem",
+    "version": "Version 1.102;March 21, 2018;",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "End-user License Agreement\r\n\r\nPreamble In this license, 'the given typeface' refers to the given .zip file, which may contain one or numerous fonts. These fonts can be of any type (.ttf, .otf, ...) and together they form a 'font family' or in short a 'typeface'. \r\n\r\nCopyright\r\nThe given typeface is the intellectual property of Bengal Fonts and its respective author \r\n\r\nPersonal Use\r\nThe given typeface may be downloaded and used free of charge for personal use, as long as the usage is not racist or illegal. Personal use refers to all usage that does not generate financial income in a business manner, for instance: \r\n- personal scrapbooking for yourself \r\n- recreational websites and blogs for friends and family \r\n- prints such as flyers, posters, t-shirts for churches, charities, and non-profit organisations \r\n\r\nCommercial Use\r\nCommercial use is not allowed without giving credit to Bengal Fonts. Commercial use refers to usage in a business environment, including: \r\n-multimeda, tv, applications, video games, or film. \r\n\r\nModification\r\nThe given typeface may not be modified, altered, adapted or built upon without written permission by its respective author. This pertains all files within the downloadable font zip-file. \r\n\r\nConversion\r\nThe given typeface may be converted to other formats such as WOFF, SVG or EOT webfonts, as long as the font is not modified in any other way, such as changing names or altering individual glyphs. \r\n\r\nDistribution\r\nWhile the given typeface may freely be copied and passed along to other individuals for private use as its original downloadable zip-file, it may not be sold or published without written permission by its respective author. \r\n\r\nEmbedding\r\nThe given typeface may be embedded into an application such as a web- or mobile app, as long as the application is of personal use and does not distribute the given typeface, such as offering it as a download. \r\n\r\nDisclaimer\r\nThe given typeface is offered 'as is' without any warranty. Bengal Fonts and the respective author of the given typeface shall not be liable for any damage derived from using this typeface. \r\nBy using the given typeface you agree to the terms of this license.",
+      "url": "https://www.bengalfonts.com/eula"
     },
     "subsets": [
       "bengali",
@@ -540,14 +547,15 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "charu-chandan",
-    "family": "charu-chandan-v2.20",
-    "displayName": "charu-chandan-v2.20",
+    "family": "Charu Chandan Unicode",
+    "displayName": "Charu Chandan Unicode",
     "description": "Charu Chandan is an elegant Bengali font developed by Charu Chandan. It features a distinctive design that combines traditional Bengali calligraphic elements with modern typography, making it suitable for both decorative and functional uses.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Chandan Acharja",
+    "designerUrl": "https://www.charuchandan.com",
+    "version": "2.20, 20 October 2015, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "Copyright © 2015 by Chandan Acharja. All rights reserved.\r\n\r\nFont Design & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -575,14 +583,15 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "charu-chandan-3d",
-    "family": "charu-chandan-3d-v1.10",
-    "displayName": "charu-chandan-3d-v1.10",
+    "family": "Charu Chandan 3D Unicode",
+    "displayName": "Charu Chandan 3D Unicode",
     "description": "Charu Chandan 3D is a unique font designed to give a three-dimensional effect, adding depth and visual interest to your text. Font Source: Charu Chandan",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Chandan Acharja",
+    "designerUrl": "http://www.charuchandan.com/",
+    "version": "1.10, 20 Oct 2016, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "Copyright © 2016 by Chandan Acharja. All rights reserved.\r\n\r\nFont Design & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -610,14 +619,15 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "charu-chandan-hard-stroke",
-    "family": "charu-chandan-hard-stroke-v2.0",
-    "displayName": "charu-chandan-hard-stroke-v2.0",
+    "family": "Charu Chandan Hard Stroke",
+    "displayName": "Charu Chandan Hard Stroke",
     "description": "Charu Chandan Hard Stroke is a distinctive font available from Charu Chandan, offering bold and impactful typography for various design needs. Font Source: Charu Chandan",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Chandan Acharja",
+    "designerUrl": "http://www.charuchandan.com/",
+    "version": "2.00, 13 July 2017, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "Copyright © 2016 by Chandan Acharja. All rights reserved.\r\n\r\nTypography & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -645,14 +655,15 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "charukola-ultra-light",
-    "family": "charukola-ultra-light-v1.20",
-    "displayName": "charukola-ultra-light-v1.20",
+    "family": "Charukola Ultra Light Unicode",
+    "displayName": "Charukola Ultra Light Unicode",
     "description": "Charukola Ultra Light is a font available through Charu Chandan, providing a sleek and modern typeface option for digital and print use. Font Source: Charu Chandan",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Chandan Acharja",
+    "designerUrl": "http://www.charuchandan.com/",
+    "version": "1.20, 20 Oct 2016, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "Copyright ©2016 by Chandan Acharja. All rights reserved.\r\n\r\nTypography & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts,\r\nUniversity of Dhaka.\r\nWeb : www.charuchandan.com\r\nEmail : chandan0112@gmail.com\r\nMobile +8801704580102\r\n+8801956834106",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -680,15 +691,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "chilekotha",
-    "family": "Chilekotha Italic",
-    "displayName": "Chilekotha Italic",
+    "family": "Chilekotha",
+    "displayName": "Chilekotha",
     "description": "Chilekotha is a Unicode-compliant, dynamic Bengali typeface with an elegant look. The dynamic stylization of the Chilekotha font represents peace and harmony. Chilekotha can be used in large sizes for headings, rather than for extended passages of body text. Chilekotha will often have more eccentric and variable designs than the simple, relatively restrained typefaces generally used for body text.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Md. Shamim Reza",
+    "designerUrl": "https://www.facebook.com/shameem.reza.167",
+    "version": "Version 1.001",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+      "url": "http://scripts.sil.org/OFL"
     },
     "subsets": [
       "bengali",
@@ -728,14 +740,15 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "droho",
-    "family": "DROHO KK V2 Unicode (2)",
-    "displayName": "DROHO KK V2 Unicode (2)",
+    "family": "DROHO KK",
+    "displayName": "DROHO KK",
     "description": "DROHO is a Bengali font with a unique character and style.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Kazi Jubair Mahmud",
+    "designerUrl": "https://www.facebook.com/kazijbr",
+    "version": "Version 2.000;August 8, 2024;FontCreator 15.0.0.2989 64-bit",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "This Font Software is copyrighted property of Lipikola under domestic and international trademark and copyright laws. You cannot Modify, Distribute, Edit, Forge or Sell this Font Software, it will be considered illegal & punishable crime in the court of law. You have to give proper credit to the owner of the Font Software- Lipikoa in your design/product detail and accept our terms & conditions.",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -766,15 +779,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "fn-masud-chowa",
-    "family": "FN Masud Chowa Bijoy 2003 Italic",
-    "displayName": "FN Masud Chowa Bijoy 2003 Italic",
+    "family": "FN Masud Chowa Bijoy2003",
+    "displayName": "FN Masud Chowa Bijoy2003",
     "description": "FN Masud Chowa is a Bengali font available from FontBD. It features a distinctive style suitable for various creative applications.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Liakat Khan",
+    "designerUrl": "https://facebook.com/liaquat.ali.9275",
+    "version": "Version 1.00;October 26, 2021;FontCreator 13.0.0.2683 64-bit",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is copyrighted property of FontBD Type Foundry under domestic and international trademark and copyright laws. You cannot Modify, Distribute, Edit, Forge or Sell this Font Software, it will be considered illegal & punishable crime in the court of law. You have to give proper credit to the owner of the Font Software- FontBD Type Foundry in your design/product detail and accept our terms & conditions.",
+      "url": "https://fontbd.com/UserCondition.php"
     },
     "subsets": [
       "bengali",
@@ -850,15 +864,15 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "google-sans",
-    "family": "GoogleSans-Bold",
-    "displayName": "GoogleSans-Bold",
+    "family": "Google Sans",
+    "displayName": "Google Sans",
     "description": "Google Sans is a geometric sans-serif typeface designed by Google. It is a proprietary font used across Google's various products and platforms.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Google Sans Authors",
+    "version": "Version 12.001;[9b76f496a]",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+      "url": "https://openfontlicense.org"
     },
     "subsets": [
       "bengali",
@@ -1027,12 +1041,12 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "hind-siliguri",
-    "family": "HindSiliguri-Bold",
-    "displayName": "HindSiliguri-Bold",
+    "family": "Hind Siliguri",
+    "displayName": "Hind Siliguri",
     "description": "Hind Siliguri is a free Bengali typeface developed by the Indian Type Foundry (ITF). It is a part of the Hind font family and is designed for use in both digital and print media, offering a clean and modern sans-serif look for the Bengali script.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Jyotish Sonowal",
+    "version": "Version 1.001;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f beng -w G -W -c -X \"\"",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -1105,12 +1119,12 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "july-font",
-    "family": "July-Bold-Italic",
-    "displayName": "July-Bold-Italic",
+    "family": "July",
+    "displayName": "July",
     "description": "July Font is a Bengali font family providing clear and readable text.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "BCC",
+    "version": "Version: 1.000 Beta",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -1172,15 +1186,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "kalpurush",
-    "family": "Kalpurush-v0.258",
-    "displayName": "Kalpurush-v0.258",
+    "family": "Kalpurush",
+    "displayName": "Kalpurush",
     "description": "Kalpurush is a serif styled free Bengali unicode font designed by Md. Tanbin Islam Siyam as part of the Avro Free Bangla Font Project. It is available through OmicronLab and aims to provide robust support for Bengali text rendering.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Md. Tanbin Islam Siyam",
+    "designerUrl": "http://www.omicronlab.com",
+    "version": "Version 0.258",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+      "url": "http://scripts.sil.org/OFL"
     },
     "subsets": [
       "bengali",
@@ -1207,15 +1222,15 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "kohinoor-bangla",
-    "family": "KohinoorBangla-Bold",
-    "displayName": "KohinoorBangla-Bold",
+    "family": "Kohinoor Bangla",
+    "displayName": "Kohinoor Bangla",
     "description": "Kohinoor Bangla is a highly legible Bengali font designed for multilingual projects and corporate branding.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Satya Rajpurohit",
+    "version": "Version 1.152;PS 1.000;hotconv 16.6.54;makeotf.lib2.5.65590",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is protected under domestic and international trademark and copyright law. You agree to identify the ITF fonts by name and credit the ITF's ownership of the trademarks and copyrights in any design or production credits.",
+      "url": "https://indiantypefoundry.com/licensing"
     },
     "subsets": [
       "bengali",
@@ -1285,12 +1300,12 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "lohit-bengali",
-    "family": "lohit-bengali-v2.5.1",
-    "displayName": "lohit-bengali-v2.5.1",
+    "family": "Lohit Bengali",
+    "displayName": "Lohit Bengali",
     "description": "Lohit Bengali is a widely-used Unicode-compliant Bengali font developed as part of the Lohit font family project. Originally designed by Automatic Control Equipments (Pune, India) and enhanced by various contributors, it has become a standard choice for Bengali text rendering across different platforms.",
     "category": "bangla",
     "designer": "Open Source Contributor",
-    "version": "1.0",
+    "version": "Version 2.5.1",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -1320,15 +1335,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "mukti",
-    "family": "mukti-v3.4.3",
-    "displayName": "mukti-v3.4.3",
+    "family": "Mukti",
+    "displayName": "Mukti",
     "description": "Mukti is a significant Bengali font developed by Dr. Anirban Mitra under the Free Bangla Font Project. It was created to provide a high-quality, free Bengali font with comprehensive Unicode support, making it particularly suitable for digital publishing and web content.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Dr Anirban Mitra",
+    "designerUrl": "http://github.com/mitradranirban",
+    "version": "Version 3.4.3;December 5 202",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "GNU GPL3+© Mukta Bangla Font Project, Dr Anirban Mitra 2002-2022",
+      "url": "http://www.gnu.org/copyleft/gpl.htm"
     },
     "subsets": [
       "bengali",
@@ -1384,15 +1400,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "nirlipta-lite",
-    "family": "Nirlipta-ANSI-Italic",
-    "displayName": "Nirlipta-ANSI-Italic",
+    "family": "Nirlipta ANSI",
+    "displayName": "Nirlipta ANSI",
     "description": "Nirlipta is a handwriting-style English and Bangla font where every letter feels like a real pen stroke. It’s perfect for designers, illustrators, and content creators who want to give their work a personal, warm, and natural touch. It works seamlessly across all devices and supports both ANSI and Unicode encoding.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Kazi Nasirul Islam",
+    "designerUrl": "https://www.behance.net/nasirulislam12",
+    "version": "Designed & Developed by Bengal Fonts Team.",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "https://www.bengalfonts.com/EULA",
+      "url": "https://www.bengalfonts.com/terms"
     },
     "subsets": [
       "bengali",
@@ -1450,15 +1467,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "noto-serif-bengali",
-    "family": "noto-serif-bengali-bold-v2.003",
-    "displayName": "noto-serif-bengali-bold-v2.003",
+    "family": "Noto Serif Bengali",
+    "displayName": "Noto Serif Bengali",
     "description": "Noto Serif Bengali is part of Google's comprehensive Noto font family, specifically designed to provide harmonious and elegant serif typography for Bengali script. Developed as part of Google's initiative to create a unified look across all languages on the web, it offers professional-grade typography with extensive character support.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Juan Bruce, Universal Thirst, Indian Type Foundry and the Monotype Design Team.",
+    "designerUrl": "http://www.monotype.com/studio",
+    "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+      "url": "https://scripts.sil.org/OFL"
     },
     "subsets": [
       "bengali",
@@ -1514,12 +1532,13 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "osman-hadi",
-    "family": "Osman Hadi Insaf",
-    "displayName": "Osman Hadi Insaf",
+    "family": "Osman Hadi",
+    "displayName": "Osman Hadi",
     "description": "Osman Hadi is not merely a Bangla typeface; it is a reflection of an ideal shaped by courage in the face of injustice, commitment to truth, and the pursuit of fairness. Every letter carries strength and purpose, while preserving a sense of human warmth and clarity. This typeface reminds us that words are not just for writing, they can inspire courage, unite people, and guide us toward justice. This is our typographic tribute to carry these values forward from generation to generation.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Ismail Hossain Sifat",
+    "designerUrl": "https://m.facebook.com/ismailh.sifat/",
+    "version": "Version 1.000",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -1580,12 +1599,13 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "potro-sans-bangla",
-    "family": "PotroSansBangla-Bold",
-    "displayName": "PotroSansBangla-Bold",
+    "family": "Potro Sans Bangla",
+    "displayName": "Potro Sans Bangla",
     "description": "Potro Sans Bangla is a modern sans-serif font designed specifically for the Bengali script. It offers clean lines and high legibility, making it suitable for a wide range of digital and print applications.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Jayed Ahsan Saad",
+    "designerUrl": "https://codepotro.com",
+    "version": "Potro Sans Bangla;Version 0.996;CodepotroFonts;",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -1648,15 +1668,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "purno",
-    "family": "BCC Purno Black Italic",
-    "displayName": "BCC Purno Black Italic",
+    "family": "BCC Purno Black",
+    "displayName": "BCC Purno Black",
     "description": "Purno is a comprehensive font family developed by the Bangladesh Computer Council (BCC). It is designed to providing high-quality Bengali typography for various digital and print platforms.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Bangladesh Computer Council",
+    "designerUrl": "Bangladesh Computer Council",
+    "version": "Version 2.0",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "Bangladesh Computer Council",
+      "url": "Bangladesh Computer Council"
     },
     "subsets": [
       "bengali",
@@ -1897,12 +1918,13 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "shurjo",
-    "family": "Shurjo-Regular",
-    "displayName": "Shurjo-Regular",
+    "family": "Shurjo",
+    "displayName": "Shurjo",
     "description": "A bespoke type family designed for Bangladesh’s largest newspaper, the Dainik Prothom Alo in 2017-2018, this family of 18 fonts in 9 weights was a major part of the recent redesign of the newspaper.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Jacob Thomas <jacob@bengalcreativemedia.com>",
+    "designerUrl": "http://banglatypefoundry.com",
+    "version": "Version 5.001",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -1945,14 +1967,14 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "siyam-rupali",
-    "family": "siyam-rupali-v1.070",
-    "displayName": "siyam-rupali-v1.070",
+    "family": "Siyam Rupali",
+    "displayName": "Siyam Rupali",
     "description": "Siyam Rupali is a free Unicode based Bengali font hinted by Md. Tanbin Islam Siyam. It is developed under Avro Font Development Project. This font is derived from the font Rupali with better size, hinting and kerning to be used as a better display font. The designs of roman characters of the font are taken from the font Droid.",
     "category": "bangla",
     "designer": "Open Source Contributor",
-    "version": "1.0",
+    "version": "Version 1.070",
     "license": {
-      "name": "SIL OFL 1.1",
+      "name": "GNU GPL",
       "url": "https://openfontlicense.org/"
     },
     "subsets": [
@@ -1980,15 +2002,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "solaiman-lipi",
-    "family": "solaimanlipi-bold-v1.0",
-    "displayName": "solaimanlipi-bold-v1.0",
+    "family": "SolaimanLipi",
+    "displayName": "SolaimanLipi",
     "description": "SolaimanLipi is a Unicode-compliant Bangla font designed by Solaiman Karim in 2003. It was developed as part of the Ekushey project and is redistributed by Altruists International. The font supports complete Bengali Unicode range (U+0980-U+09FF).",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Solaiman Karim",
+    "designerUrl": "https://ekushey.org/designer/solaiman-karim/",
+    "version": "Designed by Solaiman Karim | Developed Version 2.002 : Al Mamun Hossen | Software by: FontCreator 14.0",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+      "url": "http://scripts.sil.org/OFL"
     },
     "subsets": [
       "bengali",
@@ -2035,15 +2058,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "sorob",
-    "family": "Sorob-Bold",
-    "displayName": "Sorob-Bold",
+    "family": "Sorob",
+    "displayName": "Sorob",
     "description": "Sorob is a Bangla display font. It’s a bold, cool, expressive in nature. Which will be very much useful for the user and designers. Mainly these fonts are for making posters, magazines, and logos as well. To make poster banners and logos, designers have to make customize types. Especially to indicate something strong and bold. It will help them to do those easily.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Imrul Kayes Sourav",
+    "designerUrl": "www.souravoriginals.com",
+    "version": "Version 1.200;",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "https://www.bengalfonts.com/EULA",
+      "url": "https://www.bengalfonts.com/terms"
     },
     "subsets": [
       "bengali",
@@ -2103,12 +2127,13 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "tiro-bangla",
-    "family": "TiroBangla-Italic",
-    "displayName": "TiroBangla-Italic",
+    "family": "Tiro Bangla",
+    "displayName": "Tiro Bangla",
     "description": "Tiro Bangla is an elegant typeface crafted by renowned designers John Hudson and Fiona Ross, with valuable assistance from Neelakash Kshetrimayum. The font's heritage traces back to a typeface specifically designed for the prestigious Murty Classical Library of India book series.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Bangla: John Hudson & Fiona Ross, assisted by Neelakash Kshetrimayum. Latin: John Hudson with Paul Hanslow, assisted by Kaja Słojewska.",
+    "designerUrl": "https://www.tiro.com",
+    "version": "Version 1.52",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/"
@@ -2169,15 +2194,16 @@ export const fonts: FontMetadata[] = [
   },
   {
     "id": "vrinda",
-    "family": "vrinda",
-    "displayName": "vrinda",
+    "family": "Vrinda",
+    "displayName": "Vrinda",
     "description": "Vrinda is a traditional Bengali font that offers clean and legible typography, making it suitable for both digital content and print materials requiring Bengali script support.",
     "category": "bangla",
-    "designer": "Open Source Contributor",
-    "version": "1.0",
+    "designer": "Raghunath Joshi (Type Director), Vinay Saynekar",
+    "designerUrl": "http://www.ncst.ernet.in/~rkjoshi",
+    "version": "Version 1.03",
     "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/"
+      "name": "This font software is part of the Microsoft software product in which it was included and is provided under the end user license agreement (“EULA”) for that Microsoft software product. The terms and conditions of the EULA govern the use of font software. Please refer to the applicable Microsoft product EULA if you have any questions about how you may use this font software. Microsoft reserves all rights that are not expressly granted in the EULA. For products that may have installed this font please see the link below.",
+      "url": "http://www.microsoft.com/typography/fonts/default.aspx"
     },
     "subsets": [
       "bengali",
@@ -2208,14 +2234,15 @@ export const fontMap = new Map<string, FontMetadata>(fonts.map(f => [f.id, f]));
 
 export const abirvab: FontMetadata = {
   "id": "abirvab",
-  "family": "Abirvab-Bold Italic",
-  "displayName": "Abirvab-Bold Italic",
+  "family": "AbirvabHimel",
+  "displayName": "AbirvabHimel",
   "description": "Abirvab, a decorative bengali typeface, gives festive look at the first glance. The Font Family contains 6 styles. Abirvab is the font that suits your need for any occasion.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Thouhedul Islam Himel",
+  "designerUrl": "https://www.facebook.com/t.h.himu",
+  "version": "AbirvabHimel v6.5, 14 April 2016, Thouhedul Islam Himel, Dept. of Multimedia & Creative Technology (MCT), Daffodil International University (DIU).",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright (c) 2016 by Thouhedul Islam Himel. All rights reserved.                                                                                                                                                                                    Font Design & Develop by Thouhedul Islam Himel, \r\nDepartment of Multimedia & Creative Technology (MCT), Daffodil International University (DIU).\r\nWeb: studioarrival.com\r\nEmail: himelnandail@gmail.com\r\nCell: +8801931513165",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2294,14 +2321,14 @@ export const abirvab: FontMetadata = {
 };
 export const adorshoLipi: FontMetadata = {
   "id": "adorsho-lipi",
-  "family": "adorsho-lipi-v1.0",
-  "displayName": "adorsho-lipi-v1.0",
+  "family": "AdorshoLipi",
+  "displayName": "AdorshoLipi",
   "description": "Adorsho Lipi is a versatile font sourced from cgimagine, designed to provide clear and elegant text for various applications.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Partha sarathi Pal",
+  "version": "Version 1.00 July 10, 2007, initial release",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Designed by: Partha sarathi Pal <p.s.pal.2006@gmail.com> This font is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. This font is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License (http://www.gnu.org/licenses/gpl.txt), in the COPYING file for more details. As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2396,12 +2423,12 @@ export const anirban: FontMetadata = {
 };
 export const aponaLohit: FontMetadata = {
   "id": "apona-lohit",
-  "family": "apona-lohit-v1.01",
-  "displayName": "apona-lohit-v1.01",
+  "family": "AponaLohit",
+  "displayName": "AponaLohit",
   "description": "Apona Lohit is an enhanced version of the Lohit font from Ekushey, featuring additional hinting for improved screen readability. It serves as a Unicode equivalent to the popular Boishakhi font. The TrueType hinting was initiated by Ershadul Haq and later refined by Alamgir Mohammed.",
   "category": "bangla",
   "designer": "Open Source Contributor",
-  "version": "1.0",
+  "version": "Version 1.01",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -2431,15 +2458,16 @@ export const aponaLohit: FontMetadata = {
 };
 export const balooDa2: FontMetadata = {
   "id": "baloo-da-2",
-  "family": "baloo-da-2",
-  "displayName": "baloo-da-2",
+  "family": "Baloo Da 2",
+  "displayName": "Baloo Da 2",
   "description": "Baloo Da 2 is a modernized version of the original Baloo font family, specifically designed for Bengali script. It features a contemporary design with improved readability and versatile weight options, making it perfect for both display and text usage.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Noopur Datye, Sulekha Rajkumar and Ek Type",
+  "designerUrl": "www.ektype.in",
+  "version": "Version 1.700",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "url": "http://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",
@@ -2466,14 +2494,14 @@ export const balooDa2: FontMetadata = {
 };
 export const bangla: FontMetadata = {
   "id": "bangla",
-  "family": "bangla",
-  "displayName": "bangla",
+  "family": "Bangla",
+  "displayName": "Bangla",
   "description": "The Bangla font is a versatile typeface sourced from PfEd, designed to support Bengali script in various digital formats.",
   "category": "bangla",
   "designer": "Open Source Contributor",
-  "version": "1.0",
+  "version": "Version 1.0",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "GNU GPL",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2501,12 +2529,13 @@ export const bangla: FontMetadata = {
 };
 export const bensen: FontMetadata = {
   "id": "bensen",
-  "family": "bensen-v1.0",
-  "displayName": "bensen-v1.0",
+  "family": "BenSen",
+  "displayName": "BenSen",
   "description": "BenSen is a unique font developed by Subrata Sen, offering a distinctive style for both digital and print applications.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Subrata Sen",
+  "designerUrl": "http://www.omicronlab.com or http://www.altruists.org",
+  "version": "Version 1.00 June 5, 2009, initial release",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -2536,12 +2565,13 @@ export const bensen: FontMetadata = {
 };
 export const bensenHandwriting: FontMetadata = {
   "id": "bensen-handwriting",
-  "family": "bensen-handwriting-v1.0",
-  "displayName": "bensen-handwriting-v1.0",
+  "family": "BenSenHandwriting",
+  "displayName": "BenSenHandwriting",
   "description": "BenSen Handwriting is a unique Bengali font that simulates natural handwriting, developed by Subrata Sen. It brings a personal, handwritten feel to digital content while maintaining readability and Bengali script authenticity.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Subrata Sen",
+  "designerUrl": "http://www.omicronlab.com or http://www.altruists.org",
+  "version": "Version 1.00 June 17, 2009, initial release",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -2571,15 +2601,16 @@ export const bensenHandwriting: FontMetadata = {
 };
 export const bornomala: FontMetadata = {
   "id": "bornomala",
-  "family": "Bornomala-Bold",
-  "displayName": "Bornomala-Bold",
+  "family": "Bornomala",
+  "displayName": "Bornomala",
   "description": "Bornomala is a Bengali font family designed for clarity and elegance.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jayed Ahsan Saad",
+  "designerUrl": "https://codepotro.com",
+  "version": "1.0.0.3",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL.",
+    "url": "http://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",
@@ -2619,12 +2650,13 @@ export const bornomala: FontMetadata = {
 };
 export const bornomalaVintage: FontMetadata = {
   "id": "bornomala-vintage",
-  "family": "BornomalaVintage",
-  "displayName": "BornomalaVintage",
+  "family": "Bornomala Vintage",
+  "displayName": "Bornomala Vintage",
   "description": "Bornomala Vintage is a classic Bengali font with a vintage aesthetic, suitable for nostalgic and traditional designs.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jayed Ahsan Saad",
+  "designerUrl": "https://codepotro.com",
+  "version": "BornomalaVintageEdition;1.000;",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -2657,15 +2689,16 @@ export const bornomalaVintage: FontMetadata = {
 };
 export const boshonto: FontMetadata = {
   "id": "boshonto",
-  "family": "Boshonto-Bold-Italic",
-  "displayName": "Boshonto-Bold-Italic",
+  "family": "Boshonto",
+  "displayName": "Boshonto",
   "description": "Boshonto typeface can be used as a Display and Paragraph font. The visual characteristic of this typeface is to express sweet and soft words as well as emotional talks.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jasem Uddin",
+  "designerUrl": "https://bengalfonts.com/by/jasem",
+  "version": "Version 1.102;March 21, 2018;",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "End-user License Agreement\r\n\r\nPreamble In this license, 'the given typeface' refers to the given .zip file, which may contain one or numerous fonts. These fonts can be of any type (.ttf, .otf, ...) and together they form a 'font family' or in short a 'typeface'. \r\n\r\nCopyright\r\nThe given typeface is the intellectual property of Bengal Fonts and its respective author \r\n\r\nPersonal Use\r\nThe given typeface may be downloaded and used free of charge for personal use, as long as the usage is not racist or illegal. Personal use refers to all usage that does not generate financial income in a business manner, for instance: \r\n- personal scrapbooking for yourself \r\n- recreational websites and blogs for friends and family \r\n- prints such as flyers, posters, t-shirts for churches, charities, and non-profit organisations \r\n\r\nCommercial Use\r\nCommercial use is not allowed without giving credit to Bengal Fonts. Commercial use refers to usage in a business environment, including: \r\n-multimeda, tv, applications, video games, or film. \r\n\r\nModification\r\nThe given typeface may not be modified, altered, adapted or built upon without written permission by its respective author. This pertains all files within the downloadable font zip-file. \r\n\r\nConversion\r\nThe given typeface may be converted to other formats such as WOFF, SVG or EOT webfonts, as long as the font is not modified in any other way, such as changing names or altering individual glyphs. \r\n\r\nDistribution\r\nWhile the given typeface may freely be copied and passed along to other individuals for private use as its original downloadable zip-file, it may not be sold or published without written permission by its respective author. \r\n\r\nEmbedding\r\nThe given typeface may be embedded into an application such as a web- or mobile app, as long as the application is of personal use and does not distribute the given typeface, such as offering it as a download. \r\n\r\nDisclaimer\r\nThe given typeface is offered 'as is' without any warranty. Bengal Fonts and the respective author of the given typeface shall not be liable for any damage derived from using this typeface. \r\nBy using the given typeface you agree to the terms of this license.",
+    "url": "https://www.bengalfonts.com/eula"
   },
   "subsets": [
     "bengali",
@@ -2743,14 +2776,15 @@ export const boshonto: FontMetadata = {
 };
 export const charuChandan: FontMetadata = {
   "id": "charu-chandan",
-  "family": "charu-chandan-v2.20",
-  "displayName": "charu-chandan-v2.20",
+  "family": "Charu Chandan Unicode",
+  "displayName": "Charu Chandan Unicode",
   "description": "Charu Chandan is an elegant Bengali font developed by Charu Chandan. It features a distinctive design that combines traditional Bengali calligraphic elements with modern typography, making it suitable for both decorative and functional uses.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Chandan Acharja",
+  "designerUrl": "https://www.charuchandan.com",
+  "version": "2.20, 20 October 2015, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright © 2015 by Chandan Acharja. All rights reserved.\r\n\r\nFont Design & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2778,14 +2812,15 @@ export const charuChandan: FontMetadata = {
 };
 export const charuChandan3d: FontMetadata = {
   "id": "charu-chandan-3d",
-  "family": "charu-chandan-3d-v1.10",
-  "displayName": "charu-chandan-3d-v1.10",
+  "family": "Charu Chandan 3D Unicode",
+  "displayName": "Charu Chandan 3D Unicode",
   "description": "Charu Chandan 3D is a unique font designed to give a three-dimensional effect, adding depth and visual interest to your text. Font Source: Charu Chandan",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Chandan Acharja",
+  "designerUrl": "http://www.charuchandan.com/",
+  "version": "1.10, 20 Oct 2016, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright © 2016 by Chandan Acharja. All rights reserved.\r\n\r\nFont Design & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2813,14 +2848,15 @@ export const charuChandan3d: FontMetadata = {
 };
 export const charuChandanHardStroke: FontMetadata = {
   "id": "charu-chandan-hard-stroke",
-  "family": "charu-chandan-hard-stroke-v2.0",
-  "displayName": "charu-chandan-hard-stroke-v2.0",
+  "family": "Charu Chandan Hard Stroke",
+  "displayName": "Charu Chandan Hard Stroke",
   "description": "Charu Chandan Hard Stroke is a distinctive font available from Charu Chandan, offering bold and impactful typography for various design needs. Font Source: Charu Chandan",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Chandan Acharja",
+  "designerUrl": "http://www.charuchandan.com/",
+  "version": "2.00, 13 July 2017, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright © 2016 by Chandan Acharja. All rights reserved.\r\n\r\nTypography & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts, University of Dhaka.\r\nWeb: www.charuchandan.com\r\nEmail: chandan0112@gmail.com\r\nCell: +8801956834106, +8801704580102",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2848,14 +2884,15 @@ export const charuChandanHardStroke: FontMetadata = {
 };
 export const charukolaUltraLight: FontMetadata = {
   "id": "charukola-ultra-light",
-  "family": "charukola-ultra-light-v1.20",
-  "displayName": "charukola-ultra-light-v1.20",
+  "family": "Charukola Ultra Light Unicode",
+  "displayName": "Charukola Ultra Light Unicode",
   "description": "Charukola Ultra Light is a font available through Charu Chandan, providing a sleek and modern typeface option for digital and print use. Font Source: Charu Chandan",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Chandan Acharja",
+  "designerUrl": "http://www.charuchandan.com/",
+  "version": "1.20, 20 Oct 2016, Chandan Acharja, Dept. of Graphic Design, Faculty of Fine Arts, University of Dhaka",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright ©2016 by Chandan Acharja. All rights reserved.\r\n\r\nTypography & Develop by Chandan Acharja,\r\nDepartment of Graphic Design, Faculty of Fine Arts,\r\nUniversity of Dhaka.\r\nWeb : www.charuchandan.com\r\nEmail : chandan0112@gmail.com\r\nMobile +8801704580102\r\n+8801956834106",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2883,15 +2920,16 @@ export const charukolaUltraLight: FontMetadata = {
 };
 export const chilekotha: FontMetadata = {
   "id": "chilekotha",
-  "family": "Chilekotha Italic",
-  "displayName": "Chilekotha Italic",
+  "family": "Chilekotha",
+  "displayName": "Chilekotha",
   "description": "Chilekotha is a Unicode-compliant, dynamic Bengali typeface with an elegant look. The dynamic stylization of the Chilekotha font represents peace and harmony. Chilekotha can be used in large sizes for headings, rather than for extended passages of body text. Chilekotha will often have more eccentric and variable designs than the simple, relatively restrained typefaces generally used for body text.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Md. Shamim Reza",
+  "designerUrl": "https://www.facebook.com/shameem.reza.167",
+  "version": "Version 1.001",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "url": "http://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",
@@ -2931,14 +2969,15 @@ export const chilekotha: FontMetadata = {
 };
 export const droho: FontMetadata = {
   "id": "droho",
-  "family": "DROHO KK V2 Unicode (2)",
-  "displayName": "DROHO KK V2 Unicode (2)",
+  "family": "DROHO KK",
+  "displayName": "DROHO KK",
   "description": "DROHO is a Bengali font with a unique character and style.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Kazi Jubair Mahmud",
+  "designerUrl": "https://www.facebook.com/kazijbr",
+  "version": "Version 2.000;August 8, 2024;FontCreator 15.0.0.2989 64-bit",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "This Font Software is copyrighted property of Lipikola under domestic and international trademark and copyright laws. You cannot Modify, Distribute, Edit, Forge or Sell this Font Software, it will be considered illegal & punishable crime in the court of law. You have to give proper credit to the owner of the Font Software- Lipikoa in your design/product detail and accept our terms & conditions.",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -2969,15 +3008,16 @@ export const droho: FontMetadata = {
 };
 export const fnMasudChowa: FontMetadata = {
   "id": "fn-masud-chowa",
-  "family": "FN Masud Chowa Bijoy 2003 Italic",
-  "displayName": "FN Masud Chowa Bijoy 2003 Italic",
+  "family": "FN Masud Chowa Bijoy2003",
+  "displayName": "FN Masud Chowa Bijoy2003",
   "description": "FN Masud Chowa is a Bengali font available from FontBD. It features a distinctive style suitable for various creative applications.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Liakat Khan",
+  "designerUrl": "https://facebook.com/liaquat.ali.9275",
+  "version": "Version 1.00;October 26, 2021;FontCreator 13.0.0.2683 64-bit",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is copyrighted property of FontBD Type Foundry under domestic and international trademark and copyright laws. You cannot Modify, Distribute, Edit, Forge or Sell this Font Software, it will be considered illegal & punishable crime in the court of law. You have to give proper credit to the owner of the Font Software- FontBD Type Foundry in your design/product detail and accept our terms & conditions.",
+    "url": "https://fontbd.com/UserCondition.php"
   },
   "subsets": [
     "bengali",
@@ -3053,15 +3093,15 @@ export const fnMasudChowa: FontMetadata = {
 };
 export const googleSans: FontMetadata = {
   "id": "google-sans",
-  "family": "GoogleSans-Bold",
-  "displayName": "GoogleSans-Bold",
+  "family": "Google Sans",
+  "displayName": "Google Sans",
   "description": "Google Sans is a geometric sans-serif typeface designed by Google. It is a proprietary font used across Google's various products and platforms.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Google Sans Authors",
+  "version": "Version 12.001;[9b76f496a]",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+    "url": "https://openfontlicense.org"
   },
   "subsets": [
     "bengali",
@@ -3230,12 +3270,12 @@ export const googleSans: FontMetadata = {
 };
 export const hindSiliguri: FontMetadata = {
   "id": "hind-siliguri",
-  "family": "HindSiliguri-Bold",
-  "displayName": "HindSiliguri-Bold",
+  "family": "Hind Siliguri",
+  "displayName": "Hind Siliguri",
   "description": "Hind Siliguri is a free Bengali typeface developed by the Indian Type Foundry (ITF). It is a part of the Hind font family and is designed for use in both digital and print media, offering a clean and modern sans-serif look for the Bengali script.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jyotish Sonowal",
+  "version": "Version 1.001;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f beng -w G -W -c -X \"\"",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -3308,12 +3348,12 @@ export const hindSiliguri: FontMetadata = {
 };
 export const julyFont: FontMetadata = {
   "id": "july-font",
-  "family": "July-Bold-Italic",
-  "displayName": "July-Bold-Italic",
+  "family": "July",
+  "displayName": "July",
   "description": "July Font is a Bengali font family providing clear and readable text.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "BCC",
+  "version": "Version: 1.000 Beta",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -3375,15 +3415,16 @@ export const julyFont: FontMetadata = {
 };
 export const kalpurush: FontMetadata = {
   "id": "kalpurush",
-  "family": "Kalpurush-v0.258",
-  "displayName": "Kalpurush-v0.258",
+  "family": "Kalpurush",
+  "displayName": "Kalpurush",
   "description": "Kalpurush is a serif styled free Bengali unicode font designed by Md. Tanbin Islam Siyam as part of the Avro Free Bangla Font Project. It is available through OmicronLab and aims to provide robust support for Bengali text rendering.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Md. Tanbin Islam Siyam",
+  "designerUrl": "http://www.omicronlab.com",
+  "version": "Version 0.258",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+    "url": "http://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",
@@ -3410,15 +3451,15 @@ export const kalpurush: FontMetadata = {
 };
 export const kohinoorBangla: FontMetadata = {
   "id": "kohinoor-bangla",
-  "family": "KohinoorBangla-Bold",
-  "displayName": "KohinoorBangla-Bold",
+  "family": "Kohinoor Bangla",
+  "displayName": "Kohinoor Bangla",
   "description": "Kohinoor Bangla is a highly legible Bengali font designed for multilingual projects and corporate branding.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Satya Rajpurohit",
+  "version": "Version 1.152;PS 1.000;hotconv 16.6.54;makeotf.lib2.5.65590",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is protected under domestic and international trademark and copyright law. You agree to identify the ITF fonts by name and credit the ITF's ownership of the trademarks and copyrights in any design or production credits.",
+    "url": "https://indiantypefoundry.com/licensing"
   },
   "subsets": [
     "bengali",
@@ -3488,12 +3529,12 @@ export const kohinoorBangla: FontMetadata = {
 };
 export const lohitBengali: FontMetadata = {
   "id": "lohit-bengali",
-  "family": "lohit-bengali-v2.5.1",
-  "displayName": "lohit-bengali-v2.5.1",
+  "family": "Lohit Bengali",
+  "displayName": "Lohit Bengali",
   "description": "Lohit Bengali is a widely-used Unicode-compliant Bengali font developed as part of the Lohit font family project. Originally designed by Automatic Control Equipments (Pune, India) and enhanced by various contributors, it has become a standard choice for Bengali text rendering across different platforms.",
   "category": "bangla",
   "designer": "Open Source Contributor",
-  "version": "1.0",
+  "version": "Version 2.5.1",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -3523,15 +3564,16 @@ export const lohitBengali: FontMetadata = {
 };
 export const mukti: FontMetadata = {
   "id": "mukti",
-  "family": "mukti-v3.4.3",
-  "displayName": "mukti-v3.4.3",
+  "family": "Mukti",
+  "displayName": "Mukti",
   "description": "Mukti is a significant Bengali font developed by Dr. Anirban Mitra under the Free Bangla Font Project. It was created to provide a high-quality, free Bengali font with comprehensive Unicode support, making it particularly suitable for digital publishing and web content.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Dr Anirban Mitra",
+  "designerUrl": "http://github.com/mitradranirban",
+  "version": "Version 3.4.3;December 5 202",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "GNU GPL3+© Mukta Bangla Font Project, Dr Anirban Mitra 2002-2022",
+    "url": "http://www.gnu.org/copyleft/gpl.htm"
   },
   "subsets": [
     "bengali",
@@ -3587,15 +3629,16 @@ export const mukti: FontMetadata = {
 };
 export const nirliptaLite: FontMetadata = {
   "id": "nirlipta-lite",
-  "family": "Nirlipta-ANSI-Italic",
-  "displayName": "Nirlipta-ANSI-Italic",
+  "family": "Nirlipta ANSI",
+  "displayName": "Nirlipta ANSI",
   "description": "Nirlipta is a handwriting-style English and Bangla font where every letter feels like a real pen stroke. It’s perfect for designers, illustrators, and content creators who want to give their work a personal, warm, and natural touch. It works seamlessly across all devices and supports both ANSI and Unicode encoding.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Kazi Nasirul Islam",
+  "designerUrl": "https://www.behance.net/nasirulislam12",
+  "version": "Designed & Developed by Bengal Fonts Team.",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "https://www.bengalfonts.com/EULA",
+    "url": "https://www.bengalfonts.com/terms"
   },
   "subsets": [
     "bengali",
@@ -3653,15 +3696,16 @@ export const nirliptaLite: FontMetadata = {
 };
 export const notoSerifBengali: FontMetadata = {
   "id": "noto-serif-bengali",
-  "family": "noto-serif-bengali-bold-v2.003",
-  "displayName": "noto-serif-bengali-bold-v2.003",
+  "family": "Noto Serif Bengali",
+  "displayName": "Noto Serif Bengali",
   "description": "Noto Serif Bengali is part of Google's comprehensive Noto font family, specifically designed to provide harmonious and elegant serif typography for Bengali script. Developed as part of Google's initiative to create a unified look across all languages on the web, it offers professional-grade typography with extensive character support.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Juan Bruce, Universal Thirst, Indian Type Foundry and the Monotype Design Team.",
+  "designerUrl": "http://www.monotype.com/studio",
+  "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "url": "https://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",
@@ -3717,12 +3761,13 @@ export const notoSerifBengali: FontMetadata = {
 };
 export const osmanHadi: FontMetadata = {
   "id": "osman-hadi",
-  "family": "Osman Hadi Insaf",
-  "displayName": "Osman Hadi Insaf",
+  "family": "Osman Hadi",
+  "displayName": "Osman Hadi",
   "description": "Osman Hadi is not merely a Bangla typeface; it is a reflection of an ideal shaped by courage in the face of injustice, commitment to truth, and the pursuit of fairness. Every letter carries strength and purpose, while preserving a sense of human warmth and clarity. This typeface reminds us that words are not just for writing, they can inspire courage, unite people, and guide us toward justice. This is our typographic tribute to carry these values forward from generation to generation.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Ismail Hossain Sifat",
+  "designerUrl": "https://m.facebook.com/ismailh.sifat/",
+  "version": "Version 1.000",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -3783,12 +3828,13 @@ export const osmanHadi: FontMetadata = {
 };
 export const potroSansBangla: FontMetadata = {
   "id": "potro-sans-bangla",
-  "family": "PotroSansBangla-Bold",
-  "displayName": "PotroSansBangla-Bold",
+  "family": "Potro Sans Bangla",
+  "displayName": "Potro Sans Bangla",
   "description": "Potro Sans Bangla is a modern sans-serif font designed specifically for the Bengali script. It offers clean lines and high legibility, making it suitable for a wide range of digital and print applications.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jayed Ahsan Saad",
+  "designerUrl": "https://codepotro.com",
+  "version": "Potro Sans Bangla;Version 0.996;CodepotroFonts;",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -3851,15 +3897,16 @@ export const potroSansBangla: FontMetadata = {
 };
 export const purno: FontMetadata = {
   "id": "purno",
-  "family": "BCC Purno Black Italic",
-  "displayName": "BCC Purno Black Italic",
+  "family": "BCC Purno Black",
+  "displayName": "BCC Purno Black",
   "description": "Purno is a comprehensive font family developed by the Bangladesh Computer Council (BCC). It is designed to providing high-quality Bengali typography for various digital and print platforms.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Bangladesh Computer Council",
+  "designerUrl": "Bangladesh Computer Council",
+  "version": "Version 2.0",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "Bangladesh Computer Council",
+    "url": "Bangladesh Computer Council"
   },
   "subsets": [
     "bengali",
@@ -4100,12 +4147,13 @@ export const purno: FontMetadata = {
 };
 export const shurjo: FontMetadata = {
   "id": "shurjo",
-  "family": "Shurjo-Regular",
-  "displayName": "Shurjo-Regular",
+  "family": "Shurjo",
+  "displayName": "Shurjo",
   "description": "A bespoke type family designed for Bangladesh’s largest newspaper, the Dainik Prothom Alo in 2017-2018, this family of 18 fonts in 9 weights was a major part of the recent redesign of the newspaper.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jacob Thomas <jacob@bengalcreativemedia.com>",
+  "designerUrl": "http://banglatypefoundry.com",
+  "version": "Version 5.001",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -4148,14 +4196,14 @@ export const shurjo: FontMetadata = {
 };
 export const siyamRupali: FontMetadata = {
   "id": "siyam-rupali",
-  "family": "siyam-rupali-v1.070",
-  "displayName": "siyam-rupali-v1.070",
+  "family": "Siyam Rupali",
+  "displayName": "Siyam Rupali",
   "description": "Siyam Rupali is a free Unicode based Bengali font hinted by Md. Tanbin Islam Siyam. It is developed under Avro Font Development Project. This font is derived from the font Rupali with better size, hinting and kerning to be used as a better display font. The designs of roman characters of the font are taken from the font Droid.",
   "category": "bangla",
   "designer": "Open Source Contributor",
-  "version": "1.0",
+  "version": "Version 1.070",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "GNU GPL",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [
@@ -4183,15 +4231,16 @@ export const siyamRupali: FontMetadata = {
 };
 export const solaimanLipi: FontMetadata = {
   "id": "solaiman-lipi",
-  "family": "solaimanlipi-bold-v1.0",
-  "displayName": "solaimanlipi-bold-v1.0",
+  "family": "SolaimanLipi",
+  "displayName": "SolaimanLipi",
   "description": "SolaimanLipi is a Unicode-compliant Bangla font designed by Solaiman Karim in 2003. It was developed as part of the Ekushey project and is redistributed by Altruists International. The font supports complete Bengali Unicode range (U+0980-U+09FF).",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Solaiman Karim",
+  "designerUrl": "https://ekushey.org/designer/solaiman-karim/",
+  "version": "Designed by Solaiman Karim | Developed Version 2.002 : Al Mamun Hossen | Software by: FontCreator 14.0",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "url": "http://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",
@@ -4238,15 +4287,16 @@ export const solaimanLipi: FontMetadata = {
 };
 export const sorob: FontMetadata = {
   "id": "sorob",
-  "family": "Sorob-Bold",
-  "displayName": "Sorob-Bold",
+  "family": "Sorob",
+  "displayName": "Sorob",
   "description": "Sorob is a Bangla display font. It’s a bold, cool, expressive in nature. Which will be very much useful for the user and designers. Mainly these fonts are for making posters, magazines, and logos as well. To make poster banners and logos, designers have to make customize types. Especially to indicate something strong and bold. It will help them to do those easily.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Imrul Kayes Sourav",
+  "designerUrl": "www.souravoriginals.com",
+  "version": "Version 1.200;",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "https://www.bengalfonts.com/EULA",
+    "url": "https://www.bengalfonts.com/terms"
   },
   "subsets": [
     "bengali",
@@ -4306,12 +4356,13 @@ export const sorob: FontMetadata = {
 };
 export const tiroBangla: FontMetadata = {
   "id": "tiro-bangla",
-  "family": "TiroBangla-Italic",
-  "displayName": "TiroBangla-Italic",
+  "family": "Tiro Bangla",
+  "displayName": "Tiro Bangla",
   "description": "Tiro Bangla is an elegant typeface crafted by renowned designers John Hudson and Fiona Ross, with valuable assistance from Neelakash Kshetrimayum. The font's heritage traces back to a typeface specifically designed for the prestigious Murty Classical Library of India book series.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Bangla: John Hudson & Fiona Ross, assisted by Neelakash Kshetrimayum. Latin: John Hudson with Paul Hanslow, assisted by Kaja Słojewska.",
+  "designerUrl": "https://www.tiro.com",
+  "version": "Version 1.52",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"
@@ -4372,15 +4423,16 @@ export const tiroBangla: FontMetadata = {
 };
 export const vrinda: FontMetadata = {
   "id": "vrinda",
-  "family": "vrinda",
-  "displayName": "vrinda",
+  "family": "Vrinda",
+  "displayName": "Vrinda",
   "description": "Vrinda is a traditional Bengali font that offers clean and legible typography, making it suitable for both digital content and print materials requiring Bengali script support.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Raghunath Joshi (Type Director), Vinay Saynekar",
+  "designerUrl": "http://www.ncst.ernet.in/~rkjoshi",
+  "version": "Version 1.03",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This font software is part of the Microsoft software product in which it was included and is provided under the end user license agreement (“EULA”) for that Microsoft software product. The terms and conditions of the EULA govern the use of font software. Please refer to the applicable Microsoft product EULA if you have any questions about how you may use this font software. Microsoft reserves all rights that are not expressly granted in the EULA. For products that may have installed this font please see the link below.",
+    "url": "http://www.microsoft.com/typography/fonts/default.aspx"
   },
   "subsets": [
     "bengali",

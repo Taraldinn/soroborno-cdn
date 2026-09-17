@@ -1,14 +1,15 @@
 {
   "id": "vrinda",
-  "family": "vrinda",
-  "displayName": "vrinda",
+  "family": "Vrinda",
+  "displayName": "Vrinda",
   "description": "Vrinda is a traditional Bengali font that offers clean and legible typography, making it suitable for both digital content and print materials requiring Bengali script support.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Raghunath Joshi (Type Director), Vinay Saynekar",
+  "designerUrl": "http://www.ncst.ernet.in/~rkjoshi",
+  "version": "Version 1.03",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This font software is part of the Microsoft software product in which it was included and is provided under the end user license agreement (“EULA”) for that Microsoft software product. The terms and conditions of the EULA govern the use of font software. Please refer to the applicable Microsoft product EULA if you have any questions about how you may use this font software. Microsoft reserves all rights that are not expressly granted in the EULA. For products that may have installed this font please see the link below.",
+    "url": "http://www.microsoft.com/typography/fonts/default.aspx"
   },
   "subsets": [
     "bengali",

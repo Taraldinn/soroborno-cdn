@@ -1,13 +1,14 @@
 {
   "id": "abirvab",
-  "family": "Abirvab-Bold Italic",
-  "displayName": "Abirvab-Bold Italic",
+  "family": "AbirvabHimel",
+  "displayName": "AbirvabHimel",
   "description": "Abirvab, a decorative bengali typeface, gives festive look at the first glance. The Font Family contains 6 styles. Abirvab is the font that suits your need for any occasion.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Thouhedul Islam Himel",
+  "designerUrl": "https://www.facebook.com/t.h.himu",
+  "version": "AbirvabHimel v6.5, 14 April 2016, Thouhedul Islam Himel, Dept. of Multimedia & Creative Technology (MCT), Daffodil International University (DIU).",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "Copyright (c) 2016 by Thouhedul Islam Himel. All rights reserved.                                                                                                                                                                                    Font Design & Develop by Thouhedul Islam Himel, \r\nDepartment of Multimedia & Creative Technology (MCT), Daffodil International University (DIU).\r\nWeb: studioarrival.com\r\nEmail: himelnandail@gmail.com\r\nCell: +8801931513165",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [

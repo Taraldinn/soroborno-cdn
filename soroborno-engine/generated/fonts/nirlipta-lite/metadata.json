@@ -1,14 +1,15 @@
 {
   "id": "nirlipta-lite",
-  "family": "Nirlipta-ANSI-Italic",
-  "displayName": "Nirlipta-ANSI-Italic",
+  "family": "Nirlipta ANSI",
+  "displayName": "Nirlipta ANSI",
   "description": "Nirlipta is a handwriting-style English and Bangla font where every letter feels like a real pen stroke. It’s perfect for designers, illustrators, and content creators who want to give their work a personal, warm, and natural touch. It works seamlessly across all devices and supports both ANSI and Unicode encoding.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Kazi Nasirul Islam",
+  "designerUrl": "https://www.behance.net/nasirulislam12",
+  "version": "Designed & Developed by Bengal Fonts Team.",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "https://www.bengalfonts.com/EULA",
+    "url": "https://www.bengalfonts.com/terms"
   },
   "subsets": [
     "bengali",

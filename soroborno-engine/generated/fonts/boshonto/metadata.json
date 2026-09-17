@@ -1,14 +1,15 @@
 {
   "id": "boshonto",
-  "family": "Boshonto-Bold-Italic",
-  "displayName": "Boshonto-Bold-Italic",
+  "family": "Boshonto",
+  "displayName": "Boshonto",
   "description": "Boshonto typeface can be used as a Display and Paragraph font. The visual characteristic of this typeface is to express sweet and soft words as well as emotional talks.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jasem Uddin",
+  "designerUrl": "https://bengalfonts.com/by/jasem",
+  "version": "Version 1.102;March 21, 2018;",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "End-user License Agreement\r\n\r\nPreamble In this license, 'the given typeface' refers to the given .zip file, which may contain one or numerous fonts. These fonts can be of any type (.ttf, .otf, ...) and together they form a 'font family' or in short a 'typeface'. \r\n\r\nCopyright\r\nThe given typeface is the intellectual property of Bengal Fonts and its respective author \r\n\r\nPersonal Use\r\nThe given typeface may be downloaded and used free of charge for personal use, as long as the usage is not racist or illegal. Personal use refers to all usage that does not generate financial income in a business manner, for instance: \r\n- personal scrapbooking for yourself \r\n- recreational websites and blogs for friends and family \r\n- prints such as flyers, posters, t-shirts for churches, charities, and non-profit organisations \r\n\r\nCommercial Use\r\nCommercial use is not allowed without giving credit to Bengal Fonts. Commercial use refers to usage in a business environment, including: \r\n-multimeda, tv, applications, video games, or film. \r\n\r\nModification\r\nThe given typeface may not be modified, altered, adapted or built upon without written permission by its respective author. This pertains all files within the downloadable font zip-file. \r\n\r\nConversion\r\nThe given typeface may be converted to other formats such as WOFF, SVG or EOT webfonts, as long as the font is not modified in any other way, such as changing names or altering individual glyphs. \r\n\r\nDistribution\r\nWhile the given typeface may freely be copied and passed along to other individuals for private use as its original downloadable zip-file, it may not be sold or published without written permission by its respective author. \r\n\r\nEmbedding\r\nThe given typeface may be embedded into an application such as a web- or mobile app, as long as the application is of personal use and does not distribute the given typeface, such as offering it as a download. \r\n\r\nDisclaimer\r\nThe given typeface is offered 'as is' without any warranty. Bengal Fonts and the respective author of the given typeface shall not be liable for any damage derived from using this typeface. \r\nBy using the given typeface you agree to the terms of this license.",
+    "url": "https://www.bengalfonts.com/eula"
   },
   "subsets": [
     "bengali",

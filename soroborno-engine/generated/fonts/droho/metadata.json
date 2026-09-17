@@ -1,13 +1,14 @@
 {
   "id": "droho",
-  "family": "DROHO KK V2 Unicode (2)",
-  "displayName": "DROHO KK V2 Unicode (2)",
+  "family": "DROHO KK",
+  "displayName": "DROHO KK",
   "description": "DROHO is a Bengali font with a unique character and style.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Kazi Jubair Mahmud",
+  "designerUrl": "https://www.facebook.com/kazijbr",
+  "version": "Version 2.000;August 8, 2024;FontCreator 15.0.0.2989 64-bit",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "This Font Software is copyrighted property of Lipikola under domestic and international trademark and copyright laws. You cannot Modify, Distribute, Edit, Forge or Sell this Font Software, it will be considered illegal & punishable crime in the court of law. You have to give proper credit to the owner of the Font Software- Lipikoa in your design/product detail and accept our terms & conditions.",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [

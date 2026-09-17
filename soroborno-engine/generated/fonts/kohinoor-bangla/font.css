@@ -1,10 +1,10 @@
-/* Soroborno Font: KohinoorBangla-Bold (kohinoor-bangla) */
+/* Soroborno Font: Kohinoor Bangla (kohinoor-bangla) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is protected under domestic and international trademark and copyright law. You agree to identify the ITF fonts by name and credit the ITF's ownership of the trademarks and copyrights in any design or production credits. */
 
 
 @font-face {
-  font-family: 'KohinoorBangla-Bold';
+  font-family: 'Kohinoor Bangla';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'KohinoorBangla-Bold';
+  font-family: 'Kohinoor Bangla';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -22,7 +22,7 @@
 }
 
 @font-face {
-  font-family: 'KohinoorBangla-Bold';
+  font-family: 'Kohinoor Bangla';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-  font-family: 'KohinoorBangla-Bold';
+  font-family: 'Kohinoor Bangla';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -40,7 +40,7 @@
 }
 
 @font-face {
-  font-family: 'KohinoorBangla-Bold';
+  font-family: 'Kohinoor Bangla';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -50,9 +50,9 @@
 
 
 .font-kohinoor-bangla {
-  font-family: 'KohinoorBangla-Bold', sans-serif;
+  font-family: 'Kohinoor Bangla', sans-serif;
 }
 
 :root {
-  --font-kohinoor-bangla: 'KohinoorBangla-Bold', sans-serif;
+  --font-kohinoor-bangla: 'Kohinoor Bangla', sans-serif;
 }

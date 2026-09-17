@@ -1,10 +1,16 @@
-/* Soroborno Font: charu-chandan-v2.20 (charu-chandan) */
+/* Soroborno Font: Charu Chandan Unicode (charu-chandan) */
 
-/* License: SIL OFL 1.1 */
+/* License: Copyright © 2015 by Chandan Acharja. All rights reserved.
+
+Font Design & Develop by Chandan Acharja,
+Department of Graphic Design, Faculty of Fine Arts, University of Dhaka.
+Web: www.charuchandan.com
+Email: chandan0112@gmail.com
+Cell: +8801956834106, +8801704580102 */
 
 
 @font-face {
-  font-family: 'charu-chandan-v2.20';
+  font-family: 'Charu Chandan Unicode';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +20,9 @@
 
 
 .font-charu-chandan {
-  font-family: 'charu-chandan-v2.20', sans-serif;
+  font-family: 'Charu Chandan Unicode', sans-serif;
 }
 
 :root {
-  --font-charu-chandan: 'charu-chandan-v2.20', sans-serif;
+  --font-charu-chandan: 'Charu Chandan Unicode', sans-serif;
 }

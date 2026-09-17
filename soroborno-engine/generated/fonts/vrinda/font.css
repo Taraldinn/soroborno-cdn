@@ -1,10 +1,10 @@
-/* Soroborno Font: vrinda (vrinda) */
+/* Soroborno Font: Vrinda (vrinda) */
 
-/* License: SIL OFL 1.1 */
+/* License: This font software is part of the Microsoft software product in which it was included and is provided under the end user license agreement (“EULA”) for that Microsoft software product. The terms and conditions of the EULA govern the use of font software. Please refer to the applicable Microsoft product EULA if you have any questions about how you may use this font software. Microsoft reserves all rights that are not expressly granted in the EULA. For products that may have installed this font please see the link below. */
 
 
 @font-face {
-  font-family: 'vrinda';
+  font-family: 'Vrinda';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-vrinda {
-  font-family: 'vrinda', sans-serif;
+  font-family: 'Vrinda', sans-serif;
 }
 
 :root {
-  --font-vrinda: 'vrinda', sans-serif;
+  --font-vrinda: 'Vrinda', sans-serif;
 }

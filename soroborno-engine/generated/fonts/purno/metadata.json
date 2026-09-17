@@ -1,14 +1,15 @@
 {
   "id": "purno",
-  "family": "BCC Purno Black Italic",
-  "displayName": "BCC Purno Black Italic",
+  "family": "BCC Purno Black",
+  "displayName": "BCC Purno Black",
   "description": "Purno is a comprehensive font family developed by the Bangladesh Computer Council (BCC). It is designed to providing high-quality Bengali typography for various digital and print platforms.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Bangladesh Computer Council",
+  "designerUrl": "Bangladesh Computer Council",
+  "version": "Version 2.0",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "Bangladesh Computer Council",
+    "url": "Bangladesh Computer Council"
   },
   "subsets": [
     "bengali",

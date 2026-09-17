@@ -1,10 +1,10 @@
-/* Soroborno Font: lohit-bengali-v2.5.1 (lohit-bengali) */
+/* Soroborno Font: Lohit Bengali (lohit-bengali) */
 
 /* License: SIL OFL 1.1 */
 
 
 @font-face {
-  font-family: 'lohit-bengali-v2.5.1';
+  font-family: 'Lohit Bengali';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-lohit-bengali {
-  font-family: 'lohit-bengali-v2.5.1', sans-serif;
+  font-family: 'Lohit Bengali', sans-serif;
 }
 
 :root {
-  --font-lohit-bengali: 'lohit-bengali-v2.5.1', sans-serif;
+  --font-lohit-bengali: 'Lohit Bengali', sans-serif;
 }

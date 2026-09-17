@@ -1,13 +1,13 @@
 {
   "id": "siyam-rupali",
-  "family": "siyam-rupali-v1.070",
-  "displayName": "siyam-rupali-v1.070",
+  "family": "Siyam Rupali",
+  "displayName": "Siyam Rupali",
   "description": "Siyam Rupali is a free Unicode based Bengali font hinted by Md. Tanbin Islam Siyam. It is developed under Avro Font Development Project. This font is derived from the font Rupali with better size, hinting and kerning to be used as a better display font. The designs of roman characters of the font are taken from the font Droid.",
   "category": "bangla",
   "designer": "Open Source Contributor",
-  "version": "1.0",
+  "version": "Version 1.070",
   "license": {
-    "name": "SIL OFL 1.1",
+    "name": "GNU GPL",
     "url": "https://openfontlicense.org/"
   },
   "subsets": [

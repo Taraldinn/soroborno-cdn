@@ -1,10 +1,10 @@
-/* Soroborno Font: Kalpurush-v0.258 (kalpurush) */
+/* Soroborno Font: Kalpurush (kalpurush) */
 
-/* License: SIL OFL 1.1 */
+/* License: This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL */
 
 
 @font-face {
-  font-family: 'Kalpurush-v0.258';
+  font-family: 'Kalpurush';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-kalpurush {
-  font-family: 'Kalpurush-v0.258', sans-serif;
+  font-family: 'Kalpurush', sans-serif;
 }
 
 :root {
-  --font-kalpurush: 'Kalpurush-v0.258', sans-serif;
+  --font-kalpurush: 'Kalpurush', sans-serif;
 }

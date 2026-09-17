@@ -1,14 +1,14 @@
 {
   "id": "google-sans",
-  "family": "GoogleSans-Bold",
-  "displayName": "GoogleSans-Bold",
+  "family": "Google Sans",
+  "displayName": "Google Sans",
   "description": "Google Sans is a geometric sans-serif typeface designed by Google. It is a proprietary font used across Google's various products and platforms.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Google Sans Authors",
+  "version": "Version 12.001;[9b76f496a]",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+    "url": "https://openfontlicense.org"
   },
   "subsets": [
     "bengali",

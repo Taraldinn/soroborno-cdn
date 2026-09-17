@@ -1,14 +1,15 @@
 {
   "id": "noto-serif-bengali",
-  "family": "noto-serif-bengali-bold-v2.003",
-  "displayName": "noto-serif-bengali-bold-v2.003",
+  "family": "Noto Serif Bengali",
+  "displayName": "Noto Serif Bengali",
   "description": "Noto Serif Bengali is part of Google's comprehensive Noto font family, specifically designed to provide harmonious and elegant serif typography for Bengali script. Developed as part of Google's initiative to create a unified look across all languages on the web, it offers professional-grade typography with extensive character support.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Juan Bruce, Universal Thirst, Indian Type Foundry and the Monotype Design Team.",
+  "designerUrl": "http://www.monotype.com/studio",
+  "version": "Version 2.003; ttfautohint (v1.8.4.7-5d5b)",
   "license": {
-    "name": "SIL OFL 1.1",
-    "url": "https://openfontlicense.org/"
+    "name": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "url": "https://scripts.sil.org/OFL"
   },
   "subsets": [
     "bengali",

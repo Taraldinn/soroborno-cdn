@@ -1,11 +1,12 @@
 {
   "id": "potro-sans-bangla",
-  "family": "PotroSansBangla-Bold",
-  "displayName": "PotroSansBangla-Bold",
+  "family": "Potro Sans Bangla",
+  "displayName": "Potro Sans Bangla",
   "description": "Potro Sans Bangla is a modern sans-serif font designed specifically for the Bengali script. It offers clean lines and high legibility, making it suitable for a wide range of digital and print applications.",
   "category": "bangla",
-  "designer": "Open Source Contributor",
-  "version": "1.0",
+  "designer": "Jayed Ahsan Saad",
+  "designerUrl": "https://codepotro.com",
+  "version": "Potro Sans Bangla;Version 0.996;CodepotroFonts;",
   "license": {
     "name": "SIL OFL 1.1",
     "url": "https://openfontlicense.org/"

@@ -1,10 +1,10 @@
-/* Soroborno Font: bensen-handwriting-v1.0 (bensen-handwriting) */
+/* Soroborno Font: BenSenHandwriting (bensen-handwriting) */
 
 /* License: SIL OFL 1.1 */
 
 
 @font-face {
-  font-family: 'bensen-handwriting-v1.0';
+  font-family: 'BenSenHandwriting';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -14,9 +14,9 @@
 
 
 .font-bensen-handwriting {
-  font-family: 'bensen-handwriting-v1.0', sans-serif;
+  font-family: 'BenSenHandwriting', sans-serif;
 }
 
 :root {
-  --font-bensen-handwriting: 'bensen-handwriting-v1.0', sans-serif;
+  --font-bensen-handwriting: 'BenSenHandwriting', sans-serif;
 }
